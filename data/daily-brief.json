@@ -1,236 +1,400 @@
 {
-  "generated_at": "2026-08-09T10:36:37.032714Z",
+  "generated_at": "2026-08-12T13:55:47.520230Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 20,
   "items": [
     {
-      "story_id": "story_adfff91a73dc",
-      "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-      "primary_url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+      "story_id": "story_c27a5b0e8673",
+      "title": "从协助到执行：企业如何让AI发挥作用 / From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "primary_url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "760b01fd6fce24599e5011d7b6fc5d0faa66258d",
+          "title": "从协助到执行：企业如何让AI发挥作用 / From assistance to execution: How enterprises put AI to work",
+          "title_zh": "从协助到执行：企业如何让AI发挥作用",
+          "title_en": "From assistance to execution: How enterprises put AI to work",
+          "title_original": "From assistance to execution: How enterprises put AI to work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T06:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "760b01fd6fce24599e5011d7b6fc5d0faa66258d",
+          "title": "从协助到执行：企业如何让AI发挥作用 / From assistance to execution: How enterprises put AI to work",
+          "title_zh": "从协助到执行：企业如何让AI发挥作用",
+          "title_en": "From assistance to execution: How enterprises put AI to work",
+          "title_original": "From assistance to execution: How enterprises put AI to work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T06:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8325,
+      "importance": 0.8325,
+      "importance_score": 0.8325,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8918,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T06:00:00Z",
+      "latest_at": "2026-08-12T06:00:00Z",
+      "primary_item": {
+        "id": "760b01fd6fce24599e5011d7b6fc5d0faa66258d",
+        "title": "从协助到执行：企业如何让AI发挥作用 / From assistance to execution: How enterprises put AI to work",
+        "title_zh": "从协助到执行：企业如何让AI发挥作用",
+        "title_en": "From assistance to execution: How enterprises put AI to work",
+        "title_original": "From assistance to execution: How enterprises put AI to work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T13:56:29.698802Z"
+      }
+    },
+    {
+      "story_id": "story_5d259fa5549c",
+      "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+      "primary_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "75b03ab3d29079ef7777ecfe34d715fd124b0e6f",
+          "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "title_zh": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
+          "title_en": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "title_original": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T17:00:00Z"
+        },
+        {
+          "id": "ed80cc76f03944ad704e39a7ee20e3275fa1411c",
+          "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE， our research medical AI system， demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "title_zh": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
+          "title_en": "AMIE， our research medical AI system， demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "title_original": "AMIE， our research medical AI system， demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "summary": "Google Research 与 Google DeepMind 推进医疗 AI 系统 AMIE，实现实时临床视频问诊，首次在此场景展示专家级 AI 能力。该系统基于 Gemini 和 Project Astra 构建，可解读视觉与听觉线索、引导虚拟体格检查并实时诊断推理。随机研究中，临床评估者对 AMIE 的病史采集、诊断准确性等核心能力给予好评，患者演员也更偏好视频体验。",
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T17:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google AI Blog",
+        "Google Blog：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "75b03ab3d29079ef7777ecfe34d715fd124b0e6f",
+          "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "title_zh": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
+          "title_en": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "title_original": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T17:00:00Z"
+        },
+        {
+          "id": "ed80cc76f03944ad704e39a7ee20e3275fa1411c",
+          "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE， our research medical AI system， demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "title_zh": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
+          "title_en": "AMIE， our research medical AI system， demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "title_original": "AMIE， our research medical AI system， demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "summary": "Google Research 与 Google DeepMind 推进医疗 AI 系统 AMIE，实现实时临床视频问诊，首次在此场景展示专家级 AI 能力。该系统基于 Gemini 和 Project Astra 构建，可解读视觉与听觉线索、引导虚拟体格检查并实时诊断推理。随机研究中，临床评估者对 AMIE 的病史采集、诊断准确性等核心能力给予好评，患者演员也更偏好视频体验。",
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T17:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.822,
+      "importance": 0.822,
+      "importance_score": 0.822,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7392,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T17:00:00Z",
+      "latest_at": "2026-08-11T17:00:00Z",
+      "primary_item": {
+        "id": "75b03ab3d29079ef7777ecfe34d715fd124b0e6f",
+        "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+        "title_zh": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
+        "title_en": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+        "title_original": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T13:56:29.698802Z"
+      }
+    },
+    {
+      "story_id": "story_d21fb74b185b",
+      "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+      "primary_url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
+          "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "title_zh": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama",
+          "title_en": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "title_original": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T20:15:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
+          "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "title_zh": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama",
+          "title_en": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "title_original": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T20:15:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7748,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T20:15:55Z",
+      "latest_at": "2026-08-11T20:15:55Z",
+      "primary_item": {
+        "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
+        "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
+        "title_zh": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama",
+        "title_en": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+        "title_original": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T13:56:29.698802Z"
+      }
+    },
+    {
+      "story_id": "story_49365c8a72d6",
+      "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
+      "primary_url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
-          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "id": "569806d6cb20daf6aeb1260133527beaa03afeaf",
+          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+          "title_zh": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
           "title_en": null,
-          "title_original": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
+          "title_original": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+          "summary": "面向医学研究者的网站 Research Gold 宣称其服务\"100%由人类撰写、绝不使用AI\"，并列出多名博士审稿人。但调查发现，这些审稿人系AI生成、并不存在；部分真实方法学家的身份和照片未经许可被挪用。致电该公司时，自称\"Sarah\"的AI助手坚称自己是真人，邮件与聊天回复也均为AI生成。",
           "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-08T14:38:40.439000Z"
+          "published_at": "2026-08-12T05:41:30.137000Z"
         },
         {
-          "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
-          "title": "现在我们有了OpenAI意外攻击Hugging Face事件的时间线 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "现在我们有了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-08T14:06:41Z"
-        },
-        {
-          "id": "b5fc60704b2aa5162388492b379dd00d2b12aea4",
-          "title": "OpenAI 误伤 Hugging Face 事件时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "OpenAI 误伤 Hugging Face 事件时间线",
-          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49220609",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T15:20:44.196000Z"
-        },
-        {
-          "id": "64fa3f9e49363fc2819186bd8757cd00d59a6545",
-          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+          "id": "6902298efece3c7b675fccd584b5df9579576535",
+          "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
+          "title_zh": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
           "title_en": null,
-          "title_original": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+          "title_original": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "simonwillison.net",
+          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
+          "source": "www.404media.co",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-08T14:38:40.439000Z"
+          "published_at": "2026-08-12T05:41:30.137000Z"
         },
         {
-          "id": "4d15169b132bea5df501427ef44496c13ad48c19",
-          "title": "现在我们有了OpenAI意外攻击Hugging Face事件的时间线 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "现在我们有了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
+          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+          "title_zh": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+          "title_en": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+          "title_original": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49220609",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T12:50:28.307000Z"
-        },
-        {
-          "id": "29407e5727109cce76c77d1f73cb883e658a308f",
-          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T10:57:44Z"
-        },
-        {
-          "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
-          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-08T10:57:44Z"
+          "published_at": "2026-08-12T02:05:42Z"
         }
       ],
-      "source_count": 7,
+      "source_count": 3,
       "source_names": [
-        "Hacker News",
         "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Simon Willison",
-        "hackernews",
-        "simonwillison.net"
+        "www.404media.co"
       ],
       "items": [
         {
-          "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
-          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "id": "569806d6cb20daf6aeb1260133527beaa03afeaf",
+          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+          "title_zh": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
           "title_en": null,
-          "title_original": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
+          "title_original": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+          "summary": "面向医学研究者的网站 Research Gold 宣称其服务\"100%由人类撰写、绝不使用AI\"，并列出多名博士审稿人。但调查发现，这些审稿人系AI生成、并不存在；部分真实方法学家的身份和照片未经许可被挪用。致电该公司时，自称\"Sarah\"的AI助手坚称自己是真人，邮件与聊天回复也均为AI生成。",
           "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-08T14:38:40.439000Z"
+          "published_at": "2026-08-12T05:41:30.137000Z"
         },
         {
-          "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
-          "title": "现在我们有了OpenAI意外攻击Hugging Face事件的时间线 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "现在我们有了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-08T14:06:41Z"
-        },
-        {
-          "id": "b5fc60704b2aa5162388492b379dd00d2b12aea4",
-          "title": "OpenAI 误伤 Hugging Face 事件时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "OpenAI 误伤 Hugging Face 事件时间线",
-          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49220609",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T15:20:44.196000Z"
-        },
-        {
-          "id": "64fa3f9e49363fc2819186bd8757cd00d59a6545",
-          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+          "id": "6902298efece3c7b675fccd584b5df9579576535",
+          "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
+          "title_zh": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
           "title_en": null,
-          "title_original": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+          "title_original": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "simonwillison.net",
+          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
+          "source": "www.404media.co",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-08T14:38:40.439000Z"
+          "published_at": "2026-08-12T05:41:30.137000Z"
         },
         {
-          "id": "4d15169b132bea5df501427ef44496c13ad48c19",
-          "title": "现在我们有了OpenAI意外攻击Hugging Face事件的时间线 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "现在我们有了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
+          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+          "title_zh": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+          "title_en": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+          "title_original": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49220609",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T12:50:28.307000Z"
-        },
-        {
-          "id": "29407e5727109cce76c77d1f73cb883e658a308f",
-          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T10:57:44Z"
-        },
-        {
-          "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
-          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-08T10:57:44Z"
+          "published_at": "2026-08-12T02:05:42Z"
         }
       ],
-      "item_count": 7,
-      "duplicate_count": 7,
-      "score": 0.8555,
-      "importance": 0.8555,
-      "importance_score": 0.8555,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8094,
+      "importance": 0.8094,
+      "importance_score": 0.8094,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.83,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7495,
-        "story_heat": 1.0
+        "recency": 0.8878,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
@@ -238,17 +402,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-08T10:57:44Z",
-      "latest_at": "2026-08-08T15:20:44.196000Z",
+      "earliest_at": "2026-08-12T02:05:42Z",
+      "latest_at": "2026-08-12T05:41:30.137000Z",
       "primary_item": {
-        "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
-        "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-        "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+        "id": "569806d6cb20daf6aeb1260133527beaa03afeaf",
+        "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+        "title_zh": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
         "title_en": null,
-        "title_original": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-        "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
+        "title_original": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+        "summary": "面向医学研究者的网站 Research Gold 宣称其服务\"100%由人类撰写、绝不使用AI\"，并列出多名博士审稿人。但调查发现，这些审稿人系AI生成、并不存在；部分真实方法学家的身份和照片未经许可被挪用。致电该公司时，自称\"Sarah\"的AI助手坚称自己是真人，邮件与聊天回复也均为AI生成。",
         "recommend_reason_zh": null,
-        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+        "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       },
@@ -256,276 +420,522 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:37:21.584882Z"
+        "scored_at": "2026-08-12T13:56:29.698802Z"
       }
     },
     {
-      "story_id": "story_89f0f7e97237",
-      "title": "Seedance 2.5 上线一周新增六种创意玩法",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
-      "source": "公众号：卡尔的AI沃茨",
-      "source_name": "AI HOT",
+      "story_id": "story_c246dedc40ae",
+      "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f457c769b1a1749686824ffbe42d7d4feaeb6009",
-          "title": "Seedance 2.5 上线一周新增六种创意玩法",
-          "title_zh": "Seedance 2.5 上线一周新增六种创意玩法",
-          "title_en": null,
-          "title_original": "Seedance 2.5 上线一周新增六种创意玩法",
-          "summary": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别\"AI 油腻感\"，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T05:25:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：卡尔的AI沃茨"
-      ],
-      "items": [
-        {
-          "id": "f457c769b1a1749686824ffbe42d7d4feaeb6009",
-          "title": "Seedance 2.5 上线一周新增六种创意玩法",
-          "title_zh": "Seedance 2.5 上线一周新增六种创意玩法",
-          "title_en": null,
-          "title_original": "Seedance 2.5 上线一周新增六种创意玩法",
-          "summary": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别\"AI 油腻感\"，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T05:25:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9278,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-09T05:25:02Z",
-      "latest_at": "2026-08-09T05:25:02Z",
-      "primary_item": {
-        "id": "f457c769b1a1749686824ffbe42d7d4feaeb6009",
-        "title": "Seedance 2.5 上线一周新增六种创意玩法",
-        "title_zh": "Seedance 2.5 上线一周新增六种创意玩法",
-        "title_en": null,
-        "title_original": "Seedance 2.5 上线一周新增六种创意玩法",
-        "summary": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别\"AI 油腻感\"，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
-        "source": "公众号：卡尔的AI沃茨",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:37:21.584882Z"
-      }
-    },
-    {
-      "story_id": "story_5da542bcba7e",
-      "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习 / IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-      "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
-      "primary_url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9d0376059a540cf55332476d773f52e93dce002c",
-          "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习 / IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-          "title_zh": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
-          "title_en": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-          "title_original": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-          "summary": "本教程基于Stanford IMDb数据集构建端到端情感分析流程，对比TF-IDF逻辑回归基线与LoRA微调的DistilBERT。模型评估涵盖准确率、macro-F1、ROC-AUC及期望校准误差，并分析置信错误、长度影响与词级遮挡显著性。最后利用未标注IMDb数据做置信度伪标注，比较半监督模型与基线，保存合并后的Transformer用于推理。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T07:17:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9d0376059a540cf55332476d773f52e93dce002c",
-          "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习 / IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-          "title_zh": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
-          "title_en": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-          "title_original": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-          "summary": "本教程基于Stanford IMDb数据集构建端到端情感分析流程，对比TF-IDF逻辑回归基线与LoRA微调的DistilBERT。模型评估涵盖准确率、macro-F1、ROC-AUC及期望校准误差，并分析置信错误、长度影响与词级遮挡显著性。最后利用未标注IMDb数据做置信度伪标注，比较半监督模型与基线，保存合并后的Transformer用于推理。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T07:17:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7532,
-      "importance": 0.7532,
-      "importance_score": 0.7532,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9532,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-09T07:17:35Z",
-      "latest_at": "2026-08-09T07:17:35Z",
-      "primary_item": {
-        "id": "9d0376059a540cf55332476d773f52e93dce002c",
-        "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习 / IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-        "title_zh": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
-        "title_en": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-        "title_original": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-        "summary": "本教程基于Stanford IMDb数据集构建端到端情感分析流程，对比TF-IDF逻辑回归基线与LoRA微调的DistilBERT。模型评估涵盖准确率、macro-F1、ROC-AUC及期望校准误差，并分析置信错误、长度影响与词级遮挡显著性。最后利用未标注IMDb数据做置信度伪标注，比较半监督模型与基线，保存合并后的Transformer用于推理。",
-        "recommend_reason_zh": null,
-        "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:37:21.584882Z"
-      }
-    },
-    {
-      "story_id": "story_019e440fd20f",
-      "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
-          "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
+          "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
+          "title_zh": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用",
+          "title_en": "MAI-Code-1.1-Flash available in GitHub Copilot",
+          "title_original": "MAI-Code-1.1-Flash available in GitHub Copilot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-09T03:30:30Z"
+          "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T18:13:56Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Daily Digest"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
-          "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
+          "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
+          "title_zh": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用",
+          "title_en": "MAI-Code-1.1-Flash available in GitHub Copilot",
+          "title_original": "MAI-Code-1.1-Flash available in GitHub Copilot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-09T03:30:30Z"
+          "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T18:13:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
-      "importance_label": "行业动态",
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9025,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7524,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-09T03:30:30Z",
-      "latest_at": "2026-08-09T03:30:30Z",
+      "earliest_at": "2026-08-11T18:13:56Z",
+      "latest_at": "2026-08-11T18:13:56Z",
       "primary_item": {
-        "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
-        "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-        "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-        "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+        "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
+        "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
+        "title_zh": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用",
+        "title_en": "MAI-Code-1.1-Flash available in GitHub Copilot",
+        "title_original": "MAI-Code-1.1-Flash available in GitHub Copilot",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
+        "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:37:21.584882Z"
+        "scored_at": "2026-08-12T13:56:29.698802Z"
       }
     },
     {
-      "story_id": "story_7bfb99629928",
-      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-      "url": "https://www.ithome.com/0/987/452.htm",
-      "primary_url": "https://www.ithome.com/0/987/452.htm",
+      "story_id": "story_8bee042859df",
+      "title": "Runway Seedance 2.5 上线，支持50角色参考 / A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+      "url": "https://x.com/runwayml/status/2087251184658657346",
+      "primary_url": "https://x.com/runwayml/status/2087251184658657346",
+      "source": "X：Runway (@runwayml)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
+          "title": "Runway Seedance 2.5 上线，支持50角色参考 / A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+          "title_zh": "Runway Seedance 2.5 上线，支持50角色参考",
+          "title_en": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+          "title_original": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+          "summary": "完整阵容，完整曲目，一次生成一个。\n\nSeedance 2.5 已在 Runway 上线，支持 50 个独特角色参考，以及最长 30 秒、与音乐同步的片段。点击下方链接即可开始使用。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/runwayml/status/2087251184658657346",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T18:53:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Runway (@runwayml)"
+      ],
+      "items": [
+        {
+          "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
+          "title": "Runway Seedance 2.5 上线，支持50角色参考 / A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+          "title_zh": "Runway Seedance 2.5 上线，支持50角色参考",
+          "title_en": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+          "title_original": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+          "summary": "完整阵容，完整曲目，一次生成一个。\n\nSeedance 2.5 已在 Runway 上线，支持 50 个独特角色参考，以及最长 30 秒、与音乐同步的片段。点击下方链接即可开始使用。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/runwayml/status/2087251184658657346",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T18:53:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7597,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T18:53:56Z",
+      "latest_at": "2026-08-11T18:53:56Z",
+      "primary_item": {
+        "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
+        "title": "Runway Seedance 2.5 上线，支持50角色参考 / A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+        "title_zh": "Runway Seedance 2.5 上线，支持50角色参考",
+        "title_en": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+        "title_original": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+        "summary": "完整阵容，完整曲目，一次生成一个。\n\nSeedance 2.5 已在 Runway 上线，支持 50 个独特角色参考，以及最长 30 秒、与音乐同步的片段。点击下方链接即可开始使用。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/runwayml/status/2087251184658657346",
+        "source": "X：Runway (@runwayml)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T13:56:29.698802Z"
+      }
+    },
+    {
+      "story_id": "story_17d6705d1084",
+      "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+      "url": "https://www.aibase.com/news/30276",
+      "primary_url": "https://www.aibase.com/news/30276",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "19885d82860a200a6c11b27212173a78ac3ba013",
+          "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "title_zh": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "title_en": null,
+          "title_original": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30276",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T13:55:47.520230Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "19885d82860a200a6c11b27212173a78ac3ba013",
+          "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "title_zh": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "title_en": null,
+          "title_original": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30276",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T13:55:47.520230Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T13:55:47.520230Z",
+      "latest_at": "2026-08-12T13:55:47.520230Z",
+      "primary_item": {
+        "id": "19885d82860a200a6c11b27212173a78ac3ba013",
+        "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+        "title_zh": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+        "title_en": null,
+        "title_original": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30276",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T13:56:29.698802Z"
+      }
+    },
+    {
+      "story_id": "story_208a14008235",
+      "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+      "url": "https://x.com/OpenRouter/status/2087509478480765218",
+      "primary_url": "https://x.com/OpenRouter/status/2087509478480765218",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
+          "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "title_zh": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
+          "title_en": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "title_original": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "summary": "Meta AI 超级智能实验室的首个开放权重模型 Muse Glimmer 已在 OpenRouter 上线！\n\n这是一款 30B 密集文本+图像模型，采用 Apache 2.0 许可证，旨在成为可靠的本地智能体，MCP Atlas 得分 75.5，SWE-Bench Pro 得分 51.2。\n\nhttps://openrouter.ai/meta/muse-glimmer-30b",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2087509478480765218",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T12:00:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
+          "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "title_zh": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
+          "title_en": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "title_original": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "summary": "Meta AI 超级智能实验室的首个开放权重模型 Muse Glimmer 已在 OpenRouter 上线！\n\n这是一款 30B 密集文本+图像模型，采用 Apache 2.0 许可证，旨在成为可靠的本地智能体，MCP Atlas 得分 75.5，SWE-Bench Pro 得分 51.2。\n\nhttps://openrouter.ai/meta/muse-glimmer-30b",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2087509478480765218",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T12:00:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9726,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T12:00:18Z",
+      "latest_at": "2026-08-12T12:00:18Z",
+      "primary_item": {
+        "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
+        "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+        "title_zh": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
+        "title_en": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+        "title_original": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+        "summary": "Meta AI 超级智能实验室的首个开放权重模型 Muse Glimmer 已在 OpenRouter 上线！\n\n这是一款 30B 密集文本+图像模型，采用 Apache 2.0 许可证，旨在成为可靠的本地智能体，MCP Atlas 得分 75.5，SWE-Bench Pro 得分 51.2。\n\nhttps://openrouter.ai/meta/muse-glimmer-30b",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenRouter/status/2087509478480765218",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T13:56:29.698802Z"
+      }
+    },
+    {
+      "story_id": "story_7799176b7000",
+      "title": "ChatGPT 桌面端支持导入其他智能体工作数据 / You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
+      "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+      "primary_url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9024af61e406cc4fb1c6876b8f915e9d9f24896d",
+          "title": "ChatGPT 桌面端支持导入其他智能体工作数据 / You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
+          "title_zh": "ChatGPT 桌面端支持导入其他智能体工作数据",
+          "title_en": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
+          "title_original": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
+          "summary": "你现在可以将其他智能体的工作内容与 ChatGPT Work 和 Codex 保持同步。\n\n可导入项目、聊天记录、技能和插件，查看导入历史，并可在设置中选择开启自动更新。\n\n现已在 ChatGPT 桌面应用中提供。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T18:20:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI Developers (@OpenAIDevs)"
+      ],
+      "items": [
+        {
+          "id": "9024af61e406cc4fb1c6876b8f915e9d9f24896d",
+          "title": "ChatGPT 桌面端支持导入其他智能体工作数据 / You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
+          "title_zh": "ChatGPT 桌面端支持导入其他智能体工作数据",
+          "title_en": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
+          "title_original": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
+          "summary": "你现在可以将其他智能体的工作内容与 ChatGPT Work 和 Codex 保持同步。\n\n可导入项目、聊天记录、技能和插件，查看导入历史，并可在设置中选择开启自动更新。\n\n现已在 ChatGPT 桌面应用中提供。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T18:20:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7567,
+      "importance": 0.7567,
+      "importance_score": 0.7567,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7537,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T18:20:44Z",
+      "latest_at": "2026-08-11T18:20:44Z",
+      "primary_item": {
+        "id": "9024af61e406cc4fb1c6876b8f915e9d9f24896d",
+        "title": "ChatGPT 桌面端支持导入其他智能体工作数据 / You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
+        "title_zh": "ChatGPT 桌面端支持导入其他智能体工作数据",
+        "title_en": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
+        "title_original": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
+        "summary": "你现在可以将其他智能体的工作内容与 ChatGPT Work 和 Codex 保持同步。\n\n可导入项目、聊天记录、技能和插件，查看导入历史，并可在设置中选择开启自动更新。\n\n现已在 ChatGPT 桌面应用中提供。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T13:56:29.698802Z"
+      }
+    },
+    {
+      "story_id": "story_8a4c14a3381a",
+      "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
+          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
+          "title_zh": "ChatGPT 与 Gemini 双双突破 10 亿用户",
+          "title_en": "ChatGPT and Gemini both just passed 1 billion users",
+          "title_original": "ChatGPT and Gemini both just passed 1 billion users",
+          "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T19:41:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
+          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
+          "title_zh": "ChatGPT 与 Gemini 双双突破 10 亿用户",
+          "title_en": "ChatGPT and Gemini both just passed 1 billion users",
+          "title_original": "ChatGPT and Gemini both just passed 1 billion users",
+          "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T19:41:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7685,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-11T19:41:42Z",
+      "latest_at": "2026-08-11T19:41:42Z",
+      "primary_item": {
+        "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
+        "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
+        "title_zh": "ChatGPT 与 Gemini 双双突破 10 亿用户",
+        "title_en": "ChatGPT and Gemini both just passed 1 billion users",
+        "title_original": "ChatGPT and Gemini both just passed 1 billion users",
+        "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T13:56:29.698802Z"
+      }
+    },
+    {
+      "story_id": "story_47e0b6570ca0",
+      "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+      "url": "https://www.ithome.com/0/988/766.htm",
+      "primary_url": "https://www.ithome.com/0/988/766.htm",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
-          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
+          "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+          "title_zh": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
           "title_en": null,
-          "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+          "title_original": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+          "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1，000 万美元的组织可免费使用。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/452.htm",
+          "url": "https://www.ithome.com/0/988/766.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-08T22:46:14Z"
+          "published_at": "2026-08-12T06:46:51Z"
         }
       ],
       "source_count": 1,
@@ -534,48 +944,48 @@
       ],
       "items": [
         {
-          "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
-          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
+          "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+          "title_zh": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
           "title_en": null,
-          "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+          "title_original": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+          "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1，000 万美元的组织可免费使用。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/452.htm",
+          "url": "https://www.ithome.com/0/988/766.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-08T22:46:14Z"
+          "published_at": "2026-08-12T06:46:51Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7469,
+      "importance": 0.7469,
+      "importance_score": 0.7469,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8428,
+        "recency": 0.9019,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-08T22:46:14Z",
-      "latest_at": "2026-08-08T22:46:14Z",
+      "earliest_at": "2026-08-12T06:46:51Z",
+      "latest_at": "2026-08-12T06:46:51Z",
       "primary_item": {
-        "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
-        "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-        "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+        "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
+        "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+        "title_zh": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
         "title_en": null,
-        "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-        "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+        "title_original": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+        "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1，000 万美元的组织可免费使用。",
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/987/452.htm",
+        "url": "https://www.ithome.com/0/988/766.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       },
@@ -583,192 +993,714 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:37:21.584882Z"
+        "scored_at": "2026-08-12T13:56:29.698802Z"
       }
     },
     {
-      "story_id": "story_8d401dc43acf",
-      "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
-      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
-      "primary_url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
-      "source": "Ars Technica：AI（RSS）",
+      "story_id": "story_c157368be595",
+      "title": "研究人员发现可读取ChatGPT等模型加密推理过程的API漏洞 / \"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
+      "url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning",
+      "primary_url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6377e846dbe04690f9b9eeeb73e378ad3d846b19",
-          "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
-          "title_zh": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
-          "title_en": "DeepMind's hurricane model bought forecasters an extra day",
-          "title_original": "DeepMind's hurricane model bought forecasters an extra day",
-          "summary": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。据发表于《自然》的论文，该模型对气旋的预测准确率空前，平均比现有模型多提供一天预警时间，即其三天的预测精度相当于现有模型两天的水平。",
+          "id": "124d1b2bb503e35587e3196646752b9fbec9491b",
+          "title": "研究人员发现可读取ChatGPT等模型加密推理过程的API漏洞 / \"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
+          "title_zh": "研究人员发现可读取ChatGPT等模型加密推理过程的API漏洞",
+          "title_en": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
+          "title_original": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
+          "summary": "Alexander Panfilov团队发现OpenAI、Anthropic、Google等主要AI提供商API存在漏洞，可读取推理模型的加密思考过程。扫描约7000条公开会话发现62个API密钥、33个邮箱和33个密码。通过越狱，Anthropic的Haiku 4.5可逐字转写Opus 4.8的原始推理；解码10000条推理轨迹的API成本约720美元。",
           "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
-          "source": "Ars Technica：AI（RSS）",
+          "url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-08T11:05:50Z"
+          "published_at": "2026-08-11T17:38:49Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Ars Technica：AI（RSS）"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "6377e846dbe04690f9b9eeeb73e378ad3d846b19",
-          "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
-          "title_zh": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
-          "title_en": "DeepMind's hurricane model bought forecasters an extra day",
-          "title_original": "DeepMind's hurricane model bought forecasters an extra day",
-          "summary": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。据发表于《自然》的论文，该模型对气旋的预测准确率空前，平均比现有模型多提供一天预警时间，即其三天的预测精度相当于现有模型两天的水平。",
+          "id": "124d1b2bb503e35587e3196646752b9fbec9491b",
+          "title": "研究人员发现可读取ChatGPT等模型加密推理过程的API漏洞 / \"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
+          "title_zh": "研究人员发现可读取ChatGPT等模型加密推理过程的API漏洞",
+          "title_en": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
+          "title_original": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
+          "summary": "Alexander Panfilov团队发现OpenAI、Anthropic、Google等主要AI提供商API存在漏洞，可读取推理模型的加密思考过程。扫描约7000条公开会话发现62个API密钥、33个邮箱和33个密码。通过越狱，Anthropic的Haiku 4.5可逐字转写Opus 4.8的原始推理；解码10000条推理轨迹的API成本约720美元。",
           "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
-          "source": "Ars Technica：AI（RSS）",
+          "url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-08T11:05:50Z"
+          "published_at": "2026-08-11T17:38:49Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7308,
-      "importance": 0.7308,
-      "importance_score": 0.7308,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7461,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-11T17:38:49Z",
+      "latest_at": "2026-08-11T17:38:49Z",
+      "primary_item": {
+        "id": "124d1b2bb503e35587e3196646752b9fbec9491b",
+        "title": "研究人员发现可读取ChatGPT等模型加密推理过程的API漏洞 / \"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
+        "title_zh": "研究人员发现可读取ChatGPT等模型加密推理过程的API漏洞",
+        "title_en": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
+        "title_original": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
+        "summary": "Alexander Panfilov团队发现OpenAI、Anthropic、Google等主要AI提供商API存在漏洞，可读取推理模型的加密思考过程。扫描约7000条公开会话发现62个API密钥、33个邮箱和33个密码。通过越狱，Anthropic的Haiku 4.5可逐字转写Opus 4.8的原始推理；解码10000条推理轨迹的API成本约720美元。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T13:56:29.698802Z"
+      }
+    },
+    {
+      "story_id": "story_f4f6d73ecb41",
+      "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
+      "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
+      "primary_url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
+          "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
+          "title_zh": "GitHub Enterprise Server 3.22 候选版本",
+          "title_en": "GitHub Enterprise Server 3.22 release candidate",
+          "title_original": "GitHub Enterprise Server 3.22 release candidate",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T20:26:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
+          "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
+          "title_zh": "GitHub Enterprise Server 3.22 候选版本",
+          "title_en": "GitHub Enterprise Server 3.22 release candidate",
+          "title_original": "GitHub Enterprise Server 3.22 release candidate",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T20:26:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7768,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T20:26:26Z",
+      "latest_at": "2026-08-11T20:26:26Z",
+      "primary_item": {
+        "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
+        "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
+        "title_zh": "GitHub Enterprise Server 3.22 候选版本",
+        "title_en": "GitHub Enterprise Server 3.22 release candidate",
+        "title_original": "GitHub Enterprise Server 3.22 release candidate",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T13:56:29.698802Z"
+      }
+    },
+    {
+      "story_id": "story_a9f021589299",
+      "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+      "url": "https://www.aibase.com/news/30278",
+      "primary_url": "https://www.aibase.com/news/30278",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "dba2b0527fb9ce380fe2841d23a5c668b28d0e87",
+          "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+          "title_zh": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+          "title_en": null,
+          "title_original": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30278",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T13:55:47.520230Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "dba2b0527fb9ce380fe2841d23a5c668b28d0e87",
+          "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+          "title_zh": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+          "title_en": null,
+          "title_original": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30278",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T13:55:47.520230Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T13:55:47.520230Z",
+      "latest_at": "2026-08-12T13:55:47.520230Z",
+      "primary_item": {
+        "id": "dba2b0527fb9ce380fe2841d23a5c668b28d0e87",
+        "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+        "title_zh": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+        "title_en": null,
+        "title_original": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30278",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T13:56:29.698802Z"
+      }
+    },
+    {
+      "story_id": "story_d2ab71462f26",
+      "title": "Gemini月活破10亿，成谷歌增长最快产品 / 1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
+      "url": "https://x.com/sundarpichai/status/2087222656819241292",
+      "primary_url": "https://x.com/sundarpichai/status/2087222656819241292",
+      "source": "X：Sundar Pichai (@sundarpichai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6b3d2c7aa4ce095c39f5bef0e3bd8a8b80dfb7a4",
+          "title": "Gemini月活破10亿，成谷歌增长最快产品 / 1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
+          "title_zh": "Gemini月活破10亿，成谷歌增长最快产品",
+          "title_en": "1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
+          "title_original": "1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
+          "summary": "每月已有超过 10 亿人使用 @Geminiapp 激发新想法、完成工作。这是我们有史以来增长最快的产品，也是第 14 个达到 10 亿用户里程碑的产品。\n\n感谢 @JoshWoodward 和整个 Gemini 团队，也感谢每一位与我们同行的伙伴--未来还有更多精彩！",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sundarpichai/status/2087222656819241292",
+          "source": "X：Sundar Pichai (@sundarpichai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T17:00:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sundar Pichai (@sundarpichai)"
+      ],
+      "items": [
+        {
+          "id": "6b3d2c7aa4ce095c39f5bef0e3bd8a8b80dfb7a4",
+          "title": "Gemini月活破10亿，成谷歌增长最快产品 / 1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
+          "title_zh": "Gemini月活破10亿，成谷歌增长最快产品",
+          "title_en": "1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
+          "title_original": "1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
+          "summary": "每月已有超过 10 亿人使用 @Geminiapp 激发新想法、完成工作。这是我们有史以来增长最快的产品，也是第 14 个达到 10 亿用户里程碑的产品。\n\n感谢 @JoshWoodward 和整个 Gemini 团队，也感谢每一位与我们同行的伙伴--未来还有更多精彩！",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sundarpichai/status/2087222656819241292",
+          "source": "X：Sundar Pichai (@sundarpichai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T17:00:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7121,
+        "recency": 0.7393,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-08T11:05:50Z",
-      "latest_at": "2026-08-08T11:05:50Z",
+      "earliest_at": "2026-08-11T17:00:34Z",
+      "latest_at": "2026-08-11T17:00:34Z",
       "primary_item": {
-        "id": "6377e846dbe04690f9b9eeeb73e378ad3d846b19",
-        "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
-        "title_zh": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
-        "title_en": "DeepMind's hurricane model bought forecasters an extra day",
-        "title_original": "DeepMind's hurricane model bought forecasters an extra day",
-        "summary": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。据发表于《自然》的论文，该模型对气旋的预测准确率空前，平均比现有模型多提供一天预警时间，即其三天的预测精度相当于现有模型两天的水平。",
+        "id": "6b3d2c7aa4ce095c39f5bef0e3bd8a8b80dfb7a4",
+        "title": "Gemini月活破10亿，成谷歌增长最快产品 / 1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
+        "title_zh": "Gemini月活破10亿，成谷歌增长最快产品",
+        "title_en": "1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
+        "title_original": "1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
+        "summary": "每月已有超过 10 亿人使用 @Geminiapp 激发新想法、完成工作。这是我们有史以来增长最快的产品，也是第 14 个达到 10 亿用户里程碑的产品。\n\n感谢 @JoshWoodward 和整个 Gemini 团队，也感谢每一位与我们同行的伙伴--未来还有更多精彩！",
         "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
-        "source": "Ars Technica：AI（RSS）",
+        "url": "https://x.com/sundarpichai/status/2087222656819241292",
+        "source": "X：Sundar Pichai (@sundarpichai)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:37:21.584882Z"
+        "scored_at": "2026-08-12T13:56:29.698802Z"
       }
     },
     {
-      "story_id": "story_5309a01ab201",
-      "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
+      "story_id": "story_4293fc83f66b",
+      "title": "零基础用户半天上手AI的12步实操流程",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
-          "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "id": "d747a416f4c95455fae2ec95897bb170bc08f61c",
+          "title": "零基础用户半天上手AI的12步实操流程",
+          "title_zh": "零基础用户半天上手AI的12步实操流程",
           "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "summary": null,
+          "title_original": "零基础用户半天上手AI的12步实操流程",
+          "summary": "文章给出一套零基础用户半天上手AI的12步实操流程：准备内存不低于16G的电脑，订阅ChatGPT并安装Codex或使用WorkBuddy，用语音输入法以【背景、痛点、需求】框架向AI交代任务，经苏格拉底提问澄清需求后投喂文件让AI直接完成，最后沉淀为可复用Skill。文中建议Codex选GPT-5.6 Sol最高模型，WorkBuddy选Kimi K3。",
           "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-09T03:24:44Z"
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T00:08:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Daily Digest"
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
-          "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "id": "d747a416f4c95455fae2ec95897bb170bc08f61c",
+          "title": "零基础用户半天上手AI的12步实操流程",
+          "title_zh": "零基础用户半天上手AI的12步实操流程",
           "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "summary": null,
+          "title_original": "零基础用户半天上手AI的12步实操流程",
+          "summary": "文章给出一套零基础用户半天上手AI的12步实操流程：准备内存不低于16G的电脑，订阅ChatGPT并安装Codex或使用WorkBuddy，用语音输入法以【背景、痛点、需求】框架向AI交代任务，经苏格拉底提问澄清需求后投喂文件让AI直接完成，最后沉淀为可复用Skill。文中建议Codex选GPT-5.6 Sol最高模型，WorkBuddy选Kimi K3。",
           "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-09T03:24:44Z"
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T00:08:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.7291,
+      "importance": 0.7291,
+      "importance_score": 0.7291,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9013,
+        "recency": 0.8194,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-09T03:24:44Z",
-      "latest_at": "2026-08-09T03:24:44Z",
+      "earliest_at": "2026-08-12T00:08:00Z",
+      "latest_at": "2026-08-12T00:08:00Z",
       "primary_item": {
-        "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
-        "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-        "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+        "id": "d747a416f4c95455fae2ec95897bb170bc08f61c",
+        "title": "零基础用户半天上手AI的12步实操流程",
+        "title_zh": "零基础用户半天上手AI的12步实操流程",
         "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-        "summary": null,
+        "title_original": "零基础用户半天上手AI的12步实操流程",
+        "summary": "文章给出一套零基础用户半天上手AI的12步实操流程：准备内存不低于16G的电脑，订阅ChatGPT并安装Codex或使用WorkBuddy，用语音输入法以【背景、痛点、需求】框架向AI交代任务，经苏格拉底提问澄清需求后投喂文件让AI直接完成，最后沉淀为可复用Skill。文中建议Codex选GPT-5.6 Sol最高模型，WorkBuddy选Kimi K3。",
         "recommend_reason_zh": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:37:21.584882Z"
+        "scored_at": "2026-08-12T13:56:29.698802Z"
       }
     },
     {
-      "story_id": "story_90b3cceba55e",
-      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-      "url": "https://www.ithome.com/0/987/438.htm",
-      "primary_url": "https://www.ithome.com/0/987/438.htm",
+      "story_id": "story_d9ed300d9b57",
+      "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "primary_url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "title_en": null,
+          "title_original": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "summary": "研究团队为 macOS 虚拟机中的 Metal 能力查询构建进程级兼容层，使 llama.cpp 能选用更新的 Metal 内核。在 M1 Ultra 上，TinyLlama 1.1B 的提示处理速度提升 11.08 倍、token 生成提升 16.36 倍，接近裸机性能的 98%；Gemma 4 12B 的提示处理与生成速度分别提升 7.20 倍和 14.54 倍。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T16:41:17.281000Z"
+        },
+        {
+          "id": "d2b7aec04594679734bd16690316a9172d0a10b8",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+          "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "title_en": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+          "title_original": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-11T14:50:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "title_en": null,
+          "title_original": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "summary": "研究团队为 macOS 虚拟机中的 Metal 能力查询构建进程级兼容层，使 llama.cpp 能选用更新的 Metal 内核。在 M1 Ultra 上，TinyLlama 1.1B 的提示处理速度提升 11.08 倍、token 生成提升 16.36 倍，接近裸机性能的 98%；Gemma 4 12B 的提示处理与生成速度分别提升 7.20 倍和 14.54 倍。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T16:41:17.281000Z"
+        },
+        {
+          "id": "d2b7aec04594679734bd16690316a9172d0a10b8",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+          "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "title_en": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+          "title_original": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-11T14:50:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7358,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-11T14:50:33Z",
+      "latest_at": "2026-08-11T16:41:17.281000Z",
+      "primary_item": {
+        "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
+        "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+        "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+        "title_en": null,
+        "title_original": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+        "summary": "研究团队为 macOS 虚拟机中的 Metal 能力查询构建进程级兼容层，使 llama.cpp 能选用更新的 Metal 内核。在 M1 Ultra 上，TinyLlama 1.1B 的提示处理速度提升 11.08 倍、token 生成提升 16.36 倍，接近裸机性能的 98%；Gemma 4 12B 的提示处理与生成速度分别提升 7.20 倍和 14.54 倍。",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T13:56:29.698802Z"
+      }
+    },
+    {
+      "story_id": "story_3e367c2a90f0",
+      "title": "自动将分支保护规则迁移到代码仓库规则集 / Automatically migrate branch protection rules to repository rulesets",
+      "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+      "primary_url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9218b35fb343b8ac2d17e453ef63046d41d017ef",
+          "title": "自动将分支保护规则迁移到代码仓库规则集 / Automatically migrate branch protection rules to repository rulesets",
+          "title_zh": "自动将分支保护规则迁移到代码仓库规则集",
+          "title_en": "Automatically migrate branch protection rules to repository rulesets",
+          "title_original": "Automatically migrate branch protection rules to repository rulesets",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T19:03:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "9218b35fb343b8ac2d17e453ef63046d41d017ef",
+          "title": "自动将分支保护规则迁移到代码仓库规则集 / Automatically migrate branch protection rules to repository rulesets",
+          "title_zh": "自动将分支保护规则迁移到代码仓库规则集",
+          "title_en": "Automatically migrate branch protection rules to repository rulesets",
+          "title_original": "Automatically migrate branch protection rules to repository rulesets",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T19:03:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7615,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T19:03:57Z",
+      "latest_at": "2026-08-11T19:03:57Z",
+      "primary_item": {
+        "id": "9218b35fb343b8ac2d17e453ef63046d41d017ef",
+        "title": "自动将分支保护规则迁移到代码仓库规则集 / Automatically migrate branch protection rules to repository rulesets",
+        "title_zh": "自动将分支保护规则迁移到代码仓库规则集",
+        "title_en": "Automatically migrate branch protection rules to repository rulesets",
+        "title_original": "Automatically migrate branch protection rules to repository rulesets",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T13:56:29.698802Z"
+      }
+    },
+    {
+      "story_id": "story_8703bb84c475",
+      "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+      "url": "https://www.aibase.com/news/30277",
+      "primary_url": "https://www.aibase.com/news/30277",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
+          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "title_zh": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "title_en": null,
+          "title_original": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30277",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T13:55:47.520230Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
+          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "title_zh": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "title_en": null,
+          "title_original": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30277",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T13:55:47.520230Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T13:55:47.520230Z",
+      "latest_at": "2026-08-12T13:55:47.520230Z",
+      "primary_item": {
+        "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
+        "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+        "title_zh": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+        "title_en": null,
+        "title_original": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30277",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T13:56:29.698802Z"
+      }
+    },
+    {
+      "story_id": "story_5ce5e8a5042c",
+      "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+      "url": "https://www.ithome.com/0/988/524.htm",
+      "primary_url": "https://www.ithome.com/0/988/524.htm",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
-          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "id": "2b93cf3286b962a5fd6e30ed6a7accb666ff80c0",
+          "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+          "title_zh": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
           "title_en": null,
-          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+          "title_original": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+          "summary": "英伟达正在研发新一代开源 AI 模型系列 Nemotron 4，规模最大的模型预计至少拥有 1 万亿个参数，旨在与全球最先进的开源模型竞争。英伟达尚未确定发布日期，最终训练也未完成，员工认为该模型最早可能在今年秋末准备就绪。此举意在通过开放模型生态扩大 AI 应用范围，并推动市场对其 GPU 算力的需求。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/438.htm",
+          "url": "https://www.ithome.com/0/988/524.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-08T13:38:40Z"
+          "published_at": "2026-08-11T14:54:16Z"
         }
       ],
       "source_count": 1,
@@ -777,48 +1709,48 @@
       ],
       "items": [
         {
-          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
-          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "id": "2b93cf3286b962a5fd6e30ed6a7accb666ff80c0",
+          "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+          "title_zh": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
           "title_en": null,
-          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+          "title_original": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+          "summary": "英伟达正在研发新一代开源 AI 模型系列 Nemotron 4，规模最大的模型预计至少拥有 1 万亿个参数，旨在与全球最先进的开源模型竞争。英伟达尚未确定发布日期，最终训练也未完成，员工认为该模型最早可能在今年秋末准备就绪。此举意在通过开放模型生态扩大 AI 应用范围，并推动市场对其 GPU 算力的需求。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/438.htm",
+          "url": "https://www.ithome.com/0/988/524.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-08T13:38:40Z"
+          "published_at": "2026-08-11T14:54:16Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7296,
-      "importance": 0.7296,
-      "importance_score": 0.7296,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7388,
+        "recency": 0.7171,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-08T13:38:40Z",
-      "latest_at": "2026-08-08T13:38:40Z",
+      "earliest_at": "2026-08-11T14:54:16Z",
+      "latest_at": "2026-08-11T14:54:16Z",
       "primary_item": {
-        "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
-        "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-        "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "id": "2b93cf3286b962a5fd6e30ed6a7accb666ff80c0",
+        "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+        "title_zh": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
         "title_en": null,
-        "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-        "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+        "title_original": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+        "summary": "英伟达正在研发新一代开源 AI 模型系列 Nemotron 4，规模最大的模型预计至少拥有 1 万亿个参数，旨在与全球最先进的开源模型竞争。英伟达尚未确定发布日期，最终训练也未完成，员工认为该模型最早可能在今年秋末准备就绪。此举意在通过开放模型生态扩大 AI 应用范围，并推动市场对其 GPU 算力的需求。",
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/987/438.htm",
+        "url": "https://www.ithome.com/0/988/524.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       },
@@ -826,864 +1758,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:37:21.584882Z"
-      }
-    },
-    {
-      "story_id": "story_56cf4cefef8c",
-      "title": "向您其他“克劳德代码”会话发送消息",
-      "url": "https://code.claude.com/docs/en/cross-session-messaging",
-      "primary_url": "https://code.claude.com/docs/en/cross-session-messaging",
-      "source": "code.claude.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c93e2a7d723746932053a05dcfd00125866be205",
-          "title": "向您其他“克劳德代码”会话发送消息",
-          "title_zh": "向您其他“克劳德代码”会话发送消息",
-          "title_en": null,
-          "title_original": "向您其他“克劳德代码”会话发送消息",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "code.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T06:22:36.507000Z"
-        },
-        {
-          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
-          "title": "给你的其他 Claude Code 会话发消息 / Message your other Claude Code sessions",
-          "title_zh": "给你的其他 Claude Code 会话发消息",
-          "title_en": "Message your other Claude Code sessions",
-          "title_original": "Message your other Claude Code sessions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49222824",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T20:48:36.760000Z"
-        },
-        {
-          "id": "d701a11300d80906f2a4955712818009896d5d9a",
-          "title": "向您其他“Claude代码”会话发送消息 / Message your other Claude Code sessions",
-          "title_zh": "向您其他“Claude代码”会话发送消息",
-          "title_en": "Message your other Claude Code sessions",
-          "title_original": "Message your other Claude Code sessions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T15:34:49Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "code.claude.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c93e2a7d723746932053a05dcfd00125866be205",
-          "title": "向您其他“克劳德代码”会话发送消息",
-          "title_zh": "向您其他“克劳德代码”会话发送消息",
-          "title_en": null,
-          "title_original": "向您其他“克劳德代码”会话发送消息",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "code.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T06:22:36.507000Z"
-        },
-        {
-          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
-          "title": "给你的其他 Claude Code 会话发消息 / Message your other Claude Code sessions",
-          "title_zh": "给你的其他 Claude Code 会话发消息",
-          "title_en": "Message your other Claude Code sessions",
-          "title_original": "Message your other Claude Code sessions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49222824",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T20:48:36.760000Z"
-        },
-        {
-          "id": "d701a11300d80906f2a4955712818009896d5d9a",
-          "title": "向您其他“Claude代码”会话发送消息 / Message your other Claude Code sessions",
-          "title_zh": "向您其他“Claude代码”会话发送消息",
-          "title_en": "Message your other Claude Code sessions",
-          "title_original": "Message your other Claude Code sessions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T15:34:49Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5601,
-      "importance": 0.5601,
-      "importance_score": 0.5601,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9407,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T15:34:49Z",
-      "latest_at": "2026-08-09T06:22:36.507000Z",
-      "primary_item": {
-        "id": "c93e2a7d723746932053a05dcfd00125866be205",
-        "title": "向您其他“克劳德代码”会话发送消息",
-        "title_zh": "向您其他“克劳德代码”会话发送消息",
-        "title_en": null,
-        "title_original": "向您其他“克劳德代码”会话发送消息",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://code.claude.com/docs/en/cross-session-messaging",
-        "source": "code.claude.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:37:21.584882Z"
-      }
-    },
-    {
-      "story_id": "story_86c94d047e72",
-      "title": "软件巨头SAP因AI成本飙升暂停大部分差旅和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-      "url": "https://news.ycombinator.com/item?id=49229412",
-      "primary_url": "https://news.ycombinator.com/item?id=49229412",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
-          "title": "软件巨头SAP因AI成本飙升暂停大部分差旅和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "title_zh": "软件巨头SAP因AI成本飙升暂停大部分差旅和招聘",
-          "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "title_original": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49229412",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T10:37:04.269000Z"
-        },
-        {
-          "id": "b7faa4fa62e135ffe27e5c6116dd2b8006a9ccfd",
-          "title": "软件巨头SAP因AI成本飙升暂停大部分差旅和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "title_zh": "软件巨头SAP因AI成本飙升暂停大部分差旅和招聘",
-          "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "title_original": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T08:00:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
-          "title": "软件巨头SAP因AI成本飙升暂停大部分差旅和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "title_zh": "软件巨头SAP因AI成本飙升暂停大部分差旅和招聘",
-          "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "title_original": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49229412",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T10:37:04.269000Z"
-        },
-        {
-          "id": "b7faa4fa62e135ffe27e5c6116dd2b8006a9ccfd",
-          "title": "软件巨头SAP因AI成本飙升暂停大部分差旅和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "title_zh": "软件巨头SAP因AI成本飙升暂停大部分差旅和招聘",
-          "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "title_original": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T08:00:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T08:00:51Z",
-      "latest_at": "2026-08-09T10:37:04.269000Z",
-      "primary_item": {
-        "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
-        "title": "软件巨头SAP因AI成本飙升暂停大部分差旅和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-        "title_zh": "软件巨头SAP因AI成本飙升暂停大部分差旅和招聘",
-        "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-        "title_original": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49229412",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:37:21.584882Z"
-      }
-    },
-    {
-      "story_id": "story_32ec53e91d06",
-      "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-      "primary_url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-      "source": "mezha.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9cfc0e88493e8116425906cabfdab68557feb54e",
-          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_en": null,
-          "title_original": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "mezha.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T19:26:49.887000Z"
-        },
-        {
-          "id": "415c5d98e638ad6b96353f679325f05e221f3479",
-          "title": "丹麦要求学生书面作业进行口头答辩以防范AI作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_zh": "丹麦要求学生书面作业进行口头答辩以防范AI作弊",
-          "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49224294",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T18:47:07.381000Z"
-        },
-        {
-          "id": "386039a07181e711dea9170a3855a19db52f6cb9",
-          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T18:09:31Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "mezha.net"
-      ],
-      "items": [
-        {
-          "id": "9cfc0e88493e8116425906cabfdab68557feb54e",
-          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_en": null,
-          "title_original": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "mezha.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T19:26:49.887000Z"
-        },
-        {
-          "id": "415c5d98e638ad6b96353f679325f05e221f3479",
-          "title": "丹麦要求学生书面作业进行口头答辩以防范AI作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_zh": "丹麦要求学生书面作业进行口头答辩以防范AI作弊",
-          "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49224294",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T18:47:07.381000Z"
-        },
-        {
-          "id": "386039a07181e711dea9170a3855a19db52f6cb9",
-          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T18:09:31Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5354,
-      "importance": 0.5354,
-      "importance_score": 0.5354,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8034,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T18:09:31Z",
-      "latest_at": "2026-08-08T19:26:49.887000Z",
-      "primary_item": {
-        "id": "9cfc0e88493e8116425906cabfdab68557feb54e",
-        "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-        "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-        "title_en": null,
-        "title_original": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-        "source": "mezha.net",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:37:21.584882Z"
-      }
-    },
-    {
-      "story_id": "story_e9624a9c8fc0",
-      "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-      "primary_url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-      "source": "social.treehouse.systems",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b74773160f098d9f3cdb09de4ee5afdca9006aae",
-          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-          "title_zh": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-          "title_en": null,
-          "title_original": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-          "source": "social.treehouse.systems",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T18:06:47.814000Z"
-        },
-        {
-          "id": "b6057a741b5ba5e93fb02047dd209b3f0fa0ce3c",
-          "title": "Gentoo bugzilla 因 AI 爬虫机器人过载关闭 / Gentoo bugzilla closed due AI bot scraper overload",
-          "title_zh": "Gentoo bugzilla 因 AI 爬虫机器人过载关闭",
-          "title_en": "Gentoo bugzilla closed due AI bot scraper overload",
-          "title_original": "Gentoo bugzilla closed due AI bot scraper overload",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49221864",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T14:20:40.026000Z"
-        },
-        {
-          "id": "097e63a183790779cdbd74809069ad6b98ae2091",
-          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
-          "title_zh": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-          "title_en": "Gentoo bugzilla closed due AI bot scraper overload",
-          "title_original": "Gentoo bugzilla closed due AI bot scraper overload",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-08T13:55:42Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "social.treehouse.systems"
-      ],
-      "items": [
-        {
-          "id": "b74773160f098d9f3cdb09de4ee5afdca9006aae",
-          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-          "title_zh": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-          "title_en": null,
-          "title_original": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-          "source": "social.treehouse.systems",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T18:06:47.814000Z"
-        },
-        {
-          "id": "b6057a741b5ba5e93fb02047dd209b3f0fa0ce3c",
-          "title": "Gentoo bugzilla 因 AI 爬虫机器人过载关闭 / Gentoo bugzilla closed due AI bot scraper overload",
-          "title_zh": "Gentoo bugzilla 因 AI 爬虫机器人过载关闭",
-          "title_en": "Gentoo bugzilla closed due AI bot scraper overload",
-          "title_original": "Gentoo bugzilla closed due AI bot scraper overload",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49221864",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T14:20:40.026000Z"
-        },
-        {
-          "id": "097e63a183790779cdbd74809069ad6b98ae2091",
-          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
-          "title_zh": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-          "title_en": "Gentoo bugzilla closed due AI bot scraper overload",
-          "title_original": "Gentoo bugzilla closed due AI bot scraper overload",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-08T13:55:42Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5326,
-      "importance": 0.5326,
-      "importance_score": 0.5326,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.788,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T13:55:42Z",
-      "latest_at": "2026-08-08T18:06:47.814000Z",
-      "primary_item": {
-        "id": "b74773160f098d9f3cdb09de4ee5afdca9006aae",
-        "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-        "title_zh": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-        "title_en": null,
-        "title_original": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-        "source": "social.treehouse.systems",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:37:21.584882Z"
-      }
-    },
-    {
-      "story_id": "story_c679b82f6543",
-      "title": "实时 MCP 拦截器：阻止 Agent 读取 .env 文件和执行危险命令 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-      "url": "https://news.ycombinator.com/item?id=49228086",
-      "primary_url": "https://news.ycombinator.com/item?id=49228086",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "baf0a07b6a7e61dec2bd07b304166bd08691a17e",
-          "title": "实时 MCP 拦截器：阻止 Agent 读取 .env 文件和执行危险命令 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_zh": "实时 MCP 拦截器：阻止 Agent 读取 .env 文件和执行危险命令",
-          "title_en": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_original": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49228086",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T05:35:58.834000Z"
-        },
-        {
-          "id": "5660f67d71ed812801f3938793c3267b40a125b0",
-          "title": "实时 MCP 拦截器：阻止 Agent 读取 .env 文件和执行危险命令 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_zh": "实时 MCP 拦截器：阻止 Agent 读取 .env 文件和执行危险命令",
-          "title_en": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_original": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://marketnow.site",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T03:13:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "baf0a07b6a7e61dec2bd07b304166bd08691a17e",
-          "title": "实时 MCP 拦截器：阻止 Agent 读取 .env 文件和执行危险命令 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_zh": "实时 MCP 拦截器：阻止 Agent 读取 .env 文件和执行危险命令",
-          "title_en": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_original": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49228086",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T05:35:58.834000Z"
-        },
-        {
-          "id": "5660f67d71ed812801f3938793c3267b40a125b0",
-          "title": "实时 MCP 拦截器：阻止 Agent 读取 .env 文件和执行危险命令 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_zh": "实时 MCP 拦截器：阻止 Agent 读取 .env 文件和执行危险命令",
-          "title_en": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_original": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://marketnow.site",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T03:13:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5332,
-      "importance": 0.5332,
-      "importance_score": 0.5332,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9302,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T03:13:01Z",
-      "latest_at": "2026-08-09T05:35:58.834000Z",
-      "primary_item": {
-        "id": "baf0a07b6a7e61dec2bd07b304166bd08691a17e",
-        "title": "实时 MCP 拦截器：阻止 Agent 读取 .env 文件和执行危险命令 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-        "title_zh": "实时 MCP 拦截器：阻止 Agent 读取 .env 文件和执行危险命令",
-        "title_en": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-        "title_original": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49228086",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:37:21.584882Z"
-      }
-    },
-    {
-      "story_id": "story_5ce40a057274",
-      "title": "ChatGPT开始屏蔽直接模仿作者文风的请求 / ChatGPT starts blocking direct requests to copy an author's style",
-      "url": "https://news.ycombinator.com/item?id=49227718",
-      "primary_url": "https://news.ycombinator.com/item?id=49227718",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "b0bff110a2c809f8b8c8488830fd5669ddf83a59",
-          "title": "ChatGPT开始屏蔽直接模仿作者文风的请求 / ChatGPT starts blocking direct requests to copy an author's style",
-          "title_zh": "ChatGPT开始屏蔽直接模仿作者文风的请求",
-          "title_en": "ChatGPT starts blocking direct requests to copy an author's style",
-          "title_original": "ChatGPT starts blocking direct requests to copy an author's style",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49227718",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T04:39:04.504000Z"
-        },
-        {
-          "id": "b4b805324bccbc44c7f8412a7c7a24c503100822",
-          "title": "ChatGPT开始屏蔽直接模仿作者文风的请求 / ChatGPT starts blocking direct requests to copy an author's style",
-          "title_zh": "ChatGPT开始屏蔽直接模仿作者文风的请求",
-          "title_en": "ChatGPT starts blocking direct requests to copy an author's style",
-          "title_original": "ChatGPT starts blocking direct requests to copy an author's style",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T02:01:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b0bff110a2c809f8b8c8488830fd5669ddf83a59",
-          "title": "ChatGPT开始屏蔽直接模仿作者文风的请求 / ChatGPT starts blocking direct requests to copy an author's style",
-          "title_zh": "ChatGPT开始屏蔽直接模仿作者文风的请求",
-          "title_en": "ChatGPT starts blocking direct requests to copy an author's style",
-          "title_original": "ChatGPT starts blocking direct requests to copy an author's style",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49227718",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T04:39:04.504000Z"
-        },
-        {
-          "id": "b4b805324bccbc44c7f8412a7c7a24c503100822",
-          "title": "ChatGPT开始屏蔽直接模仿作者文风的请求 / ChatGPT starts blocking direct requests to copy an author's style",
-          "title_zh": "ChatGPT开始屏蔽直接模仿作者文风的请求",
-          "title_en": "ChatGPT starts blocking direct requests to copy an author's style",
-          "title_original": "ChatGPT starts blocking direct requests to copy an author's style",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T02:01:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.531,
-      "importance": 0.531,
-      "importance_score": 0.531,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9175,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T02:01:38Z",
-      "latest_at": "2026-08-09T04:39:04.504000Z",
-      "primary_item": {
-        "id": "b0bff110a2c809f8b8c8488830fd5669ddf83a59",
-        "title": "ChatGPT开始屏蔽直接模仿作者文风的请求 / ChatGPT starts blocking direct requests to copy an author's style",
-        "title_zh": "ChatGPT开始屏蔽直接模仿作者文风的请求",
-        "title_en": "ChatGPT starts blocking direct requests to copy an author's style",
-        "title_original": "ChatGPT starts blocking direct requests to copy an author's style",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49227718",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:37:21.584882Z"
-      }
-    },
-    {
-      "story_id": "story_b17925e931ce",
-      "title": "CPU 回归：重新思考 LLM 推理中的 CPU-GPU 分工 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-      "url": "https://news.ycombinator.com/item?id=49221089",
-      "primary_url": "https://news.ycombinator.com/item?id=49221089",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "25c6bd52edc337725dc395b866a1f220516a44ff",
-          "title": "CPU 回归：重新思考 LLM 推理中的 CPU-GPU 分工 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-          "title_zh": "CPU 回归：重新思考 LLM 推理中的 CPU-GPU 分工",
-          "title_en": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-          "title_original": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49221089",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T12:50:28.307000Z"
-        },
-        {
-          "id": "7d2bb6564e99b819c81d436b27c9624c6de731da",
-          "title": "CPU 回归：重新思考 LLM 推理中的 CPU-GPU 分工 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-          "title_zh": "CPU 回归：重新思考 LLM 推理中的 CPU-GPU 分工",
-          "title_en": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-          "title_original": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T12:16:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "25c6bd52edc337725dc395b866a1f220516a44ff",
-          "title": "CPU 回归：重新思考 LLM 推理中的 CPU-GPU 分工 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-          "title_zh": "CPU 回归：重新思考 LLM 推理中的 CPU-GPU 分工",
-          "title_en": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-          "title_original": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49221089",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T12:50:28.307000Z"
-        },
-        {
-          "id": "7d2bb6564e99b819c81d436b27c9624c6de731da",
-          "title": "CPU 回归：重新思考 LLM 推理中的 CPU-GPU 分工 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-          "title_zh": "CPU 回归：重新思考 LLM 推理中的 CPU-GPU 分工",
-          "title_en": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-          "title_original": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T12:16:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4972,
-      "importance": 0.4972,
-      "importance_score": 0.4972,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7303,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T12:16:03Z",
-      "latest_at": "2026-08-08T12:50:28.307000Z",
-      "primary_item": {
-        "id": "25c6bd52edc337725dc395b866a1f220516a44ff",
-        "title": "CPU 回归：重新思考 LLM 推理中的 CPU-GPU 分工 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-        "title_zh": "CPU 回归：重新思考 LLM 推理中的 CPU-GPU 分工",
-        "title_en": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-        "title_original": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49221089",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T10:37:21.584882Z"
+        "scored_at": "2026-08-12T13:56:29.698802Z"
       }
     }
   ]
