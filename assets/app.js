@@ -2115,7 +2115,7 @@ function renderSourceHealth(errorMessage = "") {
 }
 
 async function loadNewsData() {
-  const res = await fetch(`${dataUrl("data/latest-24h.json")}?t=${Date.now()}`);
+  const res = await fetch(dataUrl("data/latest-24h.json"));
   if (!res.ok) throw new Error(`加载 latest-24h.json 失败: ${res.status}`);
   return res.json();
 }
@@ -2123,7 +2123,7 @@ async function loadNewsData() {
 async function loadAllModeData() {
   if (state.allDataLoaded) return;
   if (!state.allDataPromise) {
-    state.allDataPromise = fetch(`${dataUrl(state.allDataUrl)}?t=${Date.now()}`)
+    state.allDataPromise = fetch(dataUrl(state.allDataUrl))
       .then((res) => {
         if (!res.ok) throw new Error(`加载 latest-24h-all.json 失败: ${res.status}`);
         return res.json();
@@ -2144,31 +2144,31 @@ async function loadAllModeData() {
 }
 
 async function loadWaytoagiData() {
-  const res = await fetch(`${dataUrl("data/waytoagi-7d.json")}?t=${Date.now()}`);
+  const res = await fetch(dataUrl("data/waytoagi-7d.json"));
   if (!res.ok) throw new Error(`加载 waytoagi-7d.json 失败: ${res.status}`);
   return res.json();
 }
 
 async function loadSourceStatusData() {
-  const res = await fetch(`${dataUrl("data/source-status.json")}?t=${Date.now()}`);
+  const res = await fetch(dataUrl("data/source-status.json"));
   if (!res.ok) throw new Error(`加载 source-status.json 失败: ${res.status}`);
   return res.json();
 }
 
 async function loadDailyBriefData() {
-  const res = await fetch(`${dataUrl("data/daily-brief.json")}?t=${Date.now()}`);
+  const res = await fetch(dataUrl("data/daily-brief.json"));
   if (!res.ok) throw new Error(`加载 daily-brief.json 失败: ${res.status}`);
   return res.json();
 }
 
 async function loadTop3PersonasData() {
-  const res = await fetch(`${dataUrl("data/top3-personas.json")}?t=${Date.now()}`);
+  const res = await fetch(dataUrl("data/top3-personas.json"));
   if (!res.ok) throw new Error(`加载 top3-personas.json 失败: ${res.status}`);
   return res.json();
 }
 
 async function loadStoriesData() {
-  const res = await fetch(`${dataUrl(state.storiesDataUrl)}?t=${Date.now()}`);
+  const res = await fetch(dataUrl(state.storiesDataUrl));
   if (!res.ok) throw new Error(`加载 stories-merged.json 失败: ${res.status}`);
   return res.json();
 }

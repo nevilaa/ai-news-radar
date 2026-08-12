@@ -1,0 +1,43 @@
+name: Sync Site to VPS
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+
+      - name: Sync to VPS
+        env:
+          VPS_HOST: ${{ vars.VPS_HOST }}
+          VPS_USER: ${{ vars.VPS_USER }}
+          VPS_DEPLOY_KEY: ${{ secrets.VPS_DEPLOY_KEY }}
+        run: |
+          set -euo pipefail
+          if [ -z "${VPS_HOST:-}" ] || [ -z "${VPS_USER:-}" ] || [ -z "$VPS_DEPLOY_KEY" ]; then
+            echo "::warning::VPS_HOST / VPS_USER / VPS_DEPLOY_KEY not configured; skipping sync"
+            exit 0
+          fi
+          mkdir -p "$HOME/.ssh"
+          printf '%s\n' "$VPS_DEPLOY_KEY" > "$HOME/.ssh/vps_deploy_key"
+          chmod 600 "$HOME/.ssh/vps_deploy_key"
+          rsync -az --delete \
+            -e "ssh -i $HOME/.ssh/vps_deploy_key -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new" \
+            --exclude '.git/' \
+            --exclude '.github/' \
+            --exclude 'tests/' \
+            --exclude 'feeds/follow.opml' \
+            --exclude '__pycache__/' \
+            --exclude '*.pyc' \
+            ./ "$VPS_USER@$VPS_HOST:/var/www/ai-radar/"
