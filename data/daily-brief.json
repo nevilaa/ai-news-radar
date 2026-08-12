@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-08-12T18:07:28.943061Z",
+  "generated_at": "2026-08-12T19:20:23.088339Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_fdae5f4986f9",
+      "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
+      "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
+          "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
+          "title_zh": "使用 GitHub Copilot 应用编写您的第一个提示",
+          "title_en": "Write your first prompt with the GitHub Copilot app",
+          "title_original": "Write your first prompt with the GitHub Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
+          "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
+          "title_zh": "使用 GitHub Copilot 应用编写您的第一个提示",
+          "title_en": "Write your first prompt with the GitHub Copilot app",
+          "title_original": "Write your first prompt with the GitHub Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8591,
+      "importance": 0.8591,
+      "importance_score": 0.8591,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9951,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T19:00:00Z",
+      "latest_at": "2026-08-12T19:00:00Z",
+      "primary_item": {
+        "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
+        "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
+        "title_zh": "使用 GitHub Copilot 应用编写您的第一个提示",
+        "title_en": "Write your first prompt with the GitHub Copilot app",
+        "title_original": "Write your first prompt with the GitHub Copilot app",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T19:21:05.405937Z"
+      }
+    },
     {
       "story_id": "story_3479a70ad230",
       "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8556,
-      "importance": 0.8556,
-      "importance_score": 0.8556,
+      "score": 0.8527,
+      "importance": 0.8527,
+      "importance_score": 0.8527,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9424,
+        "recency": 0.926,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T18:08:15.407328Z"
+        "scored_at": "2026-08-12T19:21:05.405937Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8337,
-      "importance": 0.8337,
-      "importance_score": 0.8337,
+      "score": 0.8307,
+      "importance": 0.8307,
+      "importance_score": 0.8307,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9426,
+        "recency": 0.9262,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T18:08:15.407328Z"
+        "scored_at": "2026-08-12T19:21:05.405937Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8552,
-      "importance": 0.8552,
-      "importance_score": 0.8552,
+      "score": 0.8521,
+      "importance": 0.8521,
+      "importance_score": 0.8521,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9732,
+        "recency": 0.9563,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T18:08:15.407328Z"
+        "scored_at": "2026-08-12T19:21:05.405937Z"
       }
     },
     {
@@ -297,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8231,
-      "importance": 0.8231,
-      "importance_score": 0.8231,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8394,
+        "recency": 0.8248,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T18:08:15.407328Z"
+        "scored_at": "2026-08-12T19:21:05.405937Z"
       }
     },
     {
@@ -380,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7293,
+        "recency": 0.7166,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T18:08:15.407328Z"
+        "scored_at": "2026-08-12T19:21:05.405937Z"
       }
     },
     {
@@ -456,8 +539,8 @@
         },
         {
           "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
-          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "title_zh": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+          "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+          "title_zh": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
           "title_en": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "title_original": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "summary": null,
@@ -506,8 +589,8 @@
         },
         {
           "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
-          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "title_zh": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+          "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+          "title_zh": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
           "title_en": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "title_original": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "summary": null,
@@ -521,15 +604,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8357,
+        "recency": 0.8211,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -556,7 +639,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T18:08:15.407328Z"
+        "scored_at": "2026-08-12T19:21:05.405937Z"
       }
     },
     {
@@ -604,15 +687,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
+      "score": 0.7944,
+      "importance": 0.7944,
+      "importance_score": 0.7944,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9976,
+        "recency": 0.9803,
         "story_heat": 0.0
       },
       "category": "official",
@@ -638,90 +721,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T18:08:15.407328Z"
-      }
-    },
-    {
-      "story_id": "story_c246dedc40ae",
-      "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
-          "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
-          "title_zh": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用",
-          "title_en": "MAI-Code-1.1-Flash available in GitHub Copilot",
-          "title_original": "MAI-Code-1.1-Flash available in GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T18:13:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
-          "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
-          "title_zh": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用",
-          "title_en": "MAI-Code-1.1-Flash available in GitHub Copilot",
-          "title_original": "MAI-Code-1.1-Flash available in GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T18:13:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7082,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T18:13:56Z",
-      "latest_at": "2026-08-11T18:13:56Z",
-      "primary_item": {
-        "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
-        "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
-        "title_zh": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用",
-        "title_en": "MAI-Code-1.1-Flash available in GitHub Copilot",
-        "title_original": "MAI-Code-1.1-Flash available in GitHub Copilot",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T18:08:15.407328Z"
+        "scored_at": "2026-08-12T19:21:05.405937Z"
       }
     },
     {
@@ -769,15 +769,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9721,
+        "recency": 0.9552,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -803,496 +803,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T18:08:15.407328Z"
+        "scored_at": "2026-08-12T19:21:05.405937Z"
       }
     },
     {
-      "story_id": "story_8bee042859df",
-      "title": "Runway Seedance 2.5 上线，支持50角色参考 / A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
-      "url": "https://x.com/runwayml/status/2087251184658657346",
-      "primary_url": "https://x.com/runwayml/status/2087251184658657346",
-      "source": "X：Runway (@runwayml)",
+      "story_id": "story_81b35863b7b0",
+      "title": "xAI 发布 Grok 4.6，强化长时运行智能体能力 / Introducing Grok 4.6",
+      "url": "https://x.ai/news/grok-4-6",
+      "primary_url": "https://x.ai/news/grok-4-6",
+      "source": "xAI：News（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
-          "title": "Runway Seedance 2.5 上线，支持50角色参考 / A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
-          "title_zh": "Runway Seedance 2.5 上线，支持50角色参考",
-          "title_en": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
-          "title_original": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
-          "summary": "完整阵容，完整曲目，一次生成一个。\n\nSeedance 2.5 已在 Runway 上线，支持 50 个独特角色参考，以及最长 30 秒、与音乐同步的片段。点击下方链接即可开始使用。",
+          "id": "0ec9764ea66afc16675922c4701012a15bca2c5e",
+          "title": "xAI 发布 Grok 4.6，强化长时运行智能体能力 / Introducing Grok 4.6",
+          "title_zh": "xAI 发布 Grok 4.6，强化长时运行智能体能力",
+          "title_en": "Introducing Grok 4.6",
+          "title_original": "Introducing Grok 4.6",
+          "summary": "xAI 今日发布 Grok 4.6，在 Grok 4.5 基础上重点强化长时运行智能体及更复杂的交互式与视觉工作能力。该模型在多项智能体编码与知识工作基准上达到前沿水平，在 Artificial Analysis Intelligence Index（九项基准综合分）上追平 GPT-5.6 Sol。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/runwayml/status/2087251184658657346",
-          "source": "X：Runway (@runwayml)",
+          "url": "https://x.ai/news/grok-4-6",
+          "source": "xAI：News（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-11T18:53:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Runway (@runwayml)"
-      ],
-      "items": [
+          "published_at": "2026-08-12T00:00:00Z"
+        },
         {
-          "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
-          "title": "Runway Seedance 2.5 上线，支持50角色参考 / A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
-          "title_zh": "Runway Seedance 2.5 上线，支持50角色参考",
-          "title_en": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
-          "title_original": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
-          "summary": "完整阵容，完整曲目，一次生成一个。\n\nSeedance 2.5 已在 Runway 上线，支持 50 个独特角色参考，以及最长 30 秒、与音乐同步的片段。点击下方链接即可开始使用。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/runwayml/status/2087251184658657346",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T18:53:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7151,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T18:53:56Z",
-      "latest_at": "2026-08-11T18:53:56Z",
-      "primary_item": {
-        "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
-        "title": "Runway Seedance 2.5 上线，支持50角色参考 / A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
-        "title_zh": "Runway Seedance 2.5 上线，支持50角色参考",
-        "title_en": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
-        "title_original": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
-        "summary": "完整阵容，完整曲目，一次生成一个。\n\nSeedance 2.5 已在 Runway 上线，支持 50 个独特角色参考，以及最长 30 秒、与音乐同步的片段。点击下方链接即可开始使用。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/runwayml/status/2087251184658657346",
-        "source": "X：Runway (@runwayml)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T18:08:15.407328Z"
-      }
-    },
-    {
-      "story_id": "story_17d6705d1084",
-      "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-      "url": "https://www.aibase.com/news/30276",
-      "primary_url": "https://www.aibase.com/news/30276",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "19885d82860a200a6c11b27212173a78ac3ba013",
-          "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-          "title_zh": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "id": "7131f9fe498fd654a322d9a1f159d798f8baa9d7",
+          "title": "Grok 4.6",
+          "title_zh": null,
           "title_en": null,
-          "title_original": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "title_original": "Grok 4.6",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30276",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T13:55:47.520230Z"
+          "url": "https://x.ai/news/grok-4-6",
+          "source": "x.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-12T16:36:26.909000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "x.ai",
+        "xAI：News（网页）"
       ],
       "items": [
         {
-          "id": "19885d82860a200a6c11b27212173a78ac3ba013",
-          "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-          "title_zh": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "id": "0ec9764ea66afc16675922c4701012a15bca2c5e",
+          "title": "xAI 发布 Grok 4.6，强化长时运行智能体能力 / Introducing Grok 4.6",
+          "title_zh": "xAI 发布 Grok 4.6，强化长时运行智能体能力",
+          "title_en": "Introducing Grok 4.6",
+          "title_original": "Introducing Grok 4.6",
+          "summary": "xAI 今日发布 Grok 4.6，在 Grok 4.5 基础上重点强化长时运行智能体及更复杂的交互式与视觉工作能力。该模型在多项智能体编码与知识工作基准上达到前沿水平，在 Artificial Analysis Intelligence Index（九项基准综合分）上追平 GPT-5.6 Sol。",
+          "recommend_reason_zh": null,
+          "url": "https://x.ai/news/grok-4-6",
+          "source": "xAI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T00:00:00Z"
+        },
+        {
+          "id": "7131f9fe498fd654a322d9a1f159d798f8baa9d7",
+          "title": "Grok 4.6",
+          "title_zh": null,
           "title_en": null,
-          "title_original": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "title_original": "Grok 4.6",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30276",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T13:55:47.520230Z"
+          "url": "https://x.ai/news/grok-4-6",
+          "source": "x.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-12T16:36:26.909000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9412,
-        "story_heat": 0.0
+        "recency": 0.7563,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-12T13:55:47.520230Z",
-      "latest_at": "2026-08-12T13:55:47.520230Z",
+      "earliest_at": "2026-08-12T00:00:00Z",
+      "latest_at": "2026-08-12T16:36:26.909000Z",
       "primary_item": {
-        "id": "19885d82860a200a6c11b27212173a78ac3ba013",
-        "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-        "title_zh": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-        "title_en": null,
-        "title_original": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-        "summary": null,
+        "id": "0ec9764ea66afc16675922c4701012a15bca2c5e",
+        "title": "xAI 发布 Grok 4.6，强化长时运行智能体能力 / Introducing Grok 4.6",
+        "title_zh": "xAI 发布 Grok 4.6，强化长时运行智能体能力",
+        "title_en": "Introducing Grok 4.6",
+        "title_original": "Introducing Grok 4.6",
+        "summary": "xAI 今日发布 Grok 4.6，在 Grok 4.5 基础上重点强化长时运行智能体及更复杂的交互式与视觉工作能力。该模型在多项智能体编码与知识工作基准上达到前沿水平，在 Artificial Analysis Intelligence Index（九项基准综合分）上追平 GPT-5.6 Sol。",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30276",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T18:08:15.407328Z"
-      }
-    },
-    {
-      "story_id": "story_208a14008235",
-      "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
-      "url": "https://x.com/OpenRouter/status/2087509478480765218",
-      "primary_url": "https://x.com/OpenRouter/status/2087509478480765218",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
-          "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
-          "title_zh": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
-          "title_en": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
-          "title_original": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
-          "summary": "Meta AI 超级智能实验室的首个开放权重模型 Muse Glimmer 已在 OpenRouter 上线！\n\n这是一款 30B 密集文本+图像模型，采用 Apache 2.0 许可证，旨在成为可靠的本地智能体，MCP Atlas 得分 75.5，SWE-Bench Pro 得分 51.2。\n\nhttps://openrouter.ai/meta/muse-glimmer-30b",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2087509478480765218",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T12:00:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
-          "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
-          "title_zh": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
-          "title_en": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
-          "title_original": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
-          "summary": "Meta AI 超级智能实验室的首个开放权重模型 Muse Glimmer 已在 OpenRouter 上线！\n\n这是一款 30B 密集文本+图像模型，采用 Apache 2.0 许可证，旨在成为可靠的本地智能体，MCP Atlas 得分 75.5，SWE-Bench Pro 得分 51.2。\n\nhttps://openrouter.ai/meta/muse-glimmer-30b",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2087509478480765218",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T12:00:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9154,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T12:00:18Z",
-      "latest_at": "2026-08-12T12:00:18Z",
-      "primary_item": {
-        "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
-        "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
-        "title_zh": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
-        "title_en": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
-        "title_original": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
-        "summary": "Meta AI 超级智能实验室的首个开放权重模型 Muse Glimmer 已在 OpenRouter 上线！\n\n这是一款 30B 密集文本+图像模型，采用 Apache 2.0 许可证，旨在成为可靠的本地智能体，MCP Atlas 得分 75.5，SWE-Bench Pro 得分 51.2。\n\nhttps://openrouter.ai/meta/muse-glimmer-30b",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenRouter/status/2087509478480765218",
-        "source": "X：OpenRouter (@OpenRouter)",
+        "url": "https://x.ai/news/grok-4-6",
+        "source": "xAI：News（网页）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T18:08:15.407328Z"
-      }
-    },
-    {
-      "story_id": "story_7799176b7000",
-      "title": "ChatGPT 桌面端支持导入其他智能体工作数据 / You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
-      "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
-      "primary_url": "https://x.com/OpenAIDevs/status/2087242829076791392",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9024af61e406cc4fb1c6876b8f915e9d9f24896d",
-          "title": "ChatGPT 桌面端支持导入其他智能体工作数据 / You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
-          "title_zh": "ChatGPT 桌面端支持导入其他智能体工作数据",
-          "title_en": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
-          "title_original": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
-          "summary": "你现在可以将其他智能体的工作内容与 ChatGPT Work 和 Codex 保持同步。\n\n可导入项目、聊天记录、技能和插件，查看导入历史，并可在设置中选择开启自动更新。\n\n现已在 ChatGPT 桌面应用中提供。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T18:20:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI Developers (@OpenAIDevs)"
-      ],
-      "items": [
-        {
-          "id": "9024af61e406cc4fb1c6876b8f915e9d9f24896d",
-          "title": "ChatGPT 桌面端支持导入其他智能体工作数据 / You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
-          "title_zh": "ChatGPT 桌面端支持导入其他智能体工作数据",
-          "title_en": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
-          "title_original": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
-          "summary": "你现在可以将其他智能体的工作内容与 ChatGPT Work 和 Codex 保持同步。\n\n可导入项目、聊天记录、技能和插件，查看导入历史，并可在设置中选择开启自动更新。\n\n现已在 ChatGPT 桌面应用中提供。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T18:20:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7094,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T18:20:44Z",
-      "latest_at": "2026-08-11T18:20:44Z",
-      "primary_item": {
-        "id": "9024af61e406cc4fb1c6876b8f915e9d9f24896d",
-        "title": "ChatGPT 桌面端支持导入其他智能体工作数据 / You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
-        "title_zh": "ChatGPT 桌面端支持导入其他智能体工作数据",
-        "title_en": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
-        "title_original": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
-        "summary": "你现在可以将其他智能体的工作内容与 ChatGPT Work 和 Codex 保持同步。\n\n可导入项目、聊天记录、技能和插件，查看导入历史，并可在设置中选择开启自动更新。\n\n现已在 ChatGPT 桌面应用中提供。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T18:08:15.407328Z"
-      }
-    },
-    {
-      "story_id": "story_d8350f7d8fde",
-      "title": "微软首发自研推理模型MAI-Thinking-1 / Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
-      "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
-      "primary_url": "https://x.com/mustafasuleyman/status/2087570047967408396",
-      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1040d8dba308ac1dd323841a048cd390f23de6bb",
-          "title": "微软首发自研推理模型MAI-Thinking-1 / Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
-          "title_zh": "微软首发自研推理模型MAI-Thinking-1",
-          "title_en": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
-          "title_original": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
-          "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
-          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T16:00:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)"
-      ],
-      "items": [
-        {
-          "id": "1040d8dba308ac1dd323841a048cd390f23de6bb",
-          "title": "微软首发自研推理模型MAI-Thinking-1 / Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
-          "title_zh": "微软首发自研推理模型MAI-Thinking-1",
-          "title_en": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
-          "title_original": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
-          "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
-          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T16:00:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.97,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T16:00:59Z",
-      "latest_at": "2026-08-12T16:00:59Z",
-      "primary_item": {
-        "id": "1040d8dba308ac1dd323841a048cd390f23de6bb",
-        "title": "微软首发自研推理模型MAI-Thinking-1 / Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
-        "title_zh": "微软首发自研推理模型MAI-Thinking-1",
-        "title_en": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
-        "title_original": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
-        "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
-        "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T18:08:15.407328Z"
-      }
-    },
-    {
-      "story_id": "story_8a4c14a3381a",
-      "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
-          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
-          "title_zh": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-          "title_en": "ChatGPT and Gemini both just passed 1 billion users",
-          "title_original": "ChatGPT and Gemini both just passed 1 billion users",
-          "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T19:41:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
-          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
-          "title_zh": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-          "title_en": "ChatGPT and Gemini both just passed 1 billion users",
-          "title_original": "ChatGPT and Gemini both just passed 1 billion users",
-          "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T19:41:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7233,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T19:41:42Z",
-      "latest_at": "2026-08-11T19:41:42Z",
-      "primary_item": {
-        "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
-        "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
-        "title_zh": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-        "title_en": "ChatGPT and Gemini both just passed 1 billion users",
-        "title_original": "ChatGPT and Gemini both just passed 1 billion users",
-        "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T18:08:15.407328Z"
+        "scored_at": "2026-08-12T19:21:05.405937Z"
       }
     },
     {
@@ -1340,15 +963,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7956,
-      "importance": 0.7956,
-      "importance_score": 0.7956,
+      "score": 0.7933,
+      "importance": 0.7933,
+      "importance_score": 0.7933,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7312,
+        "recency": 0.7184,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1375,7 +998,413 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T18:08:15.407328Z"
+        "scored_at": "2026-08-12T19:21:05.405937Z"
+      }
+    },
+    {
+      "story_id": "story_17d6705d1084",
+      "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+      "url": "https://www.aibase.com/news/30276",
+      "primary_url": "https://www.aibase.com/news/30276",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "19885d82860a200a6c11b27212173a78ac3ba013",
+          "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "title_zh": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "title_en": null,
+          "title_original": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30276",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T13:55:47.520230Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "19885d82860a200a6c11b27212173a78ac3ba013",
+          "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "title_zh": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "title_en": null,
+          "title_original": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30276",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T13:55:47.520230Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9249,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T13:55:47.520230Z",
+      "latest_at": "2026-08-12T13:55:47.520230Z",
+      "primary_item": {
+        "id": "19885d82860a200a6c11b27212173a78ac3ba013",
+        "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+        "title_zh": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+        "title_en": null,
+        "title_original": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30276",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T19:21:05.405937Z"
+      }
+    },
+    {
+      "story_id": "story_208a14008235",
+      "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+      "url": "https://x.com/OpenRouter/status/2087509478480765218",
+      "primary_url": "https://x.com/OpenRouter/status/2087509478480765218",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
+          "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "title_zh": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
+          "title_en": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "title_original": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "summary": "Meta AI 超级智能实验室的首个开放权重模型 Muse Glimmer 已在 OpenRouter 上线！\n\n这是一款 30B 密集文本+图像模型，采用 Apache 2.0 许可证，旨在成为可靠的本地智能体，MCP Atlas 得分 75.5，SWE-Bench Pro 得分 51.2。\n\nhttps://openrouter.ai/meta/muse-glimmer-30b",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2087509478480765218",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T12:00:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
+          "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "title_zh": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
+          "title_en": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "title_original": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "summary": "Meta AI 超级智能实验室的首个开放权重模型 Muse Glimmer 已在 OpenRouter 上线！\n\n这是一款 30B 密集文本+图像模型，采用 Apache 2.0 许可证，旨在成为可靠的本地智能体，MCP Atlas 得分 75.5，SWE-Bench Pro 得分 51.2。\n\nhttps://openrouter.ai/meta/muse-glimmer-30b",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2087509478480765218",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T12:00:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8995,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T12:00:18Z",
+      "latest_at": "2026-08-12T12:00:18Z",
+      "primary_item": {
+        "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
+        "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+        "title_zh": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
+        "title_en": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+        "title_original": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+        "summary": "Meta AI 超级智能实验室的首个开放权重模型 Muse Glimmer 已在 OpenRouter 上线！\n\n这是一款 30B 密集文本+图像模型，采用 Apache 2.0 许可证，旨在成为可靠的本地智能体，MCP Atlas 得分 75.5，SWE-Bench Pro 得分 51.2。\n\nhttps://openrouter.ai/meta/muse-glimmer-30b",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenRouter/status/2087509478480765218",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T19:21:05.405937Z"
+      }
+    },
+    {
+      "story_id": "story_11311575560e",
+      "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求 / Your contributors are AI-first now. Is your project？",
+      "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+      "primary_url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+      "source": "GitHub Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "db8cb1b09708503077cd0ebbc7d6809608eee5d2",
+          "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求 / Your contributors are AI-first now. Is your project？",
+          "title_zh": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+          "title_en": "Your contributors are AI-first now. Is your project？",
+          "title_original": "Your contributors are AI-first now. Is your project？",
+          "summary": "AutoGPT 维护者发现，AI 智能体不会主动阅读文档，因此将指令放在 AGENTS.md 和技能文件中，并置于代码目录旁。他们通过强制 PR 模板、测试计划、CI 覆盖率门槛和 CLA 签名等门控机制，将智能体提交的 PR 从\"不可用\"转变为\"可用但不符合路线图\"。其中 CLA 签名因需浏览器和 OAuth 流程，被用作区分人类与智能体的\"人类探测器\"。",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T18:00:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "db8cb1b09708503077cd0ebbc7d6809608eee5d2",
+          "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求 / Your contributors are AI-first now. Is your project？",
+          "title_zh": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+          "title_en": "Your contributors are AI-first now. Is your project？",
+          "title_original": "Your contributors are AI-first now. Is your project？",
+          "summary": "AutoGPT 维护者发现，AI 智能体不会主动阅读文档，因此将指令放在 AGENTS.md 和技能文件中，并置于代码目录旁。他们通过强制 PR 模板、测试计划、CI 覆盖率门槛和 CLA 签名等门控机制，将智能体提交的 PR 从\"不可用\"转变为\"可用但不符合路线图\"。其中 CLA 签名因需浏览器和 OAuth 流程，被用作区分人类与智能体的\"人类探测器\"。",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T18:00:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9809,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T18:00:08Z",
+      "latest_at": "2026-08-12T18:00:08Z",
+      "primary_item": {
+        "id": "db8cb1b09708503077cd0ebbc7d6809608eee5d2",
+        "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求 / Your contributors are AI-first now. Is your project？",
+        "title_zh": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+        "title_en": "Your contributors are AI-first now. Is your project？",
+        "title_original": "Your contributors are AI-first now. Is your project？",
+        "summary": "AutoGPT 维护者发现，AI 智能体不会主动阅读文档，因此将指令放在 AGENTS.md 和技能文件中，并置于代码目录旁。他们通过强制 PR 模板、测试计划、CI 覆盖率门槛和 CLA 签名等门控机制，将智能体提交的 PR 从\"不可用\"转变为\"可用但不符合路线图\"。其中 CLA 签名因需浏览器和 OAuth 流程，被用作区分人类与智能体的\"人类探测器\"。",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+        "source": "GitHub Blog",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T19:21:05.405937Z"
+      }
+    },
+    {
+      "story_id": "story_d8350f7d8fde",
+      "title": "微软首发自研推理模型MAI-Thinking-1 / Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
+      "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
+      "primary_url": "https://x.com/mustafasuleyman/status/2087570047967408396",
+      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1040d8dba308ac1dd323841a048cd390f23de6bb",
+          "title": "微软首发自研推理模型MAI-Thinking-1 / Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
+          "title_zh": "微软首发自研推理模型MAI-Thinking-1",
+          "title_en": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
+          "title_original": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
+          "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
+          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T16:00:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)"
+      ],
+      "items": [
+        {
+          "id": "1040d8dba308ac1dd323841a048cd390f23de6bb",
+          "title": "微软首发自研推理模型MAI-Thinking-1 / Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
+          "title_zh": "微软首发自研推理模型MAI-Thinking-1",
+          "title_en": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
+          "title_original": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
+          "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
+          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T16:00:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9531,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T16:00:59Z",
+      "latest_at": "2026-08-12T16:00:59Z",
+      "primary_item": {
+        "id": "1040d8dba308ac1dd323841a048cd390f23de6bb",
+        "title": "微软首发自研推理模型MAI-Thinking-1 / Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
+        "title_zh": "微软首发自研推理模型MAI-Thinking-1",
+        "title_en": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
+        "title_original": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
+        "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
+        "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T19:21:05.405937Z"
+      }
+    },
+    {
+      "story_id": "story_8a4c14a3381a",
+      "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
+          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
+          "title_zh": "ChatGPT 与 Gemini 双双突破 10 亿用户",
+          "title_en": "ChatGPT and Gemini both just passed 1 billion users",
+          "title_original": "ChatGPT and Gemini both just passed 1 billion users",
+          "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T19:41:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
+          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
+          "title_zh": "ChatGPT 与 Gemini 双双突破 10 亿用户",
+          "title_en": "ChatGPT and Gemini both just passed 1 billion users",
+          "title_original": "ChatGPT and Gemini both just passed 1 billion users",
+          "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T19:41:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7107,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-11T19:41:42Z",
+      "latest_at": "2026-08-11T19:41:42Z",
+      "primary_item": {
+        "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
+        "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
+        "title_zh": "ChatGPT 与 Gemini 双双突破 10 亿用户",
+        "title_en": "ChatGPT and Gemini both just passed 1 billion users",
+        "title_original": "ChatGPT and Gemini both just passed 1 billion users",
+        "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T19:21:05.405937Z"
       }
     },
     {
@@ -1423,15 +1452,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9412,
+        "recency": 0.9249,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1457,7 +1486,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T18:08:15.407328Z"
+        "scored_at": "2026-08-12T19:21:05.405937Z"
       }
     },
     {
@@ -1505,15 +1534,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7248,
-      "importance": 0.7248,
-      "importance_score": 0.7248,
+      "score": 0.7219,
+      "importance": 0.7219,
+      "importance_score": 0.7219,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.929,
+        "recency": 0.9128,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1538,88 +1567,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T18:08:15.407328Z"
-      }
-    },
-    {
-      "story_id": "story_4293fc83f66b",
-      "title": "零基础用户半天上手AI的12步实操流程",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d747a416f4c95455fae2ec95897bb170bc08f61c",
-          "title": "零基础用户半天上手AI的12步实操流程",
-          "title_zh": "零基础用户半天上手AI的12步实操流程",
-          "title_en": null,
-          "title_original": "零基础用户半天上手AI的12步实操流程",
-          "summary": "文章给出一套零基础用户半天上手AI的12步实操流程：准备内存不低于16G的电脑，订阅ChatGPT并安装Codex或使用WorkBuddy，用语音输入法以【背景、痛点、需求】框架向AI交代任务，经苏格拉底提问澄清需求后投喂文件让AI直接完成，最后沉淀为可复用Skill。文中建议Codex选GPT-5.6 Sol最高模型，WorkBuddy选Kimi K3。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T00:08:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "d747a416f4c95455fae2ec95897bb170bc08f61c",
-          "title": "零基础用户半天上手AI的12步实操流程",
-          "title_zh": "零基础用户半天上手AI的12步实操流程",
-          "title_en": null,
-          "title_original": "零基础用户半天上手AI的12步实操流程",
-          "summary": "文章给出一套零基础用户半天上手AI的12步实操流程：准备内存不低于16G的电脑，订阅ChatGPT并安装Codex或使用WorkBuddy，用语音输入法以【背景、痛点、需求】框架向AI交代任务，经苏格拉底提问澄清需求后投喂文件让AI直接完成，最后沉淀为可复用Skill。文中建议Codex选GPT-5.6 Sol最高模型，WorkBuddy选Kimi K3。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T00:08:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7204,
-      "importance": 0.7204,
-      "importance_score": 0.7204,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7712,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T00:08:00Z",
-      "latest_at": "2026-08-12T00:08:00Z",
-      "primary_item": {
-        "id": "d747a416f4c95455fae2ec95897bb170bc08f61c",
-        "title": "零基础用户半天上手AI的12步实操流程",
-        "title_zh": "零基础用户半天上手AI的12步实操流程",
-        "title_en": null,
-        "title_original": "零基础用户半天上手AI的12步实操流程",
-        "summary": "文章给出一套零基础用户半天上手AI的12步实操流程：准备内存不低于16G的电脑，订阅ChatGPT并安装Codex或使用WorkBuddy，用语音输入法以【背景、痛点、需求】框架向AI交代任务，经苏格拉底提问澄清需求后投喂文件让AI直接完成，最后沉淀为可复用Skill。文中建议Codex选GPT-5.6 Sol最高模型，WorkBuddy选Kimi K3。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T18:08:15.407328Z"
+        "scored_at": "2026-08-12T19:21:05.405937Z"
       }
     },
     {
@@ -1667,15 +1615,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8489,
+        "recency": 0.8341,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1700,7 +1648,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T18:08:15.407328Z"
+        "scored_at": "2026-08-12T19:21:05.405937Z"
+      }
+    },
+    {
+      "story_id": "story_8703bb84c475",
+      "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+      "url": "https://www.aibase.com/news/30277",
+      "primary_url": "https://www.aibase.com/news/30277",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
+          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "title_zh": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "title_en": null,
+          "title_original": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30277",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T13:55:47.520230Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
+          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "title_zh": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "title_en": null,
+          "title_original": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30277",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T13:55:47.520230Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9249,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T13:55:47.520230Z",
+      "latest_at": "2026-08-12T13:55:47.520230Z",
+      "primary_item": {
+        "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
+        "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+        "title_zh": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+        "title_en": null,
+        "title_original": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30277",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T19:21:05.405937Z"
       }
     }
   ]
