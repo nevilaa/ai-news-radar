@@ -1,91 +1,8 @@
 {
-  "generated_at": "2026-08-15T22:37:35.100244Z",
+  "generated_at": "2026-08-15T23:34:25.774974Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_e27bfcf013b4",
-      "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
-      "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-      "primary_url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
-          "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
-          "title_zh": "OAuth 应用程序的多个重定向 URI 和令牌刷新",
-          "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
-          "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T22:43:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
-          "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
-          "title_zh": "OAuth 应用程序的多个重定向 URI 和令牌刷新",
-          "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
-          "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T22:43:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7915,
-      "importance": 0.7915,
-      "importance_score": 0.7915,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7082,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T22:43:44Z",
-      "latest_at": "2026-08-14T22:43:44Z",
-      "primary_item": {
-        "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
-        "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
-        "title_zh": "OAuth 应用程序的多个重定向 URI 和令牌刷新",
-        "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
-        "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:38:12.830106Z"
-      }
-    },
     {
       "story_id": "story_fe87bc97dd0a",
       "title": "Cursor 正式被 SpaceX 收购",
@@ -160,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7831,
-      "importance": 0.7831,
-      "importance_score": 0.7831,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9642,
+        "recency": 0.9511,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -195,7 +112,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:38:12.830106Z"
+        "scored_at": "2026-08-15T23:35:00.300743Z"
       }
     },
     {
@@ -243,15 +160,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7338,
-      "importance": 0.7338,
-      "importance_score": 0.7338,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8456,
+        "recency": 0.8341,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -276,7 +193,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:38:12.830106Z"
+        "scored_at": "2026-08-15T23:35:00.300743Z"
+      }
+    },
+    {
+      "story_id": "story_dbeb44805b60",
+      "title": "Anthropic 分享了有关Claude新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+      "primary_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "ec86a32dff4fd6dbb4f2436446fbeb7445e157c3",
+          "title": "Anthropic 分享了有关Claude新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
+          "title_zh": "Anthropic 分享了有关Claude新水印如何运作的更多细节",
+          "title_en": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "title_original": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-15T18:58:39Z"
+        },
+        {
+          "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
+          "title": "Anthropic 分享了有关Claude的新水印如何工作的详细信息 / Anthropic shares details about how Claude's new watermarks will work",
+          "title_zh": "Anthropic 分享了有关Claude的新水印如何工作的详细信息",
+          "title_en": "Anthropic shares details about how Claude's new watermarks will work",
+          "title_original": "Anthropic shares details about how Claude's new watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-15T22:07:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "ec86a32dff4fd6dbb4f2436446fbeb7445e157c3",
+          "title": "Anthropic 分享了有关Claude新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
+          "title_zh": "Anthropic 分享了有关Claude新水印如何运作的更多细节",
+          "title_en": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "title_original": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-15T18:58:39Z"
+        },
+        {
+          "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
+          "title": "Anthropic 分享了有关Claude的新水印如何工作的详细信息 / Anthropic shares details about how Claude's new watermarks will work",
+          "title_zh": "Anthropic 分享了有关Claude的新水印如何工作的详细信息",
+          "title_en": "Anthropic shares details about how Claude's new watermarks will work",
+          "title_original": "Anthropic shares details about how Claude's new watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-15T22:07:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6622,
+      "importance": 0.6622,
+      "importance_score": 0.6622,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5904,
+        "source_tier": 0.58,
+        "ai_relevance": 0.82,
+        "recency": 0.9358,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-15T18:58:39Z",
+      "latest_at": "2026-08-15T22:07:08Z",
+      "primary_item": {
+        "id": "ec86a32dff4fd6dbb4f2436446fbeb7445e157c3",
+        "title": "Anthropic 分享了有关Claude新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
+        "title_zh": "Anthropic 分享了有关Claude新水印如何运作的更多细节",
+        "title_en": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "title_original": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T23:35:00.300743Z"
       }
     },
     {
@@ -439,15 +467,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6196,
-      "importance": 0.6196,
-      "importance_score": 0.6196,
+      "score": 0.6172,
+      "importance": 0.6172,
+      "importance_score": 0.6172,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9934,
+        "recency": 0.9799,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -472,7 +500,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:38:12.830106Z"
+        "scored_at": "2026-08-15T23:35:00.300743Z"
       }
     },
     {
@@ -578,15 +606,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.567,
-      "importance": 0.567,
-      "importance_score": 0.567,
+      "score": 0.5646,
+      "importance": 0.5646,
+      "importance_score": 0.5646,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9791,
+        "recency": 0.9658,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -611,7 +639,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:38:12.830106Z"
+        "scored_at": "2026-08-15T23:35:00.300743Z"
       }
     },
     {
@@ -745,15 +773,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.592,
-      "importance": 0.592,
-      "importance_score": 0.592,
+      "score": 0.5896,
+      "importance": 0.5896,
+      "importance_score": 0.5896,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9791,
+        "recency": 0.9658,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -778,7 +806,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:38:12.830106Z"
+        "scored_at": "2026-08-15T23:35:00.300743Z"
       }
     },
     {
@@ -884,15 +912,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5559,
-      "importance": 0.5559,
-      "importance_score": 0.5559,
+      "score": 0.5536,
+      "importance": 0.5536,
+      "importance_score": 0.5536,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9171,
+        "recency": 0.9046,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -917,7 +945,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:38:12.830106Z"
+        "scored_at": "2026-08-15T23:35:00.300743Z"
       }
     },
     {
@@ -1023,15 +1051,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5496,
-      "importance": 0.5496,
-      "importance_score": 0.5496,
+      "score": 0.5475,
+      "importance": 0.5475,
+      "importance_score": 0.5475,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8825,
+        "recency": 0.8705,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1056,7 +1084,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:38:12.830106Z"
+        "scored_at": "2026-08-15T23:35:00.300743Z"
       }
     },
     {
@@ -1133,15 +1161,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9716,
+        "recency": 0.9584,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1166,7 +1194,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:38:12.830106Z"
+        "scored_at": "2026-08-15T23:35:00.300743Z"
       }
     },
     {
@@ -1243,15 +1271,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5008,
-      "importance": 0.5008,
-      "importance_score": 0.5008,
+      "score": 0.499,
+      "importance": 0.499,
+      "importance_score": 0.499,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.75,
+        "recency": 0.7398,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1273,10 +1301,10 @@
         "source_name": "TechURLs"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:38:12.830106Z"
+        "scored_at": "2026-08-15T23:35:00.300743Z"
       }
     },
     {
@@ -1382,15 +1410,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5512,
-      "importance": 0.5512,
-      "importance_score": 0.5512,
+      "score": 0.549,
+      "importance": 0.549,
+      "importance_score": 0.549,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8912,
+        "recency": 0.8791,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1415,7 +1443,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:38:12.830106Z"
+        "scored_at": "2026-08-15T23:35:00.300743Z"
+      }
+    },
+    {
+      "story_id": "story_dfcb40835c8c",
+      "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+      "url": "https://news.ycombinator.com/item?id=49314594",
+      "primary_url": "https://news.ycombinator.com/item?id=49314594",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
+          "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_zh": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD",
+          "title_en": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_original": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49314594",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T23:10:01.607000Z"
+        },
+        {
+          "id": "93e8094c3cc8a799abf393e2ec0c67cb9e3d8e0a",
+          "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_zh": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD",
+          "title_en": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_original": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/christensen143/claude-trofeo-hud",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T21:42:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
+          "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_zh": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD",
+          "title_en": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_original": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49314594",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T23:10:01.607000Z"
+        },
+        {
+          "id": "93e8094c3cc8a799abf393e2ec0c67cb9e3d8e0a",
+          "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_zh": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD",
+          "title_en": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_original": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/christensen143/claude-trofeo-hud",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T21:42:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9941,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T21:42:39Z",
+      "latest_at": "2026-08-15T23:10:01.607000Z",
+      "primary_item": {
+        "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
+        "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+        "title_zh": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD",
+        "title_en": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+        "title_original": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49314594",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T23:35:00.300743Z"
       }
     },
     {
@@ -1492,15 +1630,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9791,
+        "recency": 0.9658,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1525,7 +1663,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:38:12.830106Z"
+        "scored_at": "2026-08-15T23:35:00.300743Z"
       }
     },
     {
@@ -1602,15 +1740,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9791,
+        "recency": 0.9658,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1635,7 +1773,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:38:12.830106Z"
+        "scored_at": "2026-08-15T23:35:00.300743Z"
       }
     },
     {
@@ -1712,15 +1850,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.531,
-      "importance": 0.531,
-      "importance_score": 0.531,
+      "score": 0.5288,
+      "importance": 0.5288,
+      "importance_score": 0.5288,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9179,
+        "recency": 0.9055,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1745,7 +1883,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:38:12.830106Z"
+        "scored_at": "2026-08-15T23:35:00.300743Z"
       }
     },
     {
@@ -1822,15 +1960,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.531,
-      "importance": 0.531,
-      "importance_score": 0.531,
+      "score": 0.5288,
+      "importance": 0.5288,
+      "importance_score": 0.5288,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9179,
+        "recency": 0.9055,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1855,7 +1993,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:38:12.830106Z"
+        "scored_at": "2026-08-15T23:35:00.300743Z"
       }
     },
     {
@@ -1932,15 +2070,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
+      "score": 0.524,
+      "importance": 0.524,
+      "importance_score": 0.524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8912,
+        "recency": 0.8791,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1965,7 +2103,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:38:12.830106Z"
+        "scored_at": "2026-08-15T23:35:00.300743Z"
       }
     },
     {
@@ -2042,15 +2180,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5241,
-      "importance": 0.5241,
-      "importance_score": 0.5241,
+      "score": 0.522,
+      "importance": 0.522,
+      "importance_score": 0.522,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8796,
+        "recency": 0.8676,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2075,7 +2213,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:38:12.830106Z"
+        "scored_at": "2026-08-15T23:35:00.300743Z"
       }
     },
     {
@@ -2152,15 +2290,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5216,
-      "importance": 0.5216,
-      "importance_score": 0.5216,
+      "score": 0.5195,
+      "importance": 0.5195,
+      "importance_score": 0.5195,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8656,
+        "recency": 0.8539,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2185,7 +2323,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:38:12.830106Z"
+        "scored_at": "2026-08-15T23:35:00.300743Z"
       }
     },
     {
@@ -2262,15 +2400,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5144,
-      "importance": 0.5144,
-      "importance_score": 0.5144,
+      "score": 0.5124,
+      "importance": 0.5124,
+      "importance_score": 0.5124,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8256,
+        "recency": 0.8144,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2295,117 +2433,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:38:12.830106Z"
-      }
-    },
-    {
-      "story_id": "story_7997168e9fa3",
-      "title": "Claude寓言5 玩得开心 / Claude Fable 5 Having Fun",
-      "url": "https://news.ycombinator.com/item?id=49305642",
-      "primary_url": "https://news.ycombinator.com/item?id=49305642",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "62aec33577ddba6c91ec387131cb67a11ba49f72",
-          "title": "Claude寓言5 玩得开心 / Claude Fable 5 Having Fun",
-          "title_zh": "Claude寓言5 玩得开心",
-          "title_en": "Claude Fable 5 Having Fun",
-          "title_original": "Claude Fable 5 Having Fun",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49305642",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T23:37:47.482000Z"
-        },
-        {
-          "id": "e55e047834a78a545af0c1dd41cfb1a5118c170c",
-          "title": "Claude寓言5 玩得开心 / Claude Fable 5 Having Fun",
-          "title_zh": "Claude寓言5 玩得开心",
-          "title_en": "Claude Fable 5 Having Fun",
-          "title_original": "Claude Fable 5 Having Fun",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/robss2020/claude-fable-5-having-fun",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T23:01:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "62aec33577ddba6c91ec387131cb67a11ba49f72",
-          "title": "Claude寓言5 玩得开心 / Claude Fable 5 Having Fun",
-          "title_zh": "Claude寓言5 玩得开心",
-          "title_en": "Claude Fable 5 Having Fun",
-          "title_original": "Claude Fable 5 Having Fun",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49305642",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T23:37:47.482000Z"
-        },
-        {
-          "id": "e55e047834a78a545af0c1dd41cfb1a5118c170c",
-          "title": "Claude寓言5 玩得开心 / Claude Fable 5 Having Fun",
-          "title_zh": "Claude寓言5 玩得开心",
-          "title_en": "Claude Fable 5 Having Fun",
-          "title_original": "Claude Fable 5 Having Fun",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/robss2020/claude-fable-5-having-fun",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T23:01:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4949,
-      "importance": 0.4949,
-      "importance_score": 0.4949,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7174,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T23:01:46Z",
-      "latest_at": "2026-08-14T23:37:47.482000Z",
-      "primary_item": {
-        "id": "62aec33577ddba6c91ec387131cb67a11ba49f72",
-        "title": "Claude寓言5 玩得开心 / Claude Fable 5 Having Fun",
-        "title_zh": "Claude寓言5 玩得开心",
-        "title_en": "Claude Fable 5 Having Fun",
-        "title_original": "Claude Fable 5 Having Fun",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49305642",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T22:38:12.830106Z"
+        "scored_at": "2026-08-15T23:35:00.300743Z"
       }
     }
   ]
