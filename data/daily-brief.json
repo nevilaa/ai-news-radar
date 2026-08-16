@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T23:33:15.482455Z",
+  "generated_at": "2026-08-16T23:34:28.049968Z",
   "window_hours": 24,
   "total_items": 16,
   "items": [
@@ -56,7 +56,7 @@
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.978,
+        "recency": 0.9777,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -82,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T23:33:54.499891Z"
+        "scored_at": "2026-08-16T23:35:05.977018Z"
       }
     },
     {
@@ -167,7 +167,7 @@
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8378,
+        "recency": 0.8376,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -194,7 +194,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T23:33:54.499891Z"
+        "scored_at": "2026-08-16T23:35:05.977018Z"
       }
     },
     {
@@ -242,15 +242,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
+      "score": 0.7218,
+      "importance": 0.7218,
+      "importance_score": 0.7218,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7459,
+        "recency": 0.7457,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -275,7 +275,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T23:33:54.499891Z"
+        "scored_at": "2026-08-16T23:35:05.977018Z"
       }
     },
     {
@@ -389,7 +389,7 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9963,
+        "recency": 0.996,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -414,7 +414,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T23:33:54.499891Z"
+        "scored_at": "2026-08-16T23:35:05.977018Z"
       }
     },
     {
@@ -528,7 +528,7 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9957,
+        "recency": 0.9954,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -553,7 +553,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T23:33:54.499891Z"
+        "scored_at": "2026-08-16T23:35:05.977018Z"
       }
     },
     {
@@ -667,7 +667,7 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9155,
+        "recency": 0.9153,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -692,7 +692,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T23:33:54.499891Z"
+        "scored_at": "2026-08-16T23:35:05.977018Z"
       }
     },
     {
@@ -798,15 +798,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5382,
-      "importance": 0.5382,
-      "importance_score": 0.5382,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8187,
+        "recency": 0.8184,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -831,7 +831,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T23:33:54.499891Z"
+        "scored_at": "2026-08-16T23:35:05.977018Z"
       }
     },
     {
@@ -908,15 +908,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5312,
-      "importance": 0.5312,
-      "importance_score": 0.5312,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9188,
+        "recency": 0.9185,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -941,7 +941,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T23:33:54.499891Z"
+        "scored_at": "2026-08-16T23:35:05.977018Z"
       }
     },
     {
@@ -1018,15 +1018,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5238,
-      "importance": 0.5238,
-      "importance_score": 0.5238,
+      "score": 0.5237,
+      "importance": 0.5237,
+      "importance_score": 0.5237,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8775,
+        "recency": 0.8772,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1051,7 +1051,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T23:33:54.499891Z"
+        "scored_at": "2026-08-16T23:35:05.977018Z"
       }
     },
     {
@@ -1077,7 +1077,7 @@
           "published_at": "2026-08-16T22:15:06.163000Z"
         },
         {
-          "id": "216c7ae686b6ed275ac6d38453019a626829ad7b",
+          "id": "817b9095f29d769e5a726d6d1bbf6f9ba8a878b8",
           "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
           "title_zh": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测",
           "title_en": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
@@ -1085,15 +1085,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-16T21:00:25Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
@@ -1112,7 +1112,7 @@
           "published_at": "2026-08-16T22:15:06.163000Z"
         },
         {
-          "id": "216c7ae686b6ed275ac6d38453019a626829ad7b",
+          "id": "817b9095f29d769e5a726d6d1bbf6f9ba8a878b8",
           "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
           "title_zh": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测",
           "title_en": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
@@ -1120,9 +1120,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-16T21:00:25Z"
         }
       ],
@@ -1136,7 +1136,7 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9814,
+        "recency": 0.9811,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1161,7 +1161,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T23:33:54.499891Z"
+        "scored_at": "2026-08-16T23:35:05.977018Z"
       }
     },
     {
@@ -1246,7 +1246,7 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9814,
+        "recency": 0.9811,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1271,7 +1271,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T23:33:54.499891Z"
+        "scored_at": "2026-08-16T23:35:05.977018Z"
       }
     },
     {
@@ -1348,15 +1348,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5254,
-      "importance": 0.5254,
-      "importance_score": 0.5254,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8865,
+        "recency": 0.8862,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1381,7 +1381,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T23:33:54.499891Z"
+        "scored_at": "2026-08-16T23:35:05.977018Z"
       }
     },
     {
@@ -1458,15 +1458,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5254,
-      "importance": 0.5254,
-      "importance_score": 0.5254,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8865,
+        "recency": 0.8862,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1491,7 +1491,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T23:33:54.499891Z"
+        "scored_at": "2026-08-16T23:35:05.977018Z"
       }
     },
     {
@@ -1568,15 +1568,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5231,
-      "importance": 0.5231,
-      "importance_score": 0.5231,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8737,
+        "recency": 0.8735,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1601,7 +1601,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T23:33:54.499891Z"
+        "scored_at": "2026-08-16T23:35:05.977018Z"
       }
     },
     {
@@ -1686,7 +1686,7 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.773,
+        "recency": 0.7728,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1711,7 +1711,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T23:33:54.499891Z"
+        "scored_at": "2026-08-16T23:35:05.977018Z"
       }
     },
     {
@@ -1796,7 +1796,7 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7456,
+        "recency": 0.7454,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1821,7 +1821,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T23:33:54.499891Z"
+        "scored_at": "2026-08-16T23:35:05.977018Z"
       }
     }
   ]
