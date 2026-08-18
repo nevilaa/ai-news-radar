@@ -3464,6 +3464,41 @@ body {
   text-decoration: none;
 }
 
+.topbar-start {
+  display: flex;
+  align-items: stretch;
+  min-width: 0;
+}
+
+.back-home {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  margin-right: 18px;
+  border-right: 1px solid var(--brief-line);
+  padding: 0 18px 0 0;
+  color: #4f5a63;
+  font-size: 12px;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.back-home > span {
+  color: var(--brief-teal);
+  font-size: 18px;
+  line-height: 1;
+}
+
+.back-home:hover {
+  color: var(--brief-teal);
+}
+
+.back-home:focus-visible {
+  border-radius: 3px;
+  outline: 2px solid var(--brief-teal);
+  outline-offset: 3px;
+}
+
 .topbar-brand::after {
   width: 1px;
   height: 28px;
@@ -4313,6 +4348,15 @@ body {
 
   .topbar-nav a {
     padding: 0 10px;
+  }
+
+  .back-home {
+    margin-right: 10px;
+    padding-right: 10px;
+  }
+
+  .back-home strong {
+    display: none;
   }
 
   .topbar-action span:last-child {
