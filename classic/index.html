@@ -35,69 +35,124 @@
     <link rel="apple-touch-icon" href="./assets/icons/apple-touch-icon.png" sizes="180x180" />
     <link rel="manifest" href="./site.webmanifest" />
     <script src="./assets/view-mode.js?v=dual-view-0713c" data-root="../"></script>
-    <link rel="stylesheet" href="./classic/assets/styles.css?v=signal-brief-0819a" />
+    <link rel="stylesheet" href="./classic/assets/styles.css?v=reference-match-0819a" />
     <link rel="stylesheet" href="./assets/view-switch.css?v=dual-view-0713b" />
   </head>
   <body>
+    <header class="site-topbar">
+      <a class="topbar-brand" href="https://www.shresearch.cn/" aria-label="返回思航研究首页">
+        <img src="./assets/logo.svg" alt="" />
+        <strong>思航研究 / AI Radar</strong>
+      </a>
+      <nav class="topbar-nav" aria-label="主导航">
+        <a class="active" href="#topStoriesTitle">信号简报</a>
+        <a href="/earnings/">深度研究</a>
+        <a href="#sectionTabs">主题追踪</a>
+        <a href="#advancedFilters">数据洞察</a>
+        <a href="https://www.shresearch.cn/">关于我们</a>
+      </nav>
+      <div class="topbar-actions">
+        <button class="topbar-action" type="button" id="topbarSearchBtn" aria-label="搜索">
+          <span aria-hidden="true">⌕</span><span>搜索</span>
+        </button>
+        <a class="topbar-action" href="#briefWatchlist" aria-label="我的关注">
+          <span aria-hidden="true">☆</span><span>我的关注</span>
+        </a>
+        <details class="profile-menu">
+          <summary aria-label="切换页面视角"><span>SR</span></summary>
+          <div class="view-switch" role="group" aria-label="视角切换">
+            <button class="view-switch-btn" type="button" data-radar-view-target="mobile">手机版</button>
+            <button class="view-switch-btn" type="button" data-radar-view-target="classic">经典版</button>
+          </div>
+        </details>
+      </div>
+    </header>
+
     <main class="shell">
-      <header class="hero">
-        <div class="hero-main">
-          <div class="hero-headline">
-            <div>
-              <a class="radar-brand" href="https://www.shresearch.cn/" aria-label="返回思航研究首页">
-                <span>思航研究</span>
-                <strong>AI Radar</strong>
-              </a>
-              <div class="hero-updated hero-view-row">
-                <span class="updated-label">更新时间</span>
-                <span class="updated" id="updatedAt">加载中...</span>
-                <div class="view-switch" role="group" aria-label="视角切换">
-                  <span class="view-switch-label">视角</span>
-                  <button class="view-switch-btn" type="button" data-radar-view-target="mobile">手机版</button>
-                  <button class="view-switch-btn" type="button" data-radar-view-target="classic">经典版</button>
+      <div class="brief-layout">
+        <div class="brief-main">
+          <header class="hero">
+            <div class="brief-intro">
+              <p class="brief-kicker">AI Radar</p>
+              <h1>今天，最重要的三件 AI 变化</h1>
+              <p class="brief-description">为专业投资者与技术研究者提供的 AI 研究每日简报</p>
+            </div>
+            <div class="hero-datetime">
+              <span>过去 24 小时</span>
+              <time id="briefDate">--</time>
+              <span class="updated" id="updatedAt">加载中...</span>
+            </div>
+            <section class="stats" id="stats" hidden></section>
+          </header>
+
+          <section class="bole-picks-wrap" aria-label="今日 Top 3" id="bolePicksWrap">
+            <div class="bole-picks-head visually-hidden">
+              <h2 id="topStoriesTitle">今日重点信号</h2>
+              <div class="bole-head-tools">
+                <div class="bole-view-toggle" id="boleViewToggle" hidden>
+                  <button id="boleHotBtn" class="mode-btn" type="button">当前热点</button>
+                  <button id="boleTimelineBtn" class="mode-btn" type="button">时间线</button>
                 </div>
+                <span id="bolePicksMeta">按评分排序</span>
               </div>
             </div>
-          </div>
-          <div class="brief-intro">
-            <p class="brief-kicker">SIGNAL BRIEF</p>
-            <h1>今天，最重要的<br />三件 AI 变化</h1>
-            <p class="brief-description">从过去 24 小时的信号中，筛出真正值得研究和行动的变化。</p>
-          </div>
-        </div>
-        <div class="hero-meta">
-          <p class="aside-label">来源健康</p>
-          <span class="source-status-pill" id="sourceStatusPill">源状态加载中</span>
-          <p class="aside-copy">监测公开一手源、精选媒体和社区信号。异常来源不会进入精选判断。</p>
-          <div class="hero-links" aria-label="项目入口">
-            <a
-              class="hero-link"
-              href="https://github.com/LearnPrompt/ai-news-radar"
-              target="_blank"
-              rel="noopener noreferrer"
-            >GitHub 与接入指南</a>
-          </div>
-        </div>
+            <div id="bolePicksList" class="bole-board"></div>
+          </section>
 
-        <section class="stats" id="stats"></section>
+          <section class="signal-stream" aria-labelledby="listTitle">
+            <div class="stream-head">
+              <h2 id="listTitle">信号流 <span>（最新）</span></h2>
+              <div class="stream-tools">
+                <div class="mode-hint" id="modeHint">AI强相关</div>
+                <button class="filter-jump" type="button" id="filterJumpBtn">筛选</button>
+              </div>
+            </div>
+            <section class="section-nav-wrap" aria-label="内容栏目">
+              <div class="section-tabs" id="sectionTabs" role="tablist" aria-label="AI 新闻栏目"></div>
+              <div class="section-summary" id="sectionSummary">正在整理栏目...</div>
+            </section>
 
-        <section class="section-nav-wrap" aria-label="内容栏目">
-          <div class="section-tabs" id="sectionTabs" role="tablist" aria-label="AI 新闻栏目"></div>
-          <div class="section-summary" id="sectionSummary">正在整理栏目...</div>
-        </section>
-      </header>
+            <section class="primary-controls">
+              <input id="searchInput" type="search" placeholder="搜索 AI 信号 / 来源" />
+            </section>
 
-      <section class="primary-controls">
-        <input id="searchInput" type="search" placeholder="搜索 AI 信号 / 来源" />
-        <div class="mode-hint" id="modeHint">AI强相关</div>
-      </section>
+            <div class="sticky-summary-bar" aria-label="当前视图摘要">
+              <strong>AI News Radar</strong>
+              <span id="stickySummaryText">正在整理 24 小时信号...</span>
+            </div>
 
-      <div class="sticky-summary-bar" aria-label="当前视图摘要">
-        <strong>AI News Radar</strong>
-        <span id="stickySummaryText">正在整理 24 小时信号...</span>
-      </div>
+            <section class="list-wrap">
+              <div class="list-head">
+                <div class="list-head-tools">
+                  <div class="list-sort-tools" id="listSortTools" role="group" aria-label="全量列表排序">
+                    <button class="list-sort-btn active" type="button" data-sort="priority" title="综合来源权重、AI相关度、新鲜度与信号强度">综合</button>
+                    <button class="list-sort-btn" type="button" data-sort="latest" title="按发布时间或发现时间倒序">最新</button>
+                    <button class="list-sort-btn" type="button" data-sort="ai" title="按高相关度信号倒序">高分</button>
+                    <button class="list-sort-btn" type="button" data-sort="source" title="按来源聚合度整理">来源</button>
+                  </div>
+                  <span id="resultCount">0 条</span>
+                </div>
+              </div>
+              <div id="newsList" class="news-list"></div>
+            </section>
+          </section>
 
-      <details class="advanced-panel">
+          <section class="waytoagi-wrap">
+            <div class="waytoagi-head">
+              <h2>社区更新 · WaytoAGI</h2>
+              <div class="waytoagi-tools">
+                <div class="waytoagi-switch">
+                  <button id="waytoagiTodayBtn" class="waytoagi-btn active" type="button">最近更新日</button>
+                  <button id="waytoagi7dBtn" class="waytoagi-btn" type="button">近7日</button>
+                </div>
+                <span id="waytoagiUpdatedAt">加载中...</span>
+              </div>
+            </div>
+            <div id="waytoagiMeta" class="waytoagi-meta"></div>
+            <div id="waytoagiList" class="waytoagi-list"></div>
+          </section>
+
+          <details class="advanced-panel" id="advancedFilters">
           <summary>
             <span>高级筛选</span>
             <span class="advanced-summary" id="advancedSummary">加载中...</span>
@@ -168,56 +223,38 @@
             <section class="site-pills" id="sitePills"></section>
             </details>
           </div>
-      </details>
-
-      <section class="bole-picks-wrap" aria-label="今日 Top 3" id="bolePicksWrap">
-        <div class="bole-picks-head">
-          <div>
-            <p class="section-eyebrow">TODAY'S SIGNALS</p>
-            <h2 id="topStoriesTitle">今日重点信号</h2>
-          </div>
-          <div class="bole-head-tools">
-            <div class="bole-view-toggle" id="boleViewToggle" hidden>
-              <button id="boleHotBtn" class="mode-btn" type="button">当前热点</button>
-              <button id="boleTimelineBtn" class="mode-btn" type="button">时间线</button>
-            </div>
-            <span id="bolePicksMeta">按评分排序</span>
-          </div>
+          </details>
         </div>
-        <div id="bolePicksList" class="bole-board"></div>
-      </section>
 
-      <section class="waytoagi-wrap">
-        <div class="waytoagi-head">
-          <h2>社区更新 · WaytoAGI</h2>
-          <div class="waytoagi-tools">
-            <div class="waytoagi-switch">
-              <button id="waytoagiTodayBtn" class="waytoagi-btn active" type="button">最近更新日</button>
-              <button id="waytoagi7dBtn" class="waytoagi-btn" type="button">近7日</button>
+        <aside class="brief-rail" aria-label="研究辅助信息">
+          <section class="rail-section rail-health">
+            <div class="rail-heading">
+              <h2>来源健康 <span aria-hidden="true">ⓘ</span></h2>
+              <span>过去 24 小时</span>
             </div>
-            <span id="waytoagiUpdatedAt">加载中...</span>
-          </div>
-        </div>
-        <div id="waytoagiMeta" class="waytoagi-meta"></div>
-        <div id="waytoagiList" class="waytoagi-list"></div>
-      </section>
-
-      <section class="list-wrap">
-        <div class="list-head">
-          <h2 id="listTitle">全量 AI 情报源</h2>
-          <div class="list-head-tools">
-            <div class="list-sort-tools" id="listSortTools" role="group" aria-label="全量列表排序">
-              <button class="list-sort-btn active" type="button" data-sort="priority" title="综合来源权重、AI相关度、新鲜度与信号强度">综合</button>
-              <button class="list-sort-btn" type="button" data-sort="latest" title="按发布时间或发现时间倒序">最新</button>
-              <button class="list-sort-btn" type="button" data-sort="ai" title="按高相关度信号倒序">高分</button>
-              <button class="list-sort-btn" type="button" data-sort="source" title="按来源聚合度整理">来源</button>
+            <div class="health-overview">
+              <div class="health-ring" id="briefHealthRing"><strong id="briefHealthPct">--%</strong><span>整体健康度</span></div>
+              <div class="health-legend" id="briefHealthLegend"></div>
             </div>
-            <span id="resultCount">0 条</span>
-          </div>
-        </div>
-        <div id="newsList" class="news-list"></div>
-      </section>
+            <span class="source-status-pill" id="sourceStatusPill">源状态加载中</span>
+            <p class="rail-note">基于源可用性、抓取状态与近 24 小时有效信号综合计算。</p>
+            <a class="rail-link" href="#advancedFilters">查看方法论 →</a>
+          </section>
 
+          <section class="rail-section" id="briefWatchlist">
+            <div class="rail-heading"><h2>关注来源</h2><a href="#sectionTabs">管理</a></div>
+            <div class="rail-table-head"><span>来源</span><span>最新信号</span><span>24h</span></div>
+            <div class="rail-table" id="briefSourceList"><span class="rail-loading">正在整理来源...</span></div>
+          </section>
+
+          <section class="rail-section">
+            <div class="rail-heading"><h2>信号分布</h2><span>AI 相关</span></div>
+            <div class="rail-table-head rail-topic-head"><span>主题</span><span>信号数</span><span>高优</span></div>
+            <div class="rail-table" id="briefTopicList"><span class="rail-loading">正在统计主题...</span></div>
+            <a class="rail-link" href="#sectionTabs">查看全部主题 →</a>
+          </section>
+        </aside>
+      </div>
     </main>
 
     <template id="itemTpl">
