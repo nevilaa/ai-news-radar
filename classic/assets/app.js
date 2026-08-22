@@ -32,6 +32,8 @@ const state = {
   signalLevelFilter: "",
   siteGroupsExpanded: false,
   xAuthorsExpanded: false,
+  modelRankings: null,
+  activeBenchmark: "intelligence",
 };
 
 // Keep both UI surfaces on the same snapshot. The query/local-storage contract
@@ -119,6 +121,12 @@ const briefSourceListEl = document.getElementById("briefSourceList");
 const briefTopicListEl = document.getElementById("briefTopicList");
 const topbarSearchBtnEl = document.getElementById("topbarSearchBtn");
 const filterJumpBtnEl = document.getElementById("filterJumpBtn");
+const benchmarkTabsEl = document.querySelector(".benchmark-tabs");
+const benchmarkPanelEl = document.getElementById("benchmarkPanel");
+const benchmarkChartTitleEl = document.getElementById("benchmarkChartTitle");
+const benchmarkDescriptionEl = document.getElementById("benchmarkDescription");
+const benchmarkUpdatedAtEl = document.getElementById("benchmarkUpdatedAt");
+const benchmarkRankingEl = document.getElementById("benchmarkRanking");
 
 const SOURCE_KINDS = {
   official_ai: { label: "官方", tone: "official" },
@@ -3038,14 +3046,124 @@ async function loadStoriesData() {
   return res.json();
 }
 
+async function loadModelRankingsData() {
+  const res = await fetch(`${dataUrl("data/model-rankings.json")}?t=${Date.now()}`);
+  if (!res.ok) throw new Error(`加载 model-rankings.json 失败: ${res.status}`);
+  return res.json();
+}
+
+function fmtBenchmarkTimestamp(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return "更新时间未知";
+  return new Intl.DateTimeFormat("zh-CN", {
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false,
+  }).format(date).replace("/", "-");
+}
+
+function renderModelRankings(errorMessage = "") {
+  if (!benchmarkRankingEl) return;
+  benchmarkRankingEl.innerHTML = "";
+
+  if (errorMessage || !state.modelRankings) {
+    const item = document.createElement("li");
+    item.className = "benchmark-empty";
+    item.textContent = errorMessage || "模型排名暂不可用";
+    benchmarkRankingEl.appendChild(item);
+    if (benchmarkUpdatedAtEl) benchmarkUpdatedAtEl.textContent = "同步失败，稍后重试";
+    return;
+  }
+
+  const indexes = state.modelRankings.indexes || {};
+  const ranking = indexes[state.activeBenchmark];
+  const models = Array.isArray(ranking?.models) ? ranking.models : [];
+  if (!ranking || !models.length) {
+    renderModelRankings("当前榜单暂无可展示数据");
+    return;
+  }
+
+  document.querySelectorAll(".benchmark-tab").forEach((tab) => {
+    const active = tab.dataset.benchmark === state.activeBenchmark;
+    tab.classList.toggle("active", active);
+    tab.setAttribute("aria-selected", String(active));
+    tab.tabIndex = active ? 0 : -1;
+  });
+  const activeTab = document.querySelector(`.benchmark-tab[data-benchmark="${state.activeBenchmark}"]`);
+  if (benchmarkPanelEl && activeTab) benchmarkPanelEl.setAttribute("aria-labelledby", activeTab.id);
+
+  if (benchmarkChartTitleEl) {
+    const version = ranking.version ? ` v${ranking.version}` : "";
+    benchmarkChartTitleEl.textContent = `${ranking.title || "模型排名"}${version}`;
+  }
+  if (benchmarkDescriptionEl) benchmarkDescriptionEl.textContent = ranking.description || "";
+  if (benchmarkUpdatedAtEl) {
+    benchmarkUpdatedAtEl.textContent = `同步于 ${fmtBenchmarkTimestamp(state.modelRankings.fetched_at)}`;
+  }
+
+  models.forEach((model) => {
+    const item = document.createElement("li");
+    item.className = "benchmark-row";
+
+    const link = document.createElement("a");
+    link.href = model.url || state.modelRankings.source?.url || "https://artificialanalysis.ai/models";
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    link.setAttribute("aria-label", `第 ${model.rank} 名，${model.name}，${model.score} 分，查看官方详情`);
+
+    const rank = document.createElement("span");
+    rank.className = "benchmark-rank";
+    rank.textContent = String(model.rank).padStart(2, "0");
+
+    const name = document.createElement("span");
+    name.className = "benchmark-model";
+    const label = document.createElement("strong");
+    label.textContent = model.name;
+    name.appendChild(label);
+    const tags = [];
+    if (model.is_open_weights) tags.push("开放权重");
+    if (model.is_estimated) tags.push("估算");
+    if (tags.length) {
+      const meta = document.createElement("small");
+      meta.textContent = tags.join(" · ");
+      name.appendChild(meta);
+    }
+
+    const track = document.createElement("span");
+    track.className = "benchmark-track";
+    const bar = document.createElement("span");
+    bar.className = "benchmark-bar";
+    bar.style.width = `${Math.max(2, Math.min(100, Number(model.score) || 0))}%`;
+    track.appendChild(bar);
+
+    const score = document.createElement("strong");
+    score.className = "benchmark-score";
+    score.textContent = Number(model.score).toFixed(1);
+
+    link.append(rank, name, track, score);
+    item.appendChild(link);
+    benchmarkRankingEl.appendChild(item);
+  });
+}
+
 async function init() {
-  const [newsResult, waytoagiResult, statusResult, briefResult, storiesResult] = await Promise.allSettled([
+  const [newsResult, waytoagiResult, statusResult, briefResult, storiesResult, rankingsResult] = await Promise.allSettled([
     loadNewsData(),
     loadWaytoagiData(),
     loadSourceStatusData(),
     loadDailyBriefData(),
     loadStoriesData(),
+    loadModelRankingsData(),
   ]);
+
+  if (rankingsResult.status === "fulfilled") {
+    state.modelRankings = rankingsResult.value;
+    renderModelRankings();
+  } else {
+    renderModelRankings("模型排名加载失败，已保留官方榜单入口");
+  }
 
   if (briefResult.status === "fulfilled") {
     state.dailyBrief = briefResult.value;
@@ -3142,6 +3260,28 @@ if (filterJumpBtnEl) {
     const panel = document.getElementById("advancedFilters");
     if (panel) panel.open = true;
     panel?.scrollIntoView({ behavior: "smooth", block: "start" });
+  });
+}
+
+if (benchmarkTabsEl) {
+  benchmarkTabsEl.addEventListener("click", (event) => {
+    const button = event.target instanceof Element ? event.target.closest("[data-benchmark]") : null;
+    if (!button || !benchmarkTabsEl.contains(button)) return;
+    const next = button.dataset.benchmark;
+    if (!state.modelRankings?.indexes?.[next]) return;
+    state.activeBenchmark = next;
+    renderModelRankings();
+  });
+
+  benchmarkTabsEl.addEventListener("keydown", (event) => {
+    if (event.key !== "ArrowLeft" && event.key !== "ArrowRight") return;
+    event.preventDefault();
+    const tabs = Array.from(benchmarkTabsEl.querySelectorAll("[data-benchmark]"));
+    const current = tabs.findIndex((tab) => tab.dataset.benchmark === state.activeBenchmark);
+    const delta = event.key === "ArrowRight" ? 1 : -1;
+    const nextTab = tabs[(current + delta + tabs.length) % tabs.length];
+    nextTab.click();
+    nextTab.focus();
   });
 }
 

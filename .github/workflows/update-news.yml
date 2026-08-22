@@ -115,6 +115,10 @@ jobs:
           DEEPSEEK_MODEL: ${{ vars.DEEPSEEK_MODEL }}
         run: python scripts/persona_score.py --data-dir data
 
+      - name: Sync Artificial Analysis rankings
+        continue-on-error: true
+        run: python scripts/update_model_rankings.py --output data/model-rankings.json
+
       - name: Commit and push changes
         env:
           EMAIL_DIGEST_PUBLISH: ${{ secrets.EMAIL_DIGEST_PUBLISH || vars.EMAIL_DIGEST_PUBLISH }}

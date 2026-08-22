@@ -1,0 +1,267 @@
+{
+  "schema_version": "1.0",
+  "fetched_at": "2026-08-22T06:44:37Z",
+  "refresh_interval_minutes": 60,
+  "source": {
+    "name": "Artificial Analysis",
+    "url": "https://artificialanalysis.ai/models",
+    "agentic_url": "https://artificialanalysis.ai/models/capabilities/agentic/",
+    "attribution": "Ranking data from Artificial Analysis"
+  },
+  "indexes": {
+    "intelligence": {
+      "title": "Artificial Analysis Intelligence Index",
+      "version": "4.1.1",
+      "description": "综合知识、推理、数学与编程等评测的模型能力指数",
+      "models": [
+        {
+          "rank": 1,
+          "name": "Claude Opus 5 (Adaptive Reasoning, Max Effort)",
+          "short_name": "Claude Opus 5 (max)",
+          "score": 63.05,
+          "slug": "claude-opus-5",
+          "url": "https://artificialanalysis.ai/models/claude-opus-5",
+          "release_date": "2026-07-24",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false
+        },
+        {
+          "rank": 2,
+          "name": "Claude Fable 5 (Adaptive Reasoning, Max Effort, Opus 4.8 Fallback)",
+          "short_name": "Claude Fable 5 (with fallback)",
+          "score": 62.07,
+          "slug": "claude-fable-5",
+          "url": "https://artificialanalysis.ai/models/claude-fable-5",
+          "release_date": "2026-06-09",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false
+        },
+        {
+          "rank": 3,
+          "name": "GPT-5.6 Sol (max)",
+          "short_name": "GPT-5.6 Sol (max)",
+          "score": 60.93,
+          "slug": "gpt-5-6-sol",
+          "url": "https://artificialanalysis.ai/models/gpt-5-6-sol",
+          "release_date": "2026-07-09",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false
+        },
+        {
+          "rank": 4,
+          "name": "Grok 4.6 (high)",
+          "short_name": "Grok 4.6 (high)",
+          "score": 60.92,
+          "slug": "grok-4-6",
+          "url": "https://artificialanalysis.ai/models/grok-4-6",
+          "release_date": "2026-08-12",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false
+        },
+        {
+          "rank": 5,
+          "name": "Kimi K3 (max)",
+          "short_name": "Kimi K3 (max)",
+          "score": 59.7,
+          "slug": "kimi-k3",
+          "url": "https://artificialanalysis.ai/models/kimi-k3",
+          "release_date": "2026-07-16",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false
+        },
+        {
+          "rank": 6,
+          "name": "GLM-5.3 (max)",
+          "short_name": "GLM-5.3 (max)",
+          "score": 59.51,
+          "slug": "glm-5-3",
+          "url": "https://artificialanalysis.ai/models/glm-5-3",
+          "release_date": "2026-08-18",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false
+        },
+        {
+          "rank": 7,
+          "name": "Qwen3.8 2.4T A95B",
+          "short_name": "Qwen3.8 2.4T A95B",
+          "score": 57.7,
+          "slug": "qwen3-8-2-4t-a95b",
+          "url": "https://artificialanalysis.ai/models/qwen3-8-2-4t-a95b",
+          "release_date": "2026-08-12",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false
+        },
+        {
+          "rank": 8,
+          "name": "Muse Spark 1.2 (xhigh)",
+          "short_name": "Muse Spark 1.2 (xhigh)",
+          "score": 56.76,
+          "slug": "muse-spark-1-2",
+          "url": "https://artificialanalysis.ai/models/muse-spark-1-2",
+          "release_date": "2026-08-05",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false
+        },
+        {
+          "rank": 9,
+          "name": "GPT-5.6 Terra (max)",
+          "short_name": "GPT-5.6 Terra (max)",
+          "score": 56.58,
+          "slug": "gpt-5-6-terra",
+          "url": "https://artificialanalysis.ai/models/gpt-5-6-terra",
+          "release_date": "2026-07-09",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false
+        },
+        {
+          "rank": 10,
+          "name": "Gemini 3.7 Flash (high)",
+          "short_name": "Gemini 3.7 Flash (high)",
+          "score": 56.03,
+          "slug": "gemini-3-7-flash",
+          "url": "https://artificialanalysis.ai/models/gemini-3-7-flash",
+          "release_date": "2026-08-13",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false
+        }
+      ]
+    },
+    "agentic": {
+      "title": "Agentic Index",
+      "version": null,
+      "description": "衡量模型完成真实代理任务与多步骤工作的能力",
+      "models": [
+        {
+          "rank": 1,
+          "name": "Claude Opus 5 (Adaptive Reasoning, Max Effort)",
+          "short_name": "Claude Opus 5 (max)",
+          "score": 59.17,
+          "slug": "claude-opus-5",
+          "url": "https://artificialanalysis.ai/models/claude-opus-5",
+          "release_date": "2026-07-24",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false
+        },
+        {
+          "rank": 2,
+          "name": "GLM-5.3 (max)",
+          "short_name": "GLM-5.3 (max)",
+          "score": 59.1,
+          "slug": "glm-5-3",
+          "url": "https://artificialanalysis.ai/models/glm-5-3",
+          "release_date": "2026-08-18",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false
+        },
+        {
+          "rank": 3,
+          "name": "Grok 4.6 (high)",
+          "short_name": "Grok 4.6 (high)",
+          "score": 58.68,
+          "slug": "grok-4-6",
+          "url": "https://artificialanalysis.ai/models/grok-4-6",
+          "release_date": "2026-08-12",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false
+        },
+        {
+          "rank": 4,
+          "name": "GPT-5.6 Sol (max)",
+          "short_name": "GPT-5.6 Sol (max)",
+          "score": 57.78,
+          "slug": "gpt-5-6-sol",
+          "url": "https://artificialanalysis.ai/models/gpt-5-6-sol",
+          "release_date": "2026-07-09",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false
+        },
+        {
+          "rank": 5,
+          "name": "Qwen3.8 2.4T A95B",
+          "short_name": "Qwen3.8 2.4T A95B",
+          "score": 57.1,
+          "slug": "qwen3-8-2-4t-a95b",
+          "url": "https://artificialanalysis.ai/models/qwen3-8-2-4t-a95b",
+          "release_date": "2026-08-12",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false
+        },
+        {
+          "rank": 6,
+          "name": "Claude Fable 5 (Adaptive Reasoning, Max Effort, Opus 4.8 Fallback)",
+          "short_name": "Claude Fable 5 (with fallback)",
+          "score": 56.59,
+          "slug": "claude-fable-5",
+          "url": "https://artificialanalysis.ai/models/claude-fable-5",
+          "release_date": "2026-06-09",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false
+        },
+        {
+          "rank": 7,
+          "name": "Kimi K3 (max)",
+          "short_name": "Kimi K3 (max)",
+          "score": 54.26,
+          "slug": "kimi-k3",
+          "url": "https://artificialanalysis.ai/models/kimi-k3",
+          "release_date": "2026-07-16",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false
+        },
+        {
+          "rank": 8,
+          "name": "Qwen3.8 27B (xhigh)",
+          "short_name": "Qwen3.8 27B (xhigh)",
+          "score": 50.88,
+          "slug": "qwen3-8-27b",
+          "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+          "release_date": "2026-08-14",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false
+        },
+        {
+          "rank": 9,
+          "name": "GPT-5.6 Terra (max)",
+          "short_name": "GPT-5.6 Terra (max)",
+          "score": 50.2,
+          "slug": "gpt-5-6-terra",
+          "url": "https://artificialanalysis.ai/models/gpt-5-6-terra",
+          "release_date": "2026-07-09",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false
+        },
+        {
+          "rank": 10,
+          "name": "DeepSeek V4 Pro 0813 (Reasoning, Max Effort)",
+          "short_name": "DeepSeek V4 Pro 0813 (max)",
+          "score": 49.56,
+          "slug": "deepseek-v4-pro",
+          "url": "https://artificialanalysis.ai/models/deepseek-v4-pro",
+          "release_date": "2026-08-13",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false
+        }
+      ]
+    }
+  }
+}

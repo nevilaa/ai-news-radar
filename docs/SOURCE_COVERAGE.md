@@ -114,6 +114,12 @@ baseline, then let the aggregator layer add breadth.
   `data/waytoagi-7d.json`; the latest update day is also promoted into the
   community signal lane so it can appear under the Community tab without
   occupying a standalone homepage block.
+- **Artificial Analysis model rankings**: reads the public default model set
+  embedded in the official Models page and publishes only the top 10 values for
+  the Intelligence Index and Agentic Index to `data/model-rankings.json`. The
+  hourly workflow refreshes the snapshot, the UI attributes the source and
+  links every row back to the official model page. A failed refresh preserves
+  the last committed snapshot instead of blocking the news update.
 
 ## Disabled Default Sources
 
