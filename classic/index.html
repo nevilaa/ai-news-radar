@@ -35,7 +35,7 @@
     <link rel="apple-touch-icon" href="./assets/icons/apple-touch-icon.png" sizes="180x180" />
     <link rel="manifest" href="./site.webmanifest" />
     <script src="./assets/view-mode.js?v=dual-view-0713c" data-root="../"></script>
-    <link rel="stylesheet" href="./classic/assets/styles.css?v=benchmark-scale-0822d" />
+    <link rel="stylesheet" href="./classic/assets/styles.css?v=benchmark-fidelity-0822e" />
     <link rel="stylesheet" href="./assets/view-switch.css?v=dual-view-0713b" />
   </head>
   <body>
@@ -115,10 +115,10 @@
             <div class="benchmark-frame">
               <div class="benchmark-tabs" role="tablist" aria-label="模型能力榜单">
                 <button class="benchmark-tab active" id="intelligenceTab" type="button" role="tab" aria-selected="true" aria-controls="benchmarkPanel" data-benchmark="intelligence">
-                  <span>Intelligence</span><em>Updated</em>
+                  <span>Artificial Analysis Intelligence Index</span><em>Updated</em>
                 </button>
                 <button class="benchmark-tab" id="agenticTab" type="button" role="tab" aria-selected="false" aria-controls="benchmarkPanel" data-benchmark="agentic">
-                  <span>Agentic</span><em>Updated</em>
+                  <span>Agentic Index</span><em>Updated</em>
                 </button>
               </div>
               <div class="benchmark-panel" id="benchmarkPanel" role="tabpanel" aria-labelledby="intelligenceTab">
@@ -138,6 +138,10 @@
                     <li class="benchmark-loading">正在同步模型排名...</li>
                   </ol>
                 </div>
+                <p class="benchmark-reasoning-legend">
+                  <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M9 18h6M10 22h4M8.5 15.5A7 7 0 1 1 15.5 15.5C14.5 16.4 14 17.2 14 18h-4c0-.8-.5-1.6-1.5-2.5Z" /></svg>
+                  推理模型以灯泡图标标记
+                </p>
                 <p class="benchmark-scroll-hint">左右滑动查看完整榜单</p>
               </div>
             </div>
@@ -317,6 +321,6 @@
 
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js" integrity="sha384-HOvlOYPIs/zjoIkWUGXkVmXsjr8GuZLV+Q+rcPwmJOVZVpvTSXQChiN4t9Euv9Vc" crossorigin="anonymous" defer></script>
     <script src="./classic/assets/motion.js?v=ui-adjustment-0620a" defer></script>
-    <script src="./classic/assets/app.js?v=official-chart-0822b" defer></script>
+    <script src="./classic/assets/app.js?v=benchmark-fidelity-0822e" defer></script>
   </body>
 </html>

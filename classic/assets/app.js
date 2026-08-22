@@ -3097,8 +3097,7 @@ function renderModelRankings(errorMessage = "") {
   if (benchmarkPanelEl && activeTab) benchmarkPanelEl.setAttribute("aria-labelledby", activeTab.id);
 
   if (benchmarkChartTitleEl) {
-    const version = ranking.version ? ` v${ranking.version}` : "";
-    benchmarkChartTitleEl.textContent = `${ranking.title || "模型排名"}${version}`;
+    benchmarkChartTitleEl.textContent = ranking.title || "模型排名";
   }
   if (benchmarkDescriptionEl) benchmarkDescriptionEl.textContent = ranking.description || "";
   if (benchmarkUpdatedAtEl) {
@@ -3170,7 +3169,7 @@ function renderModelRankings(errorMessage = "") {
     name.appendChild(label);
     if (model.is_reasoning) {
       const reasoning = document.createElement("small");
-      reasoning.textContent = "◔";
+      reasoning.innerHTML = '<svg aria-hidden="true" viewBox="0 0 24 24"><path d="M9 18h6M10 22h4M8.5 15.5A7 7 0 1 1 15.5 15.5C14.5 16.4 14 17.2 14 18h-4c0-.8-.5-1.6-1.5-2.5Z" /></svg>';
       reasoning.setAttribute("aria-label", "推理模型");
       name.appendChild(reasoning);
     }
