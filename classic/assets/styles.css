@@ -4120,7 +4120,7 @@ body {
   min-width: 100%;
   min-height: 306px;
   margin: 0;
-  padding: 6px 16px 0;
+  padding: 6px 16px 0 42px;
   list-style: none;
 }
 
@@ -4239,7 +4239,7 @@ body {
 
 .benchmark-model-name > strong {
   position: absolute;
-  top: 35px;
+  top: 0;
   left: 50%;
   width: 80px;
   height: 22px;
@@ -4251,8 +4251,8 @@ body {
   text-align: right;
   text-wrap: balance;
   word-break: break-word;
-  transform: translateX(-50%) rotate(-60deg);
-  transform-origin: center top;
+  transform: translateX(-100%) rotate(-60deg);
+  transform-origin: right center;
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 2;
@@ -4260,8 +4260,8 @@ body {
 
 .benchmark-model-name > small {
   position: absolute;
-  top: 1px;
-  left: calc(50% - 9px);
+  top: -10px;
+  left: calc(50% - 5.5px);
   color: #777;
   line-height: 1;
 }
@@ -5136,7 +5136,8 @@ body {
   .benchmark-ranking {
     --benchmark-column-width: 29px;
     gap: 10.5px;
-    padding-inline: 12px;
+    padding-right: 12px;
+    padding-left: 42px;
   }
 
   .benchmark-scroll-hint {
