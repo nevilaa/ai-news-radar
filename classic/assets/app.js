@@ -3107,7 +3107,8 @@ function renderModelRankings(errorMessage = "") {
 
   if (benchmarkModelCountEl) {
     const total = Number(ranking.catalog_model_count || 0);
-    benchmarkModelCountEl.textContent = total ? `${models.length} of ${total} models` : `${models.length} models`;
+    const selected = Number(ranking.selected_model_count || models.length);
+    benchmarkModelCountEl.textContent = total ? `${selected} of ${total} models` : `${selected} models`;
   }
 
   const highestScore = Math.max(...models.map((model) => Number(model.score) || 0), 20);

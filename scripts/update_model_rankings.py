@@ -123,7 +123,7 @@ def build_payload(html: str, fetched_at: datetime, limit: int = 29) -> dict[str,
 
     intelligence_models = build_ranking(models, "intelligenceIndex", limit)
     agentic_models = build_ranking(models, "agenticIndex", limit)
-    intelligence_available = sum(_score(row, "intelligenceIndex") is not None for row in models)
+    intelligence_selected = len(models)
     agentic_available = sum(_score(row, "agenticIndex") is not None for row in models)
 
     return {
@@ -141,7 +141,7 @@ def build_payload(html: str, fetched_at: datetime, limit: int = 29) -> dict[str,
                 "title": "Artificial Analysis Intelligence Index",
                 "version": version,
                 "description": "综合知识、推理、数学、编程与真实任务评测的模型能力指数",
-                "selected_model_count": intelligence_available,
+                "selected_model_count": intelligence_selected,
                 "catalog_model_count": catalog_count_for(html),
                 "models": intelligence_models,
             },

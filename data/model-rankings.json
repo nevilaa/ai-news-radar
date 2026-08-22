@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1",
-  "fetched_at": "2026-08-22T07:13:10Z",
+  "fetched_at": "2026-08-22T07:14:30Z",
   "refresh_interval_minutes": 60,
   "source": {
     "name": "Artificial Analysis",
@@ -13,7 +13,7 @@
       "title": "Artificial Analysis Intelligence Index",
       "version": "4.1.1",
       "description": "综合知识、推理、数学、编程与真实任务评测的模型能力指数",
-      "selected_model_count": 28,
+      "selected_model_count": 29,
       "catalog_model_count": 616,
       "models": [
         {
