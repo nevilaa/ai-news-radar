@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="zh-CN" data-radar-view="classic">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <base href="../" />
+    <title>生产级 Agent 六层模型｜思航研究个人笔记</title>
+    <meta name="description" content="从模型智能、上下文与记忆、工具连接、运行执行、安全治理到组织运营，拆解生产级 Agent 的六层结构。" />
+    <link rel="canonical" href="https://www.shresearch.cn/ai-radar/classic/research.html" />
+    <meta property="og:title" content="生产级 Agent 六层模型｜思航研究个人笔记" />
+    <meta property="og:description" content="对照火山引擎 Force 大会内容，提炼生产级 Agent 的六层结构与关键约束。" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.shresearch.cn/ai-radar/classic/research.html" />
+    <meta name="theme-color" content="#ffffff" />
+    <link rel="icon" href="./assets/logo.svg" type="image/svg+xml" />
+    <link rel="icon" href="./assets/icons/favicon-32.png" sizes="32x32" type="image/png" />
+    <link rel="stylesheet" href="./classic/assets/styles.css?v=research-nav-0822h" />
+    <link rel="stylesheet" href="./classic/assets/research.css?v=agent-layers-0822a" />
+  </head>
+  <body class="research-page">
+    <header class="site-topbar">
+      <div class="topbar-start">
+        <a class="back-home" href="https://www.shresearch.cn/" aria-label="返回主界面">
+          <span aria-hidden="true">←</span><strong>返回主界面</strong>
+        </a>
+        <a class="topbar-brand" href="./classic/" aria-label="返回 AI Radar">
+          <img src="./assets/logo.svg" alt="" />
+          <strong>思航研究 / AI Radar</strong>
+        </a>
+      </div>
+      <nav class="topbar-nav" aria-label="主导航">
+        <a href="./classic/#signalBrief">信号简报</a>
+        <a class="active" href="./classic/research.html" aria-current="page">深度研究</a>
+        <a href="./classic/#sectionTabs">主题追踪</a>
+        <a href="./classic/#dataInsights">数据洞察</a>
+        <a href="https://www.shresearch.cn/">关于我们</a>
+      </nav>
+      <div class="topbar-actions research-topbar-actions">
+        <a class="topbar-action" href="./classic/">
+          <span aria-hidden="true">↩</span><span>返回简报</span>
+        </a>
+      </div>
+    </header>
+
+    <main class="research-shell">
+      <aside class="research-toc" aria-label="文章目录">
+        <p>本文目录</p>
+        <nav>
+          <a href="#overview">框架总览</a>
+          <a href="#layer-1"><span>L1</span> 模型智能</a>
+          <a href="#layer-2"><span>L2</span> 上下文与记忆</a>
+          <a href="#layer-3"><span>L3</span> 工具与系统连接</a>
+          <a href="#layer-4"><span>L4</span> 运行与执行</a>
+          <a href="#layer-5"><span>L5</span> 安全与治理</a>
+          <a href="#layer-6"><span>L6</span> 组织运营</a>
+          <a href="#dependencies">层级依赖</a>
+          <a href="#comparison">框架复盘</a>
+        </nav>
+      </aside>
+
+      <article class="research-article">
+        <header class="research-hero">
+          <div class="research-note-label"><span aria-hidden="true"></span>个人笔记</div>
+          <h1>生产级 Agent 六层模型</h1>
+          <p class="research-deck">对照火山引擎 Force 大会原文，拆解一个 Agent 从“会回答”走向“可进入组织生产”的必要结构。</p>
+          <div class="research-meta">
+            <span>思航研究</span>
+            <time datetime="2026-07-02">2026 年 7 月 2 日</time>
+            <span>Agent 架构 · 火山引擎</span>
+          </div>
+        </header>
+
+        <section class="research-lead">
+          <p>生产级 Agent 不是一个模型外加几个工具，而是一组相互依赖的能力层。越靠下的层越接近技术地基，越靠上的层越接近组织价值。任何一层缺失，问题都会在更高层被放大。</p>
+          <strong>核心判断：下层决定 Agent 能不能工作，上层决定 Agent 能不能被企业长期使用。</strong>
+        </section>
+
+        <section class="research-section" id="overview">
+          <header class="research-section-head">
+            <p>Framework</p>
+            <h2>框架总览</h2>
+          </header>
+          <div class="research-table-wrap">
+            <table>
+              <thead><tr><th>层次</th><th>名称</th><th>管理层真正需要回答的问题</th></tr></thead>
+              <tbody>
+                <tr><td>L1</td><td>模型智能层</td><td>模型是否足够理解、规划、推理、生成和纠错？</td></tr>
+                <tr><td>L2</td><td>上下文与记忆层</td><td>Agent 是否理解企业、客户、业务规则和历史经验？</td></tr>
+                <tr><td>L3</td><td>工具与系统连接层</td><td>Agent 是否能连接真实业务系统，而不是停留在对话框？</td></tr>
+                <tr><td>L4</td><td>运行与执行层</td><td>Agent 是否能安全执行长链路任务，并支持恢复、并发和回写？</td></tr>
+                <tr><td>L5</td><td>安全与治理层</td><td>身份、权限、审计、密钥、数据边界和高风险操作是否可控？</td></tr>
+                <tr><td>L6</td><td>组织运营层</td><td>Agent 是否可复用、可衡量、可协同、可持续优化？</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="research-layer" id="layer-1">
+          <header><span>L1</span><div><h2>模型智能层</h2><p>模型是否足够理解、规划、推理、生成和纠错？</p></div></header>
+          <div class="research-prose">
+            <h3>对应能力</h3>
+            <ul>
+              <li><strong>理解：</strong>Seed 2.1 强化图像、视频的细颗粒度理解，提高 GUI 与 UI 操作稳定性；CG 5.0 Pro 支持通过点选、圈选、箭头和草图表达编辑意图。</li>
+              <li><strong>规划：</strong>模型需要理解角色、形成长期计划并处理错误。游戏开发案例已经覆盖策划、素材到成品的自主流程规划。</li>
+              <li><strong>推理：</strong>从平面户型图恢复可漫游三维空间，或从看板草图推断页面结构、布局与未写明的交互。</li>
+              <li><strong>生成：</strong>文本、图像、视频、语音和 3D 建模逐渐进入同一任务链，生成不再是孤立输出。</li>
+              <li><strong>纠错：</strong>模型能够检测动作序列、代码或页面中的错误，并在执行过程中修正。</li>
+            </ul>
+            <aside class="research-judgement"><strong>关键判断</strong><p>模型能力是 Agent 的地基。L1 不强，上层工程会不断用规则、提示词和人工复核填补缺口，系统复杂度会快速上升。</p></aside>
+          </div>
+        </section>
+
+        <section class="research-layer" id="layer-2">
+          <header><span>L2</span><div><h2>上下文与记忆层</h2><p>Agent 是否理解企业、客户、业务规则和历史经验？</p></div></header>
+          <div class="research-prose">
+            <h3>知识与记忆</h3>
+            <p>销售拜访 Agent 需要沉淀客户历史、产品用量、沟通记录与成功案例；安踏案例则把六年积累的百万级产品数据，与版型、材质、配色及穿搭认知结合。上下文不是附加材料，而是 Agent 理解企业的方式。</p>
+            <div class="research-table-wrap compact">
+              <table>
+                <thead><tr><th>OpenViking 设计</th><th>解决的问题</th></tr></thead>
+                <tbody>
+                  <tr><td>万物皆为文件</td><td>把分散上下文转为结构化文件系统。</td></tr>
+                  <tr><td>目录递归检索</td><td>沿业务层级寻找更匹配、语境更完整的数据。</td></tr>
+                  <tr><td>记忆自我迭代</td><td>记住偏好、纠正错误，让 Agent 随使用持续改善。</td></tr>
+                  <tr><td>按需渐进加载</td><td>按摘要、概要、细节加载，减少信息噪音和 Token 消耗。</td></tr>
+                  <tr><td>多租户隔离</td><td>隔离企业、团队、业务与用户之间的数据边界。</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <aside class="research-judgement"><strong>关键判断</strong><p>企业知识的价值首先来自结构，而不是总量。平铺的数据越多，越可能让 Agent 在检索时丢失真实业务语境。</p></aside>
+          </div>
+        </section>
+
+        <section class="research-layer" id="layer-3">
+          <header><span>L3</span><div><h2>工具与系统连接层</h2><p>Agent 是否能进入真实业务系统，而不是停留在对话框？</p></div></header>
+          <div class="research-prose">
+            <h3>系统连接</h3>
+            <p>API、Skills 与 Gateway 将 Agent 接入 CRM、BI、案例库、日程、搜索、数据库和企业网盘。多模态输入也必须转化为可写回业务系统的结构化信息，例如把销售会谈自动记录到 CRM，并触发后续分析。</p>
+            <ul>
+              <li>连接 CRM、BI、日程与案例库，形成跨系统任务链。</li>
+              <li>接入实时搜索、专业数据集和企业内部数据库。</li>
+              <li>把语音、图像等多模态输入转成业务系统可消费的数据。</li>
+              <li>通过版权或合规平台约束生成内容的实际使用范围。</li>
+            </ul>
+            <aside class="research-judgement"><strong>关键判断</strong><p>L3 是 Demo Agent 与生产 Agent 的分界线。只有进入既有系统，模型输出才可能真正推动流程、修改状态并产生业务结果。</p></aside>
+          </div>
+        </section>
+
+        <section class="research-layer" id="layer-4">
+          <header><span>L4</span><div><h2>运行与执行层</h2><p>Agent 是否能安全跑完长链路任务，并支持恢复、并发和回写？</p></div></header>
+          <div class="research-prose">
+            <h3>从调用工具到跑完流程</h3>
+            <ul>
+              <li><strong>编排：</strong>把拜访前准备、拜访中记录、拜访后总结和商机更新串成完整流程。</li>
+              <li><strong>长时任务：</strong>任务可能持续两到三小时，需要保存业务状态、快照休眠并在中断后恢复。</li>
+              <li><strong>沙箱：</strong>任务在明确身份、权限与隔离环境内运行，文件和计算资源按需挂载。</li>
+              <li><strong>并发：</strong>运行时既要支持单个 Agent，也要能弹性拉起大规模实例。</li>
+              <li><strong>回写：</strong>执行结果必须更新 CRM、审批或其他业务系统，形成闭环。</li>
+            </ul>
+            <aside class="research-judgement"><strong>关键判断</strong><p>长时任务的差异化能力不只是“跑得久”，而是状态可保存、任务可恢复。但恢复之后如何保证上下文和外部系统状态一致，仍是容易被忽略的问题。</p></aside>
+          </div>
+        </section>
+
+        <section class="research-layer" id="layer-5">
+          <header><span>L5</span><div><h2>安全与治理层</h2><p>身份、权限、审计、密钥、数据边界和高风险操作是否可控？</p></div></header>
+          <div class="research-prose">
+            <h3>可信调用链</h3>
+            <p>Identity 与 Policy 决定 Agent 能看到什么、可以做什么。通过飞书、企微或钉钉传递组织身份，用户、Agent、工具和企业服务才能形成可审计的调用链。</p>
+            <ul>
+              <li>以最小权限完成任务，并把高风险操作限制在明确授权范围。</li>
+              <li>记录每次工具调用、数据访问、状态修改与人工确认。</li>
+              <li>隔离企业、团队、业务和用户数据，保护密钥与运行环境。</li>
+              <li>允许治理系统在执行中拦截，而不是只在事后生成日志。</li>
+            </ul>
+            <aside class="research-judgement"><strong>关键判断</strong><p>技术可以执行 Policy，但无法替企业决定 Policy。最小权限由 IT、业务负责人还是法务定义，是一个组织权责问题，比权限系统本身更难。</p></aside>
+          </div>
+        </section>
+
+        <section class="research-layer" id="layer-6">
+          <header><span>L6</span><div><h2>组织运营层</h2><p>Agent 是否可复用、可衡量、可协同并持续优化？</p></div></header>
+          <div class="research-prose">
+            <h3>从单点工具到组织资产</h3>
+            <ul>
+              <li><strong>可衡量：</strong>通过 Evaluation 与 Observability 持续验证过程和结果，回答 ROI 问题。</li>
+              <li><strong>可复用：</strong>验证过的核心 Agent 可以复制到相邻场景，经验与流程沉淀为组织资产。</li>
+              <li><strong>可协同：</strong>研发、产品、测试与业务角色在同一条工作流中持续配合。</li>
+              <li><strong>可优化：</strong>评测、运行数据与记忆系统共同构成持续改进回路。</li>
+            </ul>
+            <div class="research-table-wrap compact">
+              <table>
+                <thead><tr><th>角色</th><th>关注点</th><th>适配形态</th></tr></thead>
+                <tbody>
+                  <tr><td>业务团队</td><td>机会与结果</td><td>开箱即用的 Agent 软件</td></tr>
+                  <tr><td>研发团队</td><td>碎片化需求</td><td>零代码或低代码平台</td></tr>
+                  <tr><td>IT 团队</td><td>制度与安全</td><td>高代码平台与统一治理</td></tr>
+                  <tr><td>管理层</td><td>投资回报率</td><td>统一调度和治理看板</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <aside class="research-judgement"><strong>关键判断</strong><p>“AI 员工管理体系”是一个有启发性的类比，但不能照搬人力资源管理。AI 不会疲劳，却会幻觉和产生系统性偏差，因此它需要不同的评价、授权与纠错机制。</p></aside>
+          </div>
+        </section>
+
+        <section class="research-section" id="dependencies">
+          <header class="research-section-head"><p>Dependencies</p><h2>六层之间的依赖关系</h2></header>
+          <ol class="dependency-stack" reversed>
+            <li><span>L6</span><div><strong>组织运营层</strong><p>依赖治理数据、执行记录和经验沉淀。</p></div></li>
+            <li><span>L5</span><div><strong>安全与治理层</strong><p>依赖执行环境、系统边界和数据边界。</p></div></li>
+            <li><span>L4</span><div><strong>运行与执行层</strong><p>依赖系统连接、业务上下文和模型智能。</p></div></li>
+            <li><span>L3</span><div><strong>工具与系统连接层</strong><p>依赖 Agent 知道连接什么，以及如何正确调用。</p></div></li>
+            <li><span>L2</span><div><strong>上下文与记忆层</strong><p>依赖模型能够理解、筛选和使用上下文。</p></div></li>
+            <li><span>L1</span><div><strong>模型智能层</strong><p>依赖未单独列出的 L0 基础设施。</p></div></li>
+          </ol>
+          <p class="research-constraint"><strong>刚性约束：</strong>L1 不够强，L2 记得再多也无法正确理解；L5 没做好，L6 的可衡量就会建立在不可信的审计数据上。</p>
+        </section>
+
+        <section class="research-section" id="comparison">
+          <header class="research-section-head"><p>Reflection</p><h2>为什么这个框架更好用</h2></header>
+          <ol class="research-findings">
+            <li><strong>把连接与执行分开。</strong><p>L3 回答“能不能碰到系统”，L4 回答“碰到之后能不能把任务跑完”。两者的工程约束不同。</p></li>
+            <li><strong>把安全治理独立成层。</strong><p>安全不是基础设施的静态属性，而是贯穿数据、工具、执行和组织运营的横切能力。</p></li>
+            <li><strong>每层都对应管理层问题。</strong><p>技术分层因此变成决策工具：管理者可以定位 Agent 失败究竟来自模型、数据、连接、执行、治理还是运营。</p></li>
+          </ol>
+        </section>
+
+        <footer class="research-footer">
+          <p>本文根据个人会议笔记整理，框架来源为生产级 Agent L1–L6 模型，并对照火山引擎 Force 大会 6 月 24 日上午场内容提炼。</p>
+          <a href="./classic/">返回 AI Radar 信号简报 →</a>
+        </footer>
+      </article>
+    </main>
+  </body>
+</html>

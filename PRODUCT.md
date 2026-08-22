@@ -13,6 +13,9 @@ AI News Radar is a public, static research dashboard that turns a broad set of A
 ## Experience principles
 
 - Keep the default reading path focused; advanced source controls remain secondary.
+- Keep the main navigation explicit: signal brief, personal research notes, topic tracking, and data insights are distinct destinations.
+- Deep Research contains only the maintainer's personal notes; external reports may be cited but are not published as first-party research.
+- Model benchmark visualizations belong to Data Insights rather than Topic Tracking.
 - Make provenance, freshness, and source health visible.
 - Prefer compact research-oriented layouts over promotional presentation.
 - Preserve access on phones, tablets, and desktops; core content must never depend on hover.

@@ -4973,10 +4973,53 @@ body {
 @media (max-width: 900px) {
   .site-topbar {
     grid-template-columns: 1fr auto;
+    min-height: 0;
+  }
+
+  .topbar-start {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .topbar-actions {
+    grid-column: 2;
+    grid-row: 1;
   }
 
   .topbar-nav {
+    grid-column: 1 / -1;
+    grid-row: 2;
+    display: flex;
+    min-width: 0;
+    margin: 0 -24px;
+    border-top: 1px solid var(--brief-line);
+    padding: 0 24px;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  .topbar-nav::-webkit-scrollbar {
     display: none;
+  }
+
+  .topbar-nav a {
+    min-height: 44px;
+    flex: 0 0 auto;
+    padding: 0 14px;
+    white-space: nowrap;
+  }
+
+  .topbar-nav a:first-child {
+    padding-left: 0;
+  }
+
+  .topbar-nav a::after {
+    right: 12px;
+    left: 12px;
+  }
+
+  .topbar-nav a:first-child::after {
+    left: 0;
   }
 
   .brief-layout {
@@ -5004,6 +5047,11 @@ body {
 @media (max-width: 680px) {
   .site-topbar {
     min-height: 56px;
+    padding: 0 16px;
+  }
+
+  .topbar-nav {
+    margin: 0 -16px;
     padding: 0 16px;
   }
 
