@@ -3983,32 +3983,32 @@ body {
 }
 
 .benchmark-tabs {
-  gap: 24px;
+  gap: 4px;
   margin: 0;
   border-bottom: 1px solid #d4d4d6;
   border-radius: 0;
-  padding: 12px;
+  padding: 6px 8px;
   background: #fafafa;
 }
 
 .benchmark-tab {
-  min-height: 48px;
+  min-height: 44px;
   display: inline-flex;
   align-items: center;
-  gap: 10px;
+  gap: 7px;
   border: 0;
-  border-radius: 6px;
-  padding: 0 18px;
+  border-radius: 5px;
+  padding: 0 13px;
   color: #505054;
   background: transparent;
-  font-size: 15px;
+  font-size: 13px;
   font-weight: 760;
   transition: color 180ms ease, background 180ms ease;
 }
 
 .benchmark-tab em {
   color: #81166f;
-  font-size: 13px;
+  font-size: 10px;
   font-style: normal;
   font-weight: 760;
 }
@@ -5057,7 +5057,7 @@ body {
 
   .benchmark-tabs {
     gap: 4px;
-    padding: 8px;
+    padding: 6px;
     overflow-x: auto;
     scrollbar-width: none;
   }
@@ -5068,14 +5068,14 @@ body {
 
   .benchmark-tab {
     flex: 0 0 auto;
-    min-height: 48px;
-    gap: 7px;
-    padding: 0 12px;
-    font-size: 13px;
+    min-height: 44px;
+    gap: 6px;
+    padding: 0 10px;
+    font-size: 12px;
   }
 
   .benchmark-tab em {
-    font-size: 11px;
+    font-size: 9px;
   }
 
   .benchmark-panel {
