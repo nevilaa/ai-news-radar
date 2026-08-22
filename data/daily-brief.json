@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T19:34:57.562406Z",
+  "generated_at": "2026-08-22T20:39:45.875591Z",
   "window_hours": 24,
   "total_items": 8,
   "items": [
@@ -48,21 +48,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9256,
+        "recency": 0.9113,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-22T14:13:48Z",
       "latest_at": "2026-08-22T14:13:48Z",
@@ -82,7 +81,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T19:44:42.385737Z"
+        "scored_at": "2026-08-22T20:51:17.720884Z"
       }
     },
     {
@@ -188,15 +187,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5646,
-      "importance": 0.5646,
-      "importance_score": 0.5646,
+      "score": 0.5619,
+      "importance": 0.5619,
+      "importance_score": 0.5619,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9656,
+        "recency": 0.9506,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -221,7 +220,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T19:44:42.385737Z"
+        "scored_at": "2026-08-22T20:51:17.720884Z"
+      }
+    },
+    {
+      "story_id": "story_8a2541a1bf06",
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://news.ycombinator.com/item?id=49402232",
+      "primary_url": "https://news.ycombinator.com/item?id=49402232",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
+          "title": "Why your local LLM feels dumber than it is",
+          "title_zh": null,
+          "title_en": "Why your local LLM feels dumber than it is",
+          "title_original": "Why your local LLM feels dumber than it is",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49402232",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T20:40:08.855000Z"
+        },
+        {
+          "id": "b55232b916abe6ce04bd936a2b8bc550ab63e6e7",
+          "title": "Why your local LLM feels dumber than it is",
+          "title_zh": null,
+          "title_en": "Why your local LLM feels dumber than it is",
+          "title_original": "Why your local LLM feels dumber than it is",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T18:14:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
+          "title": "Why your local LLM feels dumber than it is",
+          "title_zh": null,
+          "title_en": "Why your local LLM feels dumber than it is",
+          "title_original": "Why your local LLM feels dumber than it is",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49402232",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T20:40:08.855000Z"
+        },
+        {
+          "id": "b55232b916abe6ce04bd936a2b8bc550ab63e6e7",
+          "title": "Why your local LLM feels dumber than it is",
+          "title_zh": null,
+          "title_en": "Why your local LLM feels dumber than it is",
+          "title_original": "Why your local LLM feels dumber than it is",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T18:14:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T18:14:16Z",
+      "latest_at": "2026-08-22T20:40:08.855000Z",
+      "primary_item": {
+        "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
+        "title": "Why your local LLM feels dumber than it is",
+        "title_zh": null,
+        "title_en": "Why your local LLM feels dumber than it is",
+        "title_original": "Why your local LLM feels dumber than it is",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49402232",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-22T20:51:17.720884Z"
       }
     },
     {
@@ -247,7 +356,7 @@
           "published_at": "2026-08-22T19:05:40.131000Z"
         },
         {
-          "id": "ef1ac03c09bb8eff067942d548cd947f445b2980",
+          "id": "0714345076c1f80d34b7420ba0235d04aa4e6e38",
           "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
           "title_zh": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录",
           "title_en": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
@@ -255,15 +364,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-22T13:39:07Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -282,7 +391,7 @@
           "published_at": "2026-08-22T19:05:40.131000Z"
         },
         {
-          "id": "ef1ac03c09bb8eff067942d548cd947f445b2980",
+          "id": "0714345076c1f80d34b7420ba0235d04aa4e6e38",
           "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
           "title_zh": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录",
           "title_en": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
@@ -290,23 +399,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-22T13:39:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5445,
-      "importance": 0.5445,
-      "importance_score": 0.5445,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.993,
+        "recency": 0.9776,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -331,7 +440,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T19:44:42.385737Z"
+        "scored_at": "2026-08-22T20:51:17.720884Z"
       }
     },
     {
@@ -407,15 +516,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9858,
+        "recency": 0.9706,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -440,7 +549,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T19:44:42.385737Z"
+        "scored_at": "2026-08-22T20:51:17.720884Z"
       }
     },
     {
@@ -517,15 +626,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
+      "score": 0.537,
+      "importance": 0.537,
+      "importance_score": 0.537,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.966,
+        "recency": 0.951,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -550,7 +659,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T19:44:42.385737Z"
+        "scored_at": "2026-08-22T20:51:17.720884Z"
       }
     },
     {
@@ -627,15 +736,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9384,
+        "recency": 0.9239,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -660,7 +769,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T19:44:42.385737Z"
+        "scored_at": "2026-08-22T20:51:17.720884Z"
       }
     },
     {
@@ -737,15 +846,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5156,
-      "importance": 0.5156,
-      "importance_score": 0.5156,
+      "score": 0.5133,
+      "importance": 0.5133,
+      "importance_score": 0.5133,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8321,
+        "recency": 0.8192,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -770,117 +879,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T19:44:42.385737Z"
-      }
-    },
-    {
-      "story_id": "story_deed5dc2807d",
-      "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
-      "url": "https://news.ycombinator.com/item?id=49393051",
-      "primary_url": "https://news.ycombinator.com/item?id=49393051",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "843f1c8777425b5db989c00d8a227f7bad67acb3",
-          "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
-          "title_zh": "快速印象：比 Claude 使用 Codex 多的一周",
-          "title_en": "Quick impressions: A week of using Codex more than Claude",
-          "title_original": "Quick impressions: A week of using Codex more than Claude",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49393051",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T20:32:02.097000Z"
-        },
-        {
-          "id": "48aa24f65578ce52e3984df7eead950686309a55",
-          "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
-          "title_zh": "快速印象：比 Claude 使用 Codex 多的一周",
-          "title_en": "Quick impressions: A week of using Codex more than Claude",
-          "title_original": "Quick impressions: A week of using Codex more than Claude",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T19:51:48Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "843f1c8777425b5db989c00d8a227f7bad67acb3",
-          "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
-          "title_zh": "快速印象：比 Claude 使用 Codex 多的一周",
-          "title_en": "Quick impressions: A week of using Codex more than Claude",
-          "title_original": "Quick impressions: A week of using Codex more than Claude",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49393051",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T20:32:02.097000Z"
-        },
-        {
-          "id": "48aa24f65578ce52e3984df7eead950686309a55",
-          "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
-          "title_zh": "快速印象：比 Claude 使用 Codex 多的一周",
-          "title_en": "Quick impressions: A week of using Codex more than Claude",
-          "title_original": "Quick impressions: A week of using Codex more than Claude",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T19:51:48Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4948,
-      "importance": 0.4948,
-      "importance_score": 0.4948,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7169,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T19:51:48Z",
-      "latest_at": "2026-08-21T20:32:02.097000Z",
-      "primary_item": {
-        "id": "843f1c8777425b5db989c00d8a227f7bad67acb3",
-        "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
-        "title_zh": "快速印象：比 Claude 使用 Codex 多的一周",
-        "title_en": "Quick impressions: A week of using Codex more than Claude",
-        "title_original": "Quick impressions: A week of using Codex more than Claude",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49393051",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-22T19:44:42.385737Z"
+        "scored_at": "2026-08-22T20:51:17.720884Z"
       }
     }
   ]
