@@ -117,7 +117,7 @@ jobs:
 
       - name: Sync Artificial Analysis rankings
         continue-on-error: true
-        run: python scripts/update_model_rankings.py --output data/model-rankings.json
+        run: python scripts/update_model_rankings.py --output data/model-rankings.json --limit 29
 
       - name: Commit and push changes
         env:

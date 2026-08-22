@@ -1,6 +1,6 @@
 {
-  "schema_version": "1.0",
-  "fetched_at": "2026-08-22T07:00:00Z",
+  "schema_version": "1.1",
+  "fetched_at": "2026-08-22T07:12:02Z",
   "refresh_interval_minutes": 60,
   "source": {
     "name": "Artificial Analysis",
@@ -12,7 +12,9 @@
     "intelligence": {
       "title": "Artificial Analysis Intelligence Index",
       "version": "4.1.1",
-      "description": "综合知识、推理、数学与编程等评测的模型能力指数",
+      "description": "综合知识、推理、数学、编程与真实任务评测的模型能力指数",
+      "selected_model_count": 28,
+      "catalog_model_count": 616,
       "models": [
         {
           "rank": 1,
@@ -24,7 +26,13 @@
           "release_date": "2026-07-24",
           "is_reasoning": true,
           "is_open_weights": false,
-          "is_estimated": false
+          "is_estimated": false,
+          "provider": {
+            "name": "Anthropic",
+            "slug": "anthropic",
+            "color": "#cc785c",
+            "logo_url": "https://artificialanalysis.ai/img/logos/anthropic_small.svg"
+          }
         },
         {
           "rank": 2,
@@ -36,7 +44,13 @@
           "release_date": "2026-06-09",
           "is_reasoning": true,
           "is_open_weights": false,
-          "is_estimated": false
+          "is_estimated": false,
+          "provider": {
+            "name": "Anthropic",
+            "slug": "anthropic",
+            "color": "#cc785c",
+            "logo_url": "https://artificialanalysis.ai/img/logos/anthropic_small.svg"
+          }
         },
         {
           "rank": 3,
@@ -48,7 +62,13 @@
           "release_date": "2026-07-09",
           "is_reasoning": true,
           "is_open_weights": false,
-          "is_estimated": false
+          "is_estimated": false,
+          "provider": {
+            "name": "OpenAI",
+            "slug": "openai",
+            "color": "#1f1f1f",
+            "logo_url": "https://artificialanalysis.ai/img/logos/openai_small.svg"
+          }
         },
         {
           "rank": 4,
@@ -60,7 +80,13 @@
           "release_date": "2026-08-12",
           "is_reasoning": true,
           "is_open_weights": false,
-          "is_estimated": false
+          "is_estimated": false,
+          "provider": {
+            "name": "SpaceXAI",
+            "slug": "xai",
+            "color": "#736cd3",
+            "logo_url": "https://artificialanalysis.ai/img/logos/spacexai.svg"
+          }
         },
         {
           "rank": 5,
@@ -72,7 +98,13 @@
           "release_date": "2026-07-16",
           "is_reasoning": true,
           "is_open_weights": true,
-          "is_estimated": false
+          "is_estimated": false,
+          "provider": {
+            "name": "Kimi",
+            "slug": "kimi",
+            "color": "#047AFE",
+            "logo_url": "https://artificialanalysis.ai/img/logos/kimi.jpg"
+          }
         },
         {
           "rank": 6,
@@ -84,7 +116,13 @@
           "release_date": "2026-08-18",
           "is_reasoning": true,
           "is_open_weights": false,
-          "is_estimated": false
+          "is_estimated": false,
+          "provider": {
+            "name": "Z AI",
+            "slug": "zai",
+            "color": "#1c7ff8",
+            "logo_url": "https://artificialanalysis.ai/img/logos/zai_small.svg"
+          }
         },
         {
           "rank": 7,
@@ -96,7 +134,13 @@
           "release_date": "2026-08-12",
           "is_reasoning": true,
           "is_open_weights": true,
-          "is_estimated": false
+          "is_estimated": false,
+          "provider": {
+            "name": "Alibaba",
+            "slug": "alibaba",
+            "color": "#ff7018",
+            "logo_url": "https://artificialanalysis.ai/img/logos/alibaba_small.svg"
+          }
         },
         {
           "rank": 8,
@@ -108,7 +152,13 @@
           "release_date": "2026-08-05",
           "is_reasoning": true,
           "is_open_weights": false,
-          "is_estimated": false
+          "is_estimated": false,
+          "provider": {
+            "name": "Meta",
+            "slug": "meta",
+            "color": "#0089f4",
+            "logo_url": "https://artificialanalysis.ai/img/logos/meta_small.svg"
+          }
         },
         {
           "rank": 9,
@@ -120,7 +170,13 @@
           "release_date": "2026-07-09",
           "is_reasoning": true,
           "is_open_weights": false,
-          "is_estimated": false
+          "is_estimated": false,
+          "provider": {
+            "name": "OpenAI",
+            "slug": "openai",
+            "color": "#1f1f1f",
+            "logo_url": "https://artificialanalysis.ai/img/logos/openai_small.svg"
+          }
         },
         {
           "rank": 10,
@@ -132,7 +188,337 @@
           "release_date": "2026-08-13",
           "is_reasoning": true,
           "is_open_weights": false,
-          "is_estimated": false
+          "is_estimated": false,
+          "provider": {
+            "name": "Google",
+            "slug": "google",
+            "color": "#34A853",
+            "logo_url": "https://artificialanalysis.ai/img/logos/google_small.svg"
+          }
+        },
+        {
+          "rank": 11,
+          "name": "DeepSeek V4 Pro 0813 (Reasoning, Max Effort)",
+          "short_name": "DeepSeek V4 Pro 0813 (max)",
+          "score": 53.2,
+          "slug": "deepseek-v4-pro",
+          "url": "https://artificialanalysis.ai/models/deepseek-v4-pro",
+          "release_date": "2026-08-13",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "DeepSeek",
+            "slug": "deepseek",
+            "color": "#2243e6",
+            "logo_url": "https://artificialanalysis.ai/img/logos/deepseek_small.svg"
+          }
+        },
+        {
+          "rank": 12,
+          "name": "GPT-5.6 Luna (max)",
+          "short_name": "GPT-5.6 Luna (max)",
+          "score": 52.32,
+          "slug": "gpt-5-6-luna",
+          "url": "https://artificialanalysis.ai/models/gpt-5-6-luna",
+          "release_date": "2026-07-09",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false,
+          "provider": {
+            "name": "OpenAI",
+            "slug": "openai",
+            "color": "#1f1f1f",
+            "logo_url": "https://artificialanalysis.ai/img/logos/openai_small.svg"
+          }
+        },
+        {
+          "rank": 13,
+          "name": "Qwen3.8 27B (xhigh)",
+          "short_name": "Qwen3.8 27B (xhigh)",
+          "score": 52.02,
+          "slug": "qwen3-8-27b",
+          "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+          "release_date": "2026-08-14",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "Alibaba",
+            "slug": "alibaba",
+            "color": "#ff7018",
+            "logo_url": "https://artificialanalysis.ai/img/logos/alibaba_small.svg"
+          }
+        },
+        {
+          "rank": 14,
+          "name": "Motif 3",
+          "short_name": "Motif 3",
+          "score": 47.36,
+          "slug": "motif-3",
+          "url": "https://artificialanalysis.ai/models/motif-3",
+          "release_date": "2026-08-12",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "Motif Technologies",
+            "slug": "motif-technologies",
+            "color": "#6a93eb",
+            "logo_url": "https://artificialanalysis.ai/img/logos/motif_small.svg"
+          }
+        },
+        {
+          "rank": 15,
+          "name": "MiniMax-M3",
+          "short_name": "MiniMax-M3",
+          "score": 45.4,
+          "slug": "minimax-m3",
+          "url": "https://artificialanalysis.ai/models/minimax-m3",
+          "release_date": "2026-06-01",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "MiniMax",
+            "slug": "minimax",
+            "color": "#EB3568",
+            "logo_url": "https://artificialanalysis.ai/img/logos/minimax_small.svg"
+          }
+        },
+        {
+          "rank": 16,
+          "name": "Inkling (xhigh)",
+          "short_name": "Inkling",
+          "score": 42.29,
+          "slug": "inkling",
+          "url": "https://artificialanalysis.ai/models/inkling",
+          "release_date": "2026-07-15",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "Thinking Machines",
+            "slug": "thinking-machines",
+            "color": "#676767",
+            "logo_url": "https://artificialanalysis.ai/img/logos/thinking_machines.svg"
+          }
+        },
+        {
+          "rank": 17,
+          "name": "Nemotron 3 Ultra 550B A55B (Reasoning)",
+          "short_name": "Nemotron 3 Ultra",
+          "score": 38.32,
+          "slug": "nvidia-nemotron-3-ultra-550b-a55b",
+          "url": "https://artificialanalysis.ai/models/nvidia-nemotron-3-ultra-550b-a55b",
+          "release_date": "2026-06-04",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "NVIDIA",
+            "slug": "nvidia",
+            "color": "#76b900",
+            "logo_url": "https://artificialanalysis.ai/img/logos/nvidia_small.svg"
+          }
+        },
+        {
+          "rank": 18,
+          "name": "Gemini 3.5 Flash-Lite",
+          "short_name": "Gemini 3.5 Flash-Lite",
+          "score": 37.44,
+          "slug": "gemini-3-5-flash-lite",
+          "url": "https://artificialanalysis.ai/models/gemini-3-5-flash-lite",
+          "release_date": "2026-07-21",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false,
+          "provider": {
+            "name": "Google",
+            "slug": "google",
+            "color": "#34A853",
+            "logo_url": "https://artificialanalysis.ai/img/logos/google_small.svg"
+          }
+        },
+        {
+          "rank": 19,
+          "name": "Solar Open2 250B",
+          "short_name": "Solar Open2 250B",
+          "score": 37.43,
+          "slug": "solar-open2-250b",
+          "url": "https://artificialanalysis.ai/models/solar-open2-250b",
+          "release_date": "2026-08-12",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "Upstage",
+            "slug": "upstage",
+            "color": "#7c59f5",
+            "logo_url": "https://artificialanalysis.ai/img/logos/upstage_small.svg"
+          }
+        },
+        {
+          "rank": 20,
+          "name": "Muse Glimmer (high)",
+          "short_name": "Muse Glimmer (high)",
+          "score": 35.06,
+          "slug": "muse-glimmer",
+          "url": "https://artificialanalysis.ai/models/muse-glimmer",
+          "release_date": "2026-08-10",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "Meta",
+            "slug": "meta",
+            "color": "#0089f4",
+            "logo_url": "https://artificialanalysis.ai/img/logos/meta_small.svg"
+          }
+        },
+        {
+          "rank": 21,
+          "name": "A.X-K2",
+          "short_name": "A.X-K2",
+          "score": 35.01,
+          "slug": "a-x-k2",
+          "url": "https://artificialanalysis.ai/models/a-x-k2",
+          "release_date": "2026-08-12",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "SK Telecom",
+            "slug": "sk-telecom",
+            "color": "#E1002A",
+            "logo_url": "https://artificialanalysis.ai/img/logos/sktelecom_small.svg"
+          }
+        },
+        {
+          "rank": 22,
+          "name": "K-EXAONE 2.0 0803",
+          "short_name": "K-EXAONE 2.0",
+          "score": 30.98,
+          "slug": "k-exaone-2-0-0803",
+          "url": "https://artificialanalysis.ai/models/k-exaone-2-0-0803",
+          "release_date": "2026-08-12",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "LG AI Research",
+            "slug": "lg",
+            "color": "#df3b8a",
+            "logo_url": "https://artificialanalysis.ai/img/logos/lg_small.png"
+          }
+        },
+        {
+          "rank": 23,
+          "name": "Mistral Medium 3.5",
+          "short_name": "Mistral Medium 3.5",
+          "score": 30.39,
+          "slug": "mistral-medium-3-5",
+          "url": "https://artificialanalysis.ai/models/mistral-medium-3-5",
+          "release_date": "2026-04-29",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "Mistral",
+            "slug": "mistral",
+            "color": "#fd6f00",
+            "logo_url": "https://artificialanalysis.ai/img/logos/mistral_small.png"
+          }
+        },
+        {
+          "rank": 24,
+          "name": "Claude 4.5 Haiku (Reasoning)",
+          "short_name": "Claude 4.5 Haiku",
+          "score": 29.89,
+          "slug": "claude-4-5-haiku-reasoning",
+          "url": "https://artificialanalysis.ai/models/claude-4-5-haiku-reasoning",
+          "release_date": "2025-10-15",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false,
+          "provider": {
+            "name": "Anthropic",
+            "slug": "anthropic",
+            "color": "#cc785c",
+            "logo_url": "https://artificialanalysis.ai/img/logos/anthropic_small.svg"
+          }
+        },
+        {
+          "rank": 25,
+          "name": "Nemotron 3 Super 120B A12B (Reasoning)",
+          "short_name": "Nemotron 3 Super",
+          "score": 25.67,
+          "slug": "nvidia-nemotron-3-super-120b-a12b",
+          "url": "https://artificialanalysis.ai/models/nvidia-nemotron-3-super-120b-a12b",
+          "release_date": "2026-03-11",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "NVIDIA",
+            "slug": "nvidia",
+            "color": "#76b900",
+            "logo_url": "https://artificialanalysis.ai/img/logos/nvidia_small.svg"
+          }
+        },
+        {
+          "rank": 26,
+          "name": "gpt-oss-120b (high)",
+          "short_name": "gpt-oss-120b (high)",
+          "score": 24.13,
+          "slug": "gpt-oss-120b",
+          "url": "https://artificialanalysis.ai/models/gpt-oss-120b",
+          "release_date": "2025-08-05",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "OpenAI",
+            "slug": "openai",
+            "color": "#1f1f1f",
+            "logo_url": "https://artificialanalysis.ai/img/logos/openai_small.svg"
+          }
+        },
+        {
+          "rank": 27,
+          "name": "Nemotron 3.5 Lightning",
+          "short_name": "Nemotron 3.5 Lightning",
+          "score": 23.63,
+          "slug": "nemotron-3-5-lightning",
+          "url": "https://artificialanalysis.ai/models/nemotron-3-5-lightning",
+          "release_date": "2026-08-11",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "NVIDIA",
+            "slug": "nvidia",
+            "color": "#76b900",
+            "logo_url": "https://artificialanalysis.ai/img/logos/nvidia_small.svg"
+          }
+        },
+        {
+          "rank": 28,
+          "name": "Command A+",
+          "short_name": "Command A+",
+          "score": 22.77,
+          "slug": "command-a-plus",
+          "url": "https://artificialanalysis.ai/models/command-a-plus",
+          "release_date": "2026-05-20",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "Cohere",
+            "slug": "cohere",
+            "color": "#D18EE2",
+            "logo_url": "https://artificialanalysis.ai/img/logos/cohere_small.svg"
+          }
         }
       ]
     },
@@ -140,6 +526,8 @@
       "title": "Agentic Index",
       "version": null,
       "description": "衡量模型完成真实代理任务与多步骤工作的能力",
+      "selected_model_count": 28,
+      "catalog_model_count": 487,
       "models": [
         {
           "rank": 1,
@@ -151,7 +539,13 @@
           "release_date": "2026-07-24",
           "is_reasoning": true,
           "is_open_weights": false,
-          "is_estimated": false
+          "is_estimated": false,
+          "provider": {
+            "name": "Anthropic",
+            "slug": "anthropic",
+            "color": "#cc785c",
+            "logo_url": "https://artificialanalysis.ai/img/logos/anthropic_small.svg"
+          }
         },
         {
           "rank": 2,
@@ -163,7 +557,13 @@
           "release_date": "2026-08-18",
           "is_reasoning": true,
           "is_open_weights": false,
-          "is_estimated": false
+          "is_estimated": false,
+          "provider": {
+            "name": "Z AI",
+            "slug": "zai",
+            "color": "#1c7ff8",
+            "logo_url": "https://artificialanalysis.ai/img/logos/zai_small.svg"
+          }
         },
         {
           "rank": 3,
@@ -175,7 +575,13 @@
           "release_date": "2026-08-12",
           "is_reasoning": true,
           "is_open_weights": false,
-          "is_estimated": false
+          "is_estimated": false,
+          "provider": {
+            "name": "SpaceXAI",
+            "slug": "xai",
+            "color": "#736cd3",
+            "logo_url": "https://artificialanalysis.ai/img/logos/spacexai.svg"
+          }
         },
         {
           "rank": 4,
@@ -187,7 +593,13 @@
           "release_date": "2026-07-09",
           "is_reasoning": true,
           "is_open_weights": false,
-          "is_estimated": false
+          "is_estimated": false,
+          "provider": {
+            "name": "OpenAI",
+            "slug": "openai",
+            "color": "#1f1f1f",
+            "logo_url": "https://artificialanalysis.ai/img/logos/openai_small.svg"
+          }
         },
         {
           "rank": 5,
@@ -199,7 +611,13 @@
           "release_date": "2026-08-12",
           "is_reasoning": true,
           "is_open_weights": true,
-          "is_estimated": false
+          "is_estimated": false,
+          "provider": {
+            "name": "Alibaba",
+            "slug": "alibaba",
+            "color": "#ff7018",
+            "logo_url": "https://artificialanalysis.ai/img/logos/alibaba_small.svg"
+          }
         },
         {
           "rank": 6,
@@ -211,7 +629,13 @@
           "release_date": "2026-06-09",
           "is_reasoning": true,
           "is_open_weights": false,
-          "is_estimated": false
+          "is_estimated": false,
+          "provider": {
+            "name": "Anthropic",
+            "slug": "anthropic",
+            "color": "#cc785c",
+            "logo_url": "https://artificialanalysis.ai/img/logos/anthropic_small.svg"
+          }
         },
         {
           "rank": 7,
@@ -223,7 +647,13 @@
           "release_date": "2026-07-16",
           "is_reasoning": true,
           "is_open_weights": true,
-          "is_estimated": false
+          "is_estimated": false,
+          "provider": {
+            "name": "Kimi",
+            "slug": "kimi",
+            "color": "#047AFE",
+            "logo_url": "https://artificialanalysis.ai/img/logos/kimi.jpg"
+          }
         },
         {
           "rank": 8,
@@ -235,7 +665,13 @@
           "release_date": "2026-08-14",
           "is_reasoning": true,
           "is_open_weights": true,
-          "is_estimated": false
+          "is_estimated": false,
+          "provider": {
+            "name": "Alibaba",
+            "slug": "alibaba",
+            "color": "#ff7018",
+            "logo_url": "https://artificialanalysis.ai/img/logos/alibaba_small.svg"
+          }
         },
         {
           "rank": 9,
@@ -247,7 +683,13 @@
           "release_date": "2026-07-09",
           "is_reasoning": true,
           "is_open_weights": false,
-          "is_estimated": false
+          "is_estimated": false,
+          "provider": {
+            "name": "OpenAI",
+            "slug": "openai",
+            "color": "#1f1f1f",
+            "logo_url": "https://artificialanalysis.ai/img/logos/openai_small.svg"
+          }
         },
         {
           "rank": 10,
@@ -259,7 +701,337 @@
           "release_date": "2026-08-13",
           "is_reasoning": true,
           "is_open_weights": true,
-          "is_estimated": false
+          "is_estimated": false,
+          "provider": {
+            "name": "DeepSeek",
+            "slug": "deepseek",
+            "color": "#2243e6",
+            "logo_url": "https://artificialanalysis.ai/img/logos/deepseek_small.svg"
+          }
+        },
+        {
+          "rank": 11,
+          "name": "Muse Spark 1.2 (xhigh)",
+          "short_name": "Muse Spark 1.2 (xhigh)",
+          "score": 49.31,
+          "slug": "muse-spark-1-2",
+          "url": "https://artificialanalysis.ai/models/muse-spark-1-2",
+          "release_date": "2026-08-05",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false,
+          "provider": {
+            "name": "Meta",
+            "slug": "meta",
+            "color": "#0089f4",
+            "logo_url": "https://artificialanalysis.ai/img/logos/meta_small.svg"
+          }
+        },
+        {
+          "rank": 12,
+          "name": "GPT-5.6 Luna (max)",
+          "short_name": "GPT-5.6 Luna (max)",
+          "score": 46.9,
+          "slug": "gpt-5-6-luna",
+          "url": "https://artificialanalysis.ai/models/gpt-5-6-luna",
+          "release_date": "2026-07-09",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false,
+          "provider": {
+            "name": "OpenAI",
+            "slug": "openai",
+            "color": "#1f1f1f",
+            "logo_url": "https://artificialanalysis.ai/img/logos/openai_small.svg"
+          }
+        },
+        {
+          "rank": 13,
+          "name": "Gemini 3.7 Flash (high)",
+          "short_name": "Gemini 3.7 Flash (high)",
+          "score": 45.1,
+          "slug": "gemini-3-7-flash",
+          "url": "https://artificialanalysis.ai/models/gemini-3-7-flash",
+          "release_date": "2026-08-13",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false,
+          "provider": {
+            "name": "Google",
+            "slug": "google",
+            "color": "#34A853",
+            "logo_url": "https://artificialanalysis.ai/img/logos/google_small.svg"
+          }
+        },
+        {
+          "rank": 14,
+          "name": "Motif 3",
+          "short_name": "Motif 3",
+          "score": 37.56,
+          "slug": "motif-3",
+          "url": "https://artificialanalysis.ai/models/motif-3",
+          "release_date": "2026-08-12",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "Motif Technologies",
+            "slug": "motif-technologies",
+            "color": "#6a93eb",
+            "logo_url": "https://artificialanalysis.ai/img/logos/motif_small.svg"
+          }
+        },
+        {
+          "rank": 15,
+          "name": "MiniMax-M3",
+          "short_name": "MiniMax-M3",
+          "score": 36.12,
+          "slug": "minimax-m3",
+          "url": "https://artificialanalysis.ai/models/minimax-m3",
+          "release_date": "2026-06-01",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "MiniMax",
+            "slug": "minimax",
+            "color": "#EB3568",
+            "logo_url": "https://artificialanalysis.ai/img/logos/minimax_small.svg"
+          }
+        },
+        {
+          "rank": 16,
+          "name": "Inkling (xhigh)",
+          "short_name": "Inkling",
+          "score": 34.13,
+          "slug": "inkling",
+          "url": "https://artificialanalysis.ai/models/inkling",
+          "release_date": "2026-07-15",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "Thinking Machines",
+            "slug": "thinking-machines",
+            "color": "#676767",
+            "logo_url": "https://artificialanalysis.ai/img/logos/thinking_machines.svg"
+          }
+        },
+        {
+          "rank": 17,
+          "name": "Solar Open2 250B",
+          "short_name": "Solar Open2 250B",
+          "score": 27.81,
+          "slug": "solar-open2-250b",
+          "url": "https://artificialanalysis.ai/models/solar-open2-250b",
+          "release_date": "2026-08-12",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "Upstage",
+            "slug": "upstage",
+            "color": "#7c59f5",
+            "logo_url": "https://artificialanalysis.ai/img/logos/upstage_small.svg"
+          }
+        },
+        {
+          "rank": 18,
+          "name": "Nemotron 3 Ultra 550B A55B (Reasoning)",
+          "short_name": "Nemotron 3 Ultra",
+          "score": 27.5,
+          "slug": "nvidia-nemotron-3-ultra-550b-a55b",
+          "url": "https://artificialanalysis.ai/models/nvidia-nemotron-3-ultra-550b-a55b",
+          "release_date": "2026-06-04",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "NVIDIA",
+            "slug": "nvidia",
+            "color": "#76b900",
+            "logo_url": "https://artificialanalysis.ai/img/logos/nvidia_small.svg"
+          }
+        },
+        {
+          "rank": 19,
+          "name": "Gemini 3.5 Flash-Lite",
+          "short_name": "Gemini 3.5 Flash-Lite",
+          "score": 27.16,
+          "slug": "gemini-3-5-flash-lite",
+          "url": "https://artificialanalysis.ai/models/gemini-3-5-flash-lite",
+          "release_date": "2026-07-21",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false,
+          "provider": {
+            "name": "Google",
+            "slug": "google",
+            "color": "#34A853",
+            "logo_url": "https://artificialanalysis.ai/img/logos/google_small.svg"
+          }
+        },
+        {
+          "rank": 20,
+          "name": "A.X-K2",
+          "short_name": "A.X-K2",
+          "score": 25.69,
+          "slug": "a-x-k2",
+          "url": "https://artificialanalysis.ai/models/a-x-k2",
+          "release_date": "2026-08-12",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "SK Telecom",
+            "slug": "sk-telecom",
+            "color": "#E1002A",
+            "logo_url": "https://artificialanalysis.ai/img/logos/sktelecom_small.svg"
+          }
+        },
+        {
+          "rank": 21,
+          "name": "Muse Glimmer (high)",
+          "short_name": "Muse Glimmer (high)",
+          "score": 22.94,
+          "slug": "muse-glimmer",
+          "url": "https://artificialanalysis.ai/models/muse-glimmer",
+          "release_date": "2026-08-10",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "Meta",
+            "slug": "meta",
+            "color": "#0089f4",
+            "logo_url": "https://artificialanalysis.ai/img/logos/meta_small.svg"
+          }
+        },
+        {
+          "rank": 22,
+          "name": "K-EXAONE 2.0 0803",
+          "short_name": "K-EXAONE 2.0",
+          "score": 19.72,
+          "slug": "k-exaone-2-0-0803",
+          "url": "https://artificialanalysis.ai/models/k-exaone-2-0-0803",
+          "release_date": "2026-08-12",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "LG AI Research",
+            "slug": "lg",
+            "color": "#df3b8a",
+            "logo_url": "https://artificialanalysis.ai/img/logos/lg_small.png"
+          }
+        },
+        {
+          "rank": 23,
+          "name": "Mistral Medium 3.5",
+          "short_name": "Mistral Medium 3.5",
+          "score": 19.21,
+          "slug": "mistral-medium-3-5",
+          "url": "https://artificialanalysis.ai/models/mistral-medium-3-5",
+          "release_date": "2026-04-29",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "Mistral",
+            "slug": "mistral",
+            "color": "#fd6f00",
+            "logo_url": "https://artificialanalysis.ai/img/logos/mistral_small.png"
+          }
+        },
+        {
+          "rank": 24,
+          "name": "Claude 4.5 Haiku (Reasoning)",
+          "short_name": "Claude 4.5 Haiku",
+          "score": 16.47,
+          "slug": "claude-4-5-haiku-reasoning",
+          "url": "https://artificialanalysis.ai/models/claude-4-5-haiku-reasoning",
+          "release_date": "2025-10-15",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false,
+          "provider": {
+            "name": "Anthropic",
+            "slug": "anthropic",
+            "color": "#cc785c",
+            "logo_url": "https://artificialanalysis.ai/img/logos/anthropic_small.svg"
+          }
+        },
+        {
+          "rank": 25,
+          "name": "Nemotron 3.5 Lightning",
+          "short_name": "Nemotron 3.5 Lightning",
+          "score": 13.85,
+          "slug": "nemotron-3-5-lightning",
+          "url": "https://artificialanalysis.ai/models/nemotron-3-5-lightning",
+          "release_date": "2026-08-11",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "NVIDIA",
+            "slug": "nvidia",
+            "color": "#76b900",
+            "logo_url": "https://artificialanalysis.ai/img/logos/nvidia_small.svg"
+          }
+        },
+        {
+          "rank": 26,
+          "name": "gpt-oss-120b (high)",
+          "short_name": "gpt-oss-120b (high)",
+          "score": 13.43,
+          "slug": "gpt-oss-120b",
+          "url": "https://artificialanalysis.ai/models/gpt-oss-120b",
+          "release_date": "2025-08-05",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "OpenAI",
+            "slug": "openai",
+            "color": "#1f1f1f",
+            "logo_url": "https://artificialanalysis.ai/img/logos/openai_small.svg"
+          }
+        },
+        {
+          "rank": 27,
+          "name": "Command A+",
+          "short_name": "Command A+",
+          "score": 9.23,
+          "slug": "command-a-plus",
+          "url": "https://artificialanalysis.ai/models/command-a-plus",
+          "release_date": "2026-05-20",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "Cohere",
+            "slug": "cohere",
+            "color": "#D18EE2",
+            "logo_url": "https://artificialanalysis.ai/img/logos/cohere_small.svg"
+          }
+        },
+        {
+          "rank": 28,
+          "name": "Nemotron 3 Super 120B A12B (Reasoning)",
+          "short_name": "Nemotron 3 Super",
+          "score": 8.79,
+          "slug": "nvidia-nemotron-3-super-120b-a12b",
+          "url": "https://artificialanalysis.ai/models/nvidia-nemotron-3-super-120b-a12b",
+          "release_date": "2026-03-11",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "NVIDIA",
+            "slug": "nvidia",
+            "color": "#76b900",
+            "logo_url": "https://artificialanalysis.ai/img/logos/nvidia_small.svg"
+          }
         }
       ]
     }

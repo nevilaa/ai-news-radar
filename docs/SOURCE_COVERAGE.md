@@ -115,7 +115,7 @@ baseline, then let the aggregator layer add breadth.
   community signal lane so it can appear under the Community tab without
   occupying a standalone homepage block.
 - **Artificial Analysis model rankings**: reads the public default model set
-  embedded in the official Models page and publishes only the top 10 values for
+  embedded in the official Models page and publishes the default chart models for
   the Intelligence Index and Agentic Index to `data/model-rankings.json`. The
   hourly workflow refreshes the snapshot, the UI attributes the source and
   links every row back to the official model page. A failed refresh preserves

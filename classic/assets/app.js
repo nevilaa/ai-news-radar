@@ -126,6 +126,7 @@ const benchmarkPanelEl = document.getElementById("benchmarkPanel");
 const benchmarkChartTitleEl = document.getElementById("benchmarkChartTitle");
 const benchmarkDescriptionEl = document.getElementById("benchmarkDescription");
 const benchmarkUpdatedAtEl = document.getElementById("benchmarkUpdatedAt");
+const benchmarkModelCountEl = document.getElementById("benchmarkModelCount");
 const benchmarkRankingEl = document.getElementById("benchmarkRanking");
 
 const SOURCE_KINDS = {
@@ -3074,6 +3075,7 @@ function renderModelRankings(errorMessage = "") {
     item.textContent = errorMessage || "模型排名暂不可用";
     benchmarkRankingEl.appendChild(item);
     if (benchmarkUpdatedAtEl) benchmarkUpdatedAtEl.textContent = "同步失败，稍后重试";
+    if (benchmarkModelCountEl) benchmarkModelCountEl.textContent = "模型暂不可用";
     return;
   }
 
@@ -3103,9 +3105,18 @@ function renderModelRankings(errorMessage = "") {
     benchmarkUpdatedAtEl.textContent = `同步于 ${fmtBenchmarkTimestamp(state.modelRankings.fetched_at)}`;
   }
 
+  if (benchmarkModelCountEl) {
+    const total = Number(ranking.catalog_model_count || 0);
+    benchmarkModelCountEl.textContent = total ? `${models.length} of ${total} models` : `${models.length} models`;
+  }
+
+  const highestScore = Math.max(...models.map((model) => Number(model.score) || 0), 20);
+  const chartCeiling = Math.max(20, Math.ceil(highestScore / 20) * 20);
+  benchmarkRankingEl.style.setProperty("--benchmark-columns", String(models.length));
+
   models.forEach((model) => {
     const item = document.createElement("li");
-    item.className = "benchmark-row";
+    item.className = "benchmark-column";
 
     const link = document.createElement("a");
     link.href = model.url || state.modelRankings.source?.url || "https://artificialanalysis.ai/models";
@@ -3113,36 +3124,57 @@ function renderModelRankings(errorMessage = "") {
     link.rel = "noopener noreferrer";
     link.setAttribute("aria-label", `第 ${model.rank} 名，${model.name}，${model.score} 分，查看官方详情`);
 
-    const rank = document.createElement("span");
-    rank.className = "benchmark-rank";
-    rank.textContent = String(model.rank).padStart(2, "0");
+    link.title = model.name;
 
-    const name = document.createElement("span");
-    name.className = "benchmark-model";
-    const label = document.createElement("strong");
-    label.textContent = model.name;
-    name.appendChild(label);
-    const tags = [];
-    if (model.is_open_weights) tags.push("开放权重");
-    if (model.is_estimated) tags.push("估算");
-    if (tags.length) {
-      const meta = document.createElement("small");
-      meta.textContent = tags.join(" · ");
-      name.appendChild(meta);
-    }
-
-    const track = document.createElement("span");
-    track.className = "benchmark-track";
+    const stage = document.createElement("span");
+    stage.className = "benchmark-bar-stage";
     const bar = document.createElement("span");
     bar.className = "benchmark-bar";
-    bar.style.width = `${Math.max(2, Math.min(100, Number(model.score) || 0))}%`;
-    track.appendChild(bar);
+    bar.style.height = `${Math.max(3, Math.min(100, ((Number(model.score) || 0) / chartCeiling) * 100))}%`;
+    const providerColor = String(model.provider?.color || "");
+    if (/^#[0-9a-f]{6}$/i.test(providerColor)) bar.style.setProperty("--provider-color", providerColor);
 
     const score = document.createElement("strong");
     score.className = "benchmark-score";
-    score.textContent = Number(model.score).toFixed(1);
+    score.textContent = String(Math.round(Number(model.score) || 0));
+    bar.appendChild(score);
+    stage.appendChild(bar);
 
-    link.append(rank, name, track, score);
+    const provider = document.createElement("span");
+    provider.className = "benchmark-provider";
+    const providerName = String(model.provider?.name || "AI");
+    const fallback = document.createElement("span");
+    fallback.className = "benchmark-provider-fallback";
+    fallback.textContent = providerName.slice(0, 2).toUpperCase();
+    if (model.provider?.logo_url) {
+      const logo = document.createElement("img");
+      logo.src = model.provider.logo_url;
+      logo.alt = `${providerName} 标志`;
+      logo.loading = "lazy";
+      logo.className = "is-pending";
+      logo.addEventListener("load", () => {
+        logo.classList.remove("is-pending");
+        fallback.hidden = true;
+      }, { once: true });
+      logo.addEventListener("error", () => logo.remove(), { once: true });
+      provider.append(fallback, logo);
+    } else {
+      provider.appendChild(fallback);
+    }
+
+    const name = document.createElement("span");
+    name.className = "benchmark-model-name";
+    const label = document.createElement("strong");
+    label.textContent = model.name;
+    name.appendChild(label);
+    if (model.is_reasoning) {
+      const reasoning = document.createElement("small");
+      reasoning.textContent = "◔";
+      reasoning.setAttribute("aria-label", "推理模型");
+      name.appendChild(reasoning);
+    }
+
+    link.append(stage, provider, name);
     item.appendChild(link);
     benchmarkRankingEl.appendChild(item);
   });

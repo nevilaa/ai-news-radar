@@ -9,6 +9,7 @@ import re
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
+from urllib.parse import urljoin
 
 import requests
 
@@ -78,6 +79,8 @@ def build_ranking(models: list[dict[str, Any]], field: str, limit: int) -> list[
     ranking = []
     for rank, (score, _, row) in enumerate(selected[:limit], start=1):
         slug = str(row["slug"]).strip()
+        creator = row.get("creator") if isinstance(row.get("creator"), dict) else {}
+        creator_logo = str(creator.get("logo") or "").strip()
         ranking.append(
             {
                 "rank": rank,
@@ -90,6 +93,12 @@ def build_ranking(models: list[dict[str, Any]], field: str, limit: int) -> list[
                 "is_reasoning": bool(row.get("isReasoning")),
                 "is_open_weights": bool(row.get("isOpenWeights")),
                 "is_estimated": bool(row.get(f"{field}IsEstimated")),
+                "provider": {
+                    "name": str(creator.get("name") or "").strip(),
+                    "slug": str(creator.get("slug") or "").strip(),
+                    "color": str(creator.get("color") or "").strip(),
+                    "logo_url": urljoin(SOURCE_URL, creator_logo) if creator_logo else None,
+                },
             }
         )
 
@@ -98,14 +107,27 @@ def build_ranking(models: list[dict[str, Any]], field: str, limit: int) -> list[
     return ranking
 
 
-def build_payload(html: str, fetched_at: datetime, limit: int = 10) -> dict[str, Any]:
+def catalog_count_for(html: str, selected_count: int | None = None) -> int | None:
+    pairs = [(int(selected), int(total)) for selected, total in re.findall(r"(\d{1,3}) of (\d{2,4}) models", html)]
+    if selected_count is None:
+        return max((total for _, total in pairs), default=None)
+    totals = [total for selected, total in pairs if selected == selected_count]
+    return max(totals) if totals else None
+
+
+def build_payload(html: str, fetched_at: datetime, limit: int = 29) -> dict[str, Any]:
     models = extract_initial_models(html)
     version_match = re.search(r"Artificial Analysis Intelligence Index v([0-9.]+)", html)
     version = version_match.group(1) if version_match else None
     timestamp = fetched_at.astimezone(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
 
+    intelligence_models = build_ranking(models, "intelligenceIndex", limit)
+    agentic_models = build_ranking(models, "agenticIndex", limit)
+    intelligence_available = sum(_score(row, "intelligenceIndex") is not None for row in models)
+    agentic_available = sum(_score(row, "agenticIndex") is not None for row in models)
+
     return {
-        "schema_version": "1.0",
+        "schema_version": "1.1",
         "fetched_at": timestamp,
         "refresh_interval_minutes": 60,
         "source": {
@@ -118,14 +140,18 @@ def build_payload(html: str, fetched_at: datetime, limit: int = 10) -> dict[str,
             "intelligence": {
                 "title": "Artificial Analysis Intelligence Index",
                 "version": version,
-                "description": "综合知识、推理、数学与编程等评测的模型能力指数",
-                "models": build_ranking(models, "intelligenceIndex", limit),
+                "description": "综合知识、推理、数学、编程与真实任务评测的模型能力指数",
+                "selected_model_count": intelligence_available,
+                "catalog_model_count": catalog_count_for(html),
+                "models": intelligence_models,
             },
             "agentic": {
                 "title": "Agentic Index",
                 "version": None,
                 "description": "衡量模型完成真实代理任务与多步骤工作的能力",
-                "models": build_ranking(models, "agenticIndex", limit),
+                "selected_model_count": agentic_available,
+                "catalog_model_count": catalog_count_for(html, agentic_available),
+                "models": agentic_models,
             },
         },
     }
@@ -145,7 +171,7 @@ def fetch_html(session: requests.Session | None = None) -> str:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--output", default="data/model-rankings.json")
-    parser.add_argument("--limit", type=int, default=10)
+    parser.add_argument("--limit", type=int, default=29)
     args = parser.parse_args()
     if not 5 <= args.limit <= 30:
         parser.error("--limit must be between 5 and 30")

@@ -21,12 +21,18 @@ def sample_html(count: int = 12) -> str:
                 "intelligenceIndexIsEstimated": False,
                 "agenticIndex": 30 + (count - index),
                 "agenticIndexIsEstimated": index == 0,
+                "creator": {
+                    "name": "Example AI",
+                    "slug": "example-ai",
+                    "logo": "/img/logos/example.svg",
+                    "color": "#123456",
+                },
             }
         )
     flight = '0:{"initialModels":' + json.dumps(models, separators=(",", ":")) + "}"
     escaped = json.dumps(flight)
     return (
-        '<html><body>Artificial Analysis Intelligence Index v4.1.1'
+        '<html><body>Artificial Analysis Intelligence Index v4.1.1 12 of 616 models'
         f'<script>self.__next_f.push([1,{escaped}])</script></body></html>'
     )
 
@@ -48,6 +54,9 @@ def test_build_payload_sorts_each_index_independently():
     assert intelligence["models"][0]["rank"] == 1
     assert agentic["models"][0]["name"] == "Model 0"
     assert agentic["models"][0]["is_estimated"] is True
+    assert intelligence["catalog_model_count"] == 616
+    assert intelligence["models"][0]["provider"]["color"] == "#123456"
+    assert intelligence["models"][0]["provider"]["logo_url"] == "https://artificialanalysis.ai/img/logos/example.svg"
     assert payload["fetched_at"] == "2026-08-22T01:02:03Z"
 
 
