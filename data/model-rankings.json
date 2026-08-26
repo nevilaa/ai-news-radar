@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1",
-  "fetched_at": "2026-08-26T00:17:02Z",
+  "fetched_at": "2026-08-26T02:34:58Z",
   "refresh_interval_minutes": 60,
   "source": {
     "name": "Artificial Analysis",
@@ -488,7 +488,7 @@
           "rank": 27,
           "name": "Nemotron 3.5 Lightning",
           "short_name": "Nemotron 3.5 Lightning",
-          "score": 23.63,
+          "score": 23.61,
           "slug": "nemotron-3-5-lightning",
           "url": "https://artificialanalysis.ai/models/nemotron-3-5-lightning",
           "release_date": "2026-08-11",
@@ -965,7 +965,7 @@
           "rank": 25,
           "name": "Nemotron 3.5 Lightning",
           "short_name": "Nemotron 3.5 Lightning",
-          "score": 13.85,
+          "score": 13.76,
           "slug": "nemotron-3-5-lightning",
           "url": "https://artificialanalysis.ai/models/nemotron-3-5-lightning",
           "release_date": "2026-08-11",
