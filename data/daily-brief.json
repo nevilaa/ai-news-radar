@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T09:46:32.107780Z",
+  "generated_at": "2026-08-27T09:48:00.449557Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -40,7 +40,7 @@
           "published_at": "2026-08-26T14:05:28.714000Z"
         },
         {
-          "id": "5b704af96d16dec9cc401b169dc8d074cc0b52db",
+          "id": "7e402610fb5331559996d8e671682a0d99994a70",
           "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next",
           "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
           "title_en": "Qwen3.8-Flash-Next",
@@ -48,9 +48,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-26T12:52:12Z"
         },
         {
@@ -71,6 +71,7 @@
       "source_count": 4,
       "source_names": [
         "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Qwen：Blog Retrieval（API）",
         "qwen.ai"
       ],
@@ -104,7 +105,7 @@
           "published_at": "2026-08-26T14:05:28.714000Z"
         },
         {
-          "id": "5b704af96d16dec9cc401b169dc8d074cc0b52db",
+          "id": "7e402610fb5331559996d8e671682a0d99994a70",
           "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next",
           "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
           "title_en": "Qwen3.8-Flash-Next",
@@ -112,9 +113,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-26T12:52:12Z"
         },
         {
@@ -134,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.828,
-      "importance": 0.828,
-      "importance_score": 0.828,
+      "score": 0.8279,
+      "importance": 0.8279,
+      "importance_score": 0.8279,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7355,
+        "recency": 0.7352,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -169,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:47:23.720857Z"
+        "scored_at": "2026-08-27T09:48:36.546839Z"
       }
     },
     {
@@ -217,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8246,
-      "importance": 0.8246,
-      "importance_score": 0.8246,
+      "score": 0.8245,
+      "importance": 0.8245,
+      "importance_score": 0.8245,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8921,
+        "recency": 0.8918,
         "story_heat": 0.0
       },
       "category": "official",
@@ -252,7 +253,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:47:23.720857Z"
+        "scored_at": "2026-08-27T09:48:36.546839Z"
       }
     },
     {
@@ -300,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.82,
-      "importance": 0.82,
-      "importance_score": 0.82,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8222,
+        "recency": 0.8219,
         "story_heat": 0.0
       },
       "category": "official",
@@ -335,7 +336,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:47:23.720857Z"
+        "scored_at": "2026-08-27T09:48:36.546839Z"
       }
     },
     {
@@ -391,7 +392,7 @@
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.785,
+        "recency": 0.7848,
         "story_heat": 0.0
       },
       "category": "official",
@@ -418,12 +419,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:47:23.720857Z"
+        "scored_at": "2026-08-27T09:48:36.546839Z"
       }
     },
     {
       "story_id": "story_6b30649509f4",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "title": "将 ChatGPT for Teachers 带到更多美国学区 / Bringing ChatGPT for Teachers to more U.S. school districts",
       "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "primary_url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "source": "OpenAI News",
@@ -431,8 +432,8 @@
       "sources": [
         {
           "id": "588215148c3b72c0715d264ed0cc70f6b4fdc9e9",
-          "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-          "title_zh": null,
+          "title": "将 ChatGPT for Teachers 带到更多美国学区 / Bringing ChatGPT for Teachers to more U.S. school districts",
+          "title_zh": "将 ChatGPT for Teachers 带到更多美国学区",
           "title_en": "Bringing ChatGPT for Teachers to more U.S. school districts",
           "title_original": "Bringing ChatGPT for Teachers to more U.S. school districts",
           "summary": null,
@@ -451,8 +452,8 @@
       "items": [
         {
           "id": "588215148c3b72c0715d264ed0cc70f6b4fdc9e9",
-          "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-          "title_zh": null,
+          "title": "将 ChatGPT for Teachers 带到更多美国学区 / Bringing ChatGPT for Teachers to more U.S. school districts",
+          "title_zh": "将 ChatGPT for Teachers 带到更多美国学区",
           "title_en": "Bringing ChatGPT for Teachers to more U.S. school districts",
           "title_original": "Bringing ChatGPT for Teachers to more U.S. school districts",
           "summary": null,
@@ -466,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7094,
+        "recency": 0.7092,
         "story_heat": 0.0
       },
       "category": "official",
@@ -487,8 +488,8 @@
       "latest_at": "2026-08-26T10:00:00Z",
       "primary_item": {
         "id": "588215148c3b72c0715d264ed0cc70f6b4fdc9e9",
-        "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-        "title_zh": null,
+        "title": "将 ChatGPT for Teachers 带到更多美国学区 / Bringing ChatGPT for Teachers to more U.S. school districts",
+        "title_zh": "将 ChatGPT for Teachers 带到更多美国学区",
         "title_en": "Bringing ChatGPT for Teachers to more U.S. school districts",
         "title_original": "Bringing ChatGPT for Teachers to more U.S. school districts",
         "summary": null,
@@ -501,7 +502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:47:23.720857Z"
+        "scored_at": "2026-08-27T09:48:36.546839Z"
       }
     },
     {
@@ -542,8 +543,8 @@
         },
         {
           "id": "28827361f20d91352021d756755dba29a3b2772b",
-          "title": "以色列资助的假美国智库试图利用AI进行宣传 / Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-          "title_zh": "以色列资助的假美国智库试图利用AI进行宣传",
+          "title": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传 / Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+          "title_zh": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
           "title_en": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
           "title_original": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
           "summary": null,
@@ -592,8 +593,8 @@
         },
         {
           "id": "28827361f20d91352021d756755dba29a3b2772b",
-          "title": "以色列资助的假美国智库试图利用AI进行宣传 / Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-          "title_zh": "以色列资助的假美国智库试图利用AI进行宣传",
+          "title": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传 / Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+          "title_zh": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
           "title_en": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
           "title_original": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
           "summary": null,
@@ -607,15 +608,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8031,
-      "importance": 0.8031,
-      "importance_score": 0.8031,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7526,
+        "recency": 0.7523,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -642,7 +643,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:47:23.720857Z"
+        "scored_at": "2026-08-27T09:48:36.546839Z"
       }
     },
     {
@@ -690,15 +691,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8162,
-      "importance": 0.8162,
-      "importance_score": 0.8162,
+      "score": 0.8161,
+      "importance": 0.8161,
+      "importance_score": 0.8161,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8454,
+        "recency": 0.8451,
         "story_heat": 0.0
       },
       "category": "official",
@@ -725,7 +726,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:47:23.720857Z"
+        "scored_at": "2026-08-27T09:48:36.546839Z"
       }
     },
     {
@@ -810,7 +811,7 @@
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8657,
+        "recency": 0.8654,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -837,12 +838,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:47:23.720857Z"
+        "scored_at": "2026-08-27T09:48:36.546839Z"
       }
     },
     {
       "story_id": "story_716a4067630f",
-      "title": "Learning never stops: How AI makes learning continuous",
+      "title": "学习永不停歇：人工智能如何让学习持续进行 / Learning never stops: How AI makes learning continuous",
       "url": "https://openai.com/index/learning-never-stops",
       "primary_url": "https://openai.com/index/learning-never-stops",
       "source": "OpenAI News",
@@ -850,8 +851,8 @@
       "sources": [
         {
           "id": "b0d741202592d07d3ecf5eb0cfc756b9803bf7d9",
-          "title": "Learning never stops: How AI makes learning continuous",
-          "title_zh": null,
+          "title": "学习永不停歇：人工智能如何让学习持续进行 / Learning never stops: How AI makes learning continuous",
+          "title_zh": "学习永不停歇：人工智能如何让学习持续进行",
           "title_en": "Learning never stops: How AI makes learning continuous",
           "title_original": "Learning never stops: How AI makes learning continuous",
           "summary": null,
@@ -870,8 +871,8 @@
       "items": [
         {
           "id": "b0d741202592d07d3ecf5eb0cfc756b9803bf7d9",
-          "title": "Learning never stops: How AI makes learning continuous",
-          "title_zh": null,
+          "title": "学习永不停歇：人工智能如何让学习持续进行 / Learning never stops: How AI makes learning continuous",
+          "title_zh": "学习永不停歇：人工智能如何让学习持续进行",
           "title_en": "Learning never stops: How AI makes learning continuous",
           "title_original": "Learning never stops: How AI makes learning continuous",
           "summary": null,
@@ -885,15 +886,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7094,
+        "recency": 0.7092,
         "story_heat": 0.0
       },
       "category": "official",
@@ -906,8 +907,8 @@
       "latest_at": "2026-08-26T10:00:00Z",
       "primary_item": {
         "id": "b0d741202592d07d3ecf5eb0cfc756b9803bf7d9",
-        "title": "Learning never stops: How AI makes learning continuous",
-        "title_zh": null,
+        "title": "学习永不停歇：人工智能如何让学习持续进行 / Learning never stops: How AI makes learning continuous",
+        "title_zh": "学习永不停歇：人工智能如何让学习持续进行",
         "title_en": "Learning never stops: How AI makes learning continuous",
         "title_original": "Learning never stops: How AI makes learning continuous",
         "summary": null,
@@ -920,7 +921,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:47:23.720857Z"
+        "scored_at": "2026-08-27T09:48:36.546839Z"
       }
     },
     {
@@ -968,15 +969,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9996,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1002,7 +1003,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:47:23.720857Z"
+        "scored_at": "2026-08-27T09:48:36.546839Z"
       }
     },
     {
@@ -1058,7 +1059,7 @@
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9902,
+        "recency": 0.9899,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1084,7 +1085,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:47:23.720857Z"
+        "scored_at": "2026-08-27T09:48:36.546839Z"
       }
     },
     {
@@ -1140,7 +1141,7 @@
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7686,
+        "recency": 0.7683,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1166,7 +1167,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:47:23.720857Z"
+        "scored_at": "2026-08-27T09:48:36.546839Z"
       }
     },
     {
@@ -1214,15 +1215,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8216,
+        "recency": 0.8214,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1248,7 +1249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:47:23.720857Z"
+        "scored_at": "2026-08-27T09:48:36.546839Z"
       }
     },
     {
@@ -1296,15 +1297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
+      "score": 0.7562,
+      "importance": 0.7562,
+      "importance_score": 0.7562,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7537,
+        "recency": 0.7534,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1330,7 +1331,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:47:23.720857Z"
+        "scored_at": "2026-08-27T09:48:36.546839Z"
       }
     },
     {
@@ -1386,7 +1387,7 @@
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.943,
+        "recency": 0.9427,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1412,7 +1413,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:47:23.720857Z"
+        "scored_at": "2026-08-27T09:48:36.546839Z"
       }
     },
     {
@@ -1460,15 +1461,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9996,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1494,12 +1495,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:47:23.720857Z"
+        "scored_at": "2026-08-27T09:48:36.546839Z"
       }
     },
     {
       "story_id": "story_f59066749bc2",
-      "title": "GitHub Apps can now access enterprise billing data",
+      "title": "GitHub Apps 现在可以访问企业计费数据 / GitHub Apps can now access enterprise billing data",
       "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
       "primary_url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
       "source": "GitHub Changelog",
@@ -1507,8 +1508,8 @@
       "sources": [
         {
           "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
-          "title": "GitHub Apps can now access enterprise billing data",
-          "title_zh": null,
+          "title": "GitHub Apps 现在可以访问企业计费数据 / GitHub Apps can now access enterprise billing data",
+          "title_zh": "GitHub Apps 现在可以访问企业计费数据",
           "title_en": "GitHub Apps can now access enterprise billing data",
           "title_original": "GitHub Apps can now access enterprise billing data",
           "summary": null,
@@ -1527,8 +1528,8 @@
       "items": [
         {
           "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
-          "title": "GitHub Apps can now access enterprise billing data",
-          "title_zh": null,
+          "title": "GitHub Apps 现在可以访问企业计费数据 / GitHub Apps can now access enterprise billing data",
+          "title_zh": "GitHub Apps 现在可以访问企业计费数据",
           "title_en": "GitHub Apps can now access enterprise billing data",
           "title_original": "GitHub Apps can now access enterprise billing data",
           "summary": null,
@@ -1550,7 +1551,7 @@
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7335,
+        "recency": 0.7333,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1563,8 +1564,8 @@
       "latest_at": "2026-08-26T12:18:59Z",
       "primary_item": {
         "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
-        "title": "GitHub Apps can now access enterprise billing data",
-        "title_zh": null,
+        "title": "GitHub Apps 现在可以访问企业计费数据 / GitHub Apps can now access enterprise billing data",
+        "title_zh": "GitHub Apps 现在可以访问企业计费数据",
         "title_en": "GitHub Apps can now access enterprise billing data",
         "title_original": "GitHub Apps can now access enterprise billing data",
         "summary": null,
@@ -1577,7 +1578,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:47:23.720857Z"
+        "scored_at": "2026-08-27T09:48:36.546839Z"
       }
     },
     {
@@ -1633,7 +1634,7 @@
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7968,
+        "recency": 0.7965,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1658,7 +1659,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:47:23.720857Z"
+        "scored_at": "2026-08-27T09:48:36.546839Z"
       }
     },
     {
@@ -1706,15 +1707,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7289,
-      "importance": 0.7289,
-      "importance_score": 0.7289,
+      "score": 0.7288,
+      "importance": 0.7288,
+      "importance_score": 0.7288,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7516,
+        "recency": 0.7513,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1739,7 +1740,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:47:23.720857Z"
+        "scored_at": "2026-08-27T09:48:36.546839Z"
       }
     },
     {
@@ -1787,15 +1788,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8726,
+        "recency": 0.8723,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1821,7 +1822,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:47:23.720857Z"
+        "scored_at": "2026-08-27T09:48:36.546839Z"
       }
     }
   ]
