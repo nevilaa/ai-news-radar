@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1",
-  "fetched_at": "2026-08-27T20:31:18Z",
+  "fetched_at": "2026-08-28T05:24:00Z",
   "refresh_interval_minutes": 60,
   "source": {
     "name": "Artificial Analysis",
@@ -14,7 +14,7 @@
       "version": "4.1.1",
       "description": "综合知识、推理、数学、编程与真实任务评测的模型能力指数",
       "selected_model_count": 29,
-      "catalog_model_count": 623,
+      "catalog_model_count": 624,
       "models": [
         {
           "rank": 1,
@@ -527,7 +527,7 @@
       "version": null,
       "description": "衡量模型完成真实代理任务与多步骤工作的能力",
       "selected_model_count": 28,
-      "catalog_model_count": 494,
+      "catalog_model_count": 495,
       "models": [
         {
           "rank": 1,
