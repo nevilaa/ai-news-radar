@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1",
-  "fetched_at": "2026-08-28T05:24:00Z",
+  "fetched_at": "2026-08-28T19:02:26Z",
   "refresh_interval_minutes": 60,
   "source": {
     "name": "Artificial Analysis",
@@ -115,7 +115,7 @@
           "url": "https://artificialanalysis.ai/models/glm-5-3",
           "release_date": "2026-08-18",
           "is_reasoning": true,
-          "is_open_weights": false,
+          "is_open_weights": true,
           "is_estimated": false,
           "provider": {
             "name": "Z AI",
@@ -556,7 +556,7 @@
           "url": "https://artificialanalysis.ai/models/glm-5-3",
           "release_date": "2026-08-18",
           "is_reasoning": true,
-          "is_open_weights": false,
+          "is_open_weights": true,
           "is_estimated": false,
           "provider": {
             "name": "Z AI",
