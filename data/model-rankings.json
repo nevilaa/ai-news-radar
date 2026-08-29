@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1",
-  "fetched_at": "2026-08-28T19:02:26Z",
+  "fetched_at": "2026-08-29T02:35:34Z",
   "refresh_interval_minutes": 60,
   "source": {
     "name": "Artificial Analysis",
@@ -414,7 +414,7 @@
         },
         {
           "rank": 23,
-          "name": "K-EXAONE 2.0 0803",
+          "name": "K-EXAONE 2.0",
           "short_name": "K-EXAONE 2.0",
           "score": 30.98,
           "slug": "k-exaone-2-0-0803",
@@ -927,7 +927,7 @@
         },
         {
           "rank": 23,
-          "name": "K-EXAONE 2.0 0803",
+          "name": "K-EXAONE 2.0",
           "short_name": "K-EXAONE 2.0",
           "score": 19.72,
           "slug": "k-exaone-2-0-0803",
