@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1",
-  "fetched_at": "2026-09-01T15:17:20Z",
+  "fetched_at": "2026-09-01T19:03:41Z",
   "refresh_interval_minutes": 60,
   "source": {
     "name": "Artificial Analysis",
@@ -13,11 +13,29 @@
       "title": "Artificial Analysis Intelligence Index",
       "version": "4.1.1",
       "description": "综合知识、推理、数学、编程与真实任务评测的模型能力指数",
-      "selected_model_count": 29,
-      "catalog_model_count": 626,
+      "selected_model_count": 30,
+      "catalog_model_count": 631,
       "models": [
         {
           "rank": 1,
+          "name": "Claude Fable 5.1 (Adaptive Reasoning, Max Effort, Default Fallback)",
+          "short_name": "Claude Fable 5.1 (max with fallback)",
+          "score": 65.65,
+          "slug": "claude-fable-5-1",
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-1",
+          "release_date": "2026-09-01",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false,
+          "provider": {
+            "name": "Anthropic",
+            "slug": "anthropic",
+            "color": "#cc785c",
+            "logo_url": "https://artificialanalysis.ai/img/logos/anthropic_small.svg"
+          }
+        },
+        {
+          "rank": 2,
           "name": "Claude Opus 5 (Adaptive Reasoning, Max Effort)",
           "short_name": "Claude Opus 5 (max)",
           "score": 63.05,
@@ -35,7 +53,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "Claude Fable 5 (Adaptive Reasoning, Max Effort, Opus 4.8 Fallback)",
           "short_name": "Claude Fable 5 (with fallback)",
           "score": 62.07,
@@ -53,7 +71,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "GPT-5.6 Sol (max)",
           "short_name": "GPT-5.6 Sol (max)",
           "score": 60.93,
@@ -71,7 +89,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Grok 4.6 (high)",
           "short_name": "Grok 4.6 (high)",
           "score": 60.92,
@@ -89,7 +107,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Kimi K3 (max)",
           "short_name": "Kimi K3 (max)",
           "score": 59.7,
@@ -107,7 +125,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "GLM-5.3 (max)",
           "short_name": "GLM-5.3 (max)",
           "score": 59.51,
@@ -125,7 +143,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Qwen3.8 2.4T A95B",
           "short_name": "Qwen3.8 2.4T A95B",
           "score": 57.7,
@@ -143,7 +161,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "GLM-5.3-Flash",
           "short_name": "GLM-5.3-Flash",
           "score": 57.46,
@@ -161,7 +179,7 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Muse Spark 1.2 (xhigh)",
           "short_name": "Muse Spark 1.2 (xhigh)",
           "score": 56.76,
@@ -179,7 +197,7 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "GPT-5.6 Terra (max)",
           "short_name": "GPT-5.6 Terra (max)",
           "score": 56.58,
@@ -197,7 +215,7 @@
           }
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Gemini 3.7 Flash (high)",
           "short_name": "Gemini 3.7 Flash (high)",
           "score": 56.03,
@@ -215,7 +233,7 @@
           }
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "DeepSeek V4 Pro 0813 (Reasoning, Max Effort)",
           "short_name": "DeepSeek V4 Pro 0813 (max)",
           "score": 53.2,
@@ -233,7 +251,7 @@
           }
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "GPT-5.6 Luna (max)",
           "short_name": "GPT-5.6 Luna (max)",
           "score": 52.32,
@@ -251,7 +269,7 @@
           }
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Qwen3.8 27B (xhigh)",
           "short_name": "Qwen3.8 27B (xhigh)",
           "score": 52.02,
@@ -269,7 +287,7 @@
           }
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Motif 3",
           "short_name": "Motif 3",
           "score": 47.36,
@@ -287,7 +305,7 @@
           }
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "MiniMax-M3",
           "short_name": "MiniMax-M3",
           "score": 45.4,
@@ -305,7 +323,7 @@
           }
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Inkling (xhigh)",
           "short_name": "Inkling",
           "score": 42.29,
@@ -323,7 +341,7 @@
           }
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Nemotron 3 Ultra 550B A55B (Reasoning)",
           "short_name": "Nemotron 3 Ultra",
           "score": 38.32,
@@ -341,7 +359,7 @@
           }
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Gemini 3.5 Flash-Lite",
           "short_name": "Gemini 3.5 Flash-Lite",
           "score": 37.44,
@@ -359,7 +377,7 @@
           }
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Solar Open2 250B",
           "short_name": "Solar Open2 250B",
           "score": 37.43,
@@ -377,7 +395,7 @@
           }
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Muse Glimmer (high)",
           "short_name": "Muse Glimmer (high)",
           "score": 35.06,
@@ -395,7 +413,7 @@
           }
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "A.X-K2",
           "short_name": "A.X-K2",
           "score": 35.01,
@@ -413,7 +431,7 @@
           }
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "K-EXAONE 2.0",
           "short_name": "K-EXAONE 2.0",
           "score": 30.98,
@@ -431,7 +449,7 @@
           }
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Mistral Medium 3.5",
           "short_name": "Mistral Medium 3.5",
           "score": 30.39,
@@ -449,7 +467,7 @@
           }
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Claude 4.5 Haiku (Reasoning)",
           "short_name": "Claude 4.5 Haiku",
           "score": 29.89,
@@ -467,7 +485,7 @@
           }
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "gpt-oss-120b (high)",
           "short_name": "gpt-oss-120b (high)",
           "score": 24.13,
@@ -485,7 +503,7 @@
           }
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Nemotron 3.5 Lightning",
           "short_name": "Nemotron 3.5 Lightning",
           "score": 23.61,
@@ -503,7 +521,7 @@
           }
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Command A+",
           "short_name": "Command A+",
           "score": 22.77,
@@ -526,11 +544,29 @@
       "title": "Agentic Index",
       "version": null,
       "description": "衡量模型完成真实代理任务与多步骤工作的能力",
-      "selected_model_count": 28,
-      "catalog_model_count": 497,
+      "selected_model_count": 29,
+      "catalog_model_count": 502,
       "models": [
         {
           "rank": 1,
+          "name": "Claude Fable 5.1 (Adaptive Reasoning, Max Effort, Default Fallback)",
+          "short_name": "Claude Fable 5.1 (max with fallback)",
+          "score": 61.34,
+          "slug": "claude-fable-5-1",
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-1",
+          "release_date": "2026-09-01",
+          "is_reasoning": true,
+          "is_open_weights": false,
+          "is_estimated": false,
+          "provider": {
+            "name": "Anthropic",
+            "slug": "anthropic",
+            "color": "#cc785c",
+            "logo_url": "https://artificialanalysis.ai/img/logos/anthropic_small.svg"
+          }
+        },
+        {
+          "rank": 2,
           "name": "Claude Opus 5 (Adaptive Reasoning, Max Effort)",
           "short_name": "Claude Opus 5 (max)",
           "score": 59.17,
@@ -548,7 +584,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "GLM-5.3 (max)",
           "short_name": "GLM-5.3 (max)",
           "score": 59.1,
@@ -566,7 +602,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Grok 4.6 (high)",
           "short_name": "Grok 4.6 (high)",
           "score": 58.68,
@@ -584,7 +620,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "GLM-5.3-Flash",
           "short_name": "GLM-5.3-Flash",
           "score": 58.16,
@@ -602,7 +638,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "GPT-5.6 Sol (max)",
           "short_name": "GPT-5.6 Sol (max)",
           "score": 57.78,
@@ -620,7 +656,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Qwen3.8 2.4T A95B",
           "short_name": "Qwen3.8 2.4T A95B",
           "score": 57.1,
@@ -638,7 +674,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Claude Fable 5 (Adaptive Reasoning, Max Effort, Opus 4.8 Fallback)",
           "short_name": "Claude Fable 5 (with fallback)",
           "score": 56.59,
@@ -656,7 +692,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Kimi K3 (max)",
           "short_name": "Kimi K3 (max)",
           "score": 54.26,
@@ -674,7 +710,7 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Qwen3.8 27B (xhigh)",
           "short_name": "Qwen3.8 27B (xhigh)",
           "score": 50.88,
@@ -692,7 +728,7 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "GPT-5.6 Terra (max)",
           "short_name": "GPT-5.6 Terra (max)",
           "score": 50.2,
@@ -710,7 +746,7 @@
           }
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "DeepSeek V4 Pro 0813 (Reasoning, Max Effort)",
           "short_name": "DeepSeek V4 Pro 0813 (max)",
           "score": 49.56,
@@ -728,7 +764,7 @@
           }
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Muse Spark 1.2 (xhigh)",
           "short_name": "Muse Spark 1.2 (xhigh)",
           "score": 49.31,
@@ -746,7 +782,7 @@
           }
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "GPT-5.6 Luna (max)",
           "short_name": "GPT-5.6 Luna (max)",
           "score": 46.9,
@@ -764,7 +800,7 @@
           }
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Gemini 3.7 Flash (high)",
           "short_name": "Gemini 3.7 Flash (high)",
           "score": 45.1,
@@ -782,7 +818,7 @@
           }
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Motif 3",
           "short_name": "Motif 3",
           "score": 37.56,
@@ -800,7 +836,7 @@
           }
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "MiniMax-M3",
           "short_name": "MiniMax-M3",
           "score": 36.12,
@@ -818,7 +854,7 @@
           }
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Inkling (xhigh)",
           "short_name": "Inkling",
           "score": 34.13,
@@ -836,7 +872,7 @@
           }
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Solar Open2 250B",
           "short_name": "Solar Open2 250B",
           "score": 27.81,
@@ -854,7 +890,7 @@
           }
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Nemotron 3 Ultra 550B A55B (Reasoning)",
           "short_name": "Nemotron 3 Ultra",
           "score": 27.5,
@@ -872,7 +908,7 @@
           }
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Gemini 3.5 Flash-Lite",
           "short_name": "Gemini 3.5 Flash-Lite",
           "score": 27.16,
@@ -890,7 +926,7 @@
           }
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "A.X-K2",
           "short_name": "A.X-K2",
           "score": 25.69,
@@ -908,7 +944,7 @@
           }
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Muse Glimmer (high)",
           "short_name": "Muse Glimmer (high)",
           "score": 22.94,
@@ -926,7 +962,7 @@
           }
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "K-EXAONE 2.0",
           "short_name": "K-EXAONE 2.0",
           "score": 19.72,
@@ -944,7 +980,7 @@
           }
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Mistral Medium 3.5",
           "short_name": "Mistral Medium 3.5",
           "score": 19.21,
@@ -962,7 +998,7 @@
           }
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Claude 4.5 Haiku (Reasoning)",
           "short_name": "Claude 4.5 Haiku",
           "score": 16.47,
@@ -980,7 +1016,7 @@
           }
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Nemotron 3.5 Lightning",
           "short_name": "Nemotron 3.5 Lightning",
           "score": 13.76,
@@ -998,7 +1034,7 @@
           }
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "gpt-oss-120b (high)",
           "short_name": "gpt-oss-120b (high)",
           "score": 13.43,
@@ -1016,7 +1052,7 @@
           }
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Command A+",
           "short_name": "Command A+",
           "score": 9.23,
