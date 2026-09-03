@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1",
-  "fetched_at": "2026-09-03T14:34:41Z",
+  "fetched_at": "2026-09-03T19:05:39Z",
   "refresh_interval_minutes": 60,
   "source": {
     "name": "Artificial Analysis",
@@ -306,6 +306,24 @@
         },
         {
           "rank": 17,
+          "name": "K2 Horizon 375B A23B",
+          "short_name": "K2 Horizon 375B A23B",
+          "score": 47.28,
+          "slug": "k2-horizon-375b-a23b",
+          "url": "https://artificialanalysis.ai/models/k2-horizon-375b-a23b",
+          "release_date": "2026-09-03",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "MBZUAI Institute of Foundation Models",
+            "slug": "mbzuai",
+            "color": "#1521a9",
+            "logo_url": "https://artificialanalysis.ai/img/logos/mbzuai_small.svg"
+          }
+        },
+        {
+          "rank": 18,
           "name": "MiniMax-M3",
           "short_name": "MiniMax-M3",
           "score": 45.4,
@@ -323,7 +341,7 @@
           }
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Inkling (xhigh)",
           "short_name": "Inkling",
           "score": 42.29,
@@ -341,7 +359,7 @@
           }
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Nemotron 3 Ultra 550B A55B (Reasoning)",
           "short_name": "Nemotron 3 Ultra",
           "score": 38.32,
@@ -359,7 +377,7 @@
           }
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Gemini 3.5 Flash-Lite",
           "short_name": "Gemini 3.5 Flash-Lite",
           "score": 37.44,
@@ -377,7 +395,7 @@
           }
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Muse Glimmer (high)",
           "short_name": "Muse Glimmer (high)",
           "score": 35.06,
@@ -395,7 +413,7 @@
           }
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Mistral Medium 3.5",
           "short_name": "Mistral Medium 3.5",
           "score": 30.39,
@@ -413,7 +431,7 @@
           }
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Claude 4.5 Haiku (Reasoning)",
           "short_name": "Claude 4.5 Haiku",
           "score": 29.89,
@@ -431,7 +449,7 @@
           }
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "gpt-oss-120b (high)",
           "short_name": "gpt-oss-120b (high)",
           "score": 24.13,
@@ -446,24 +464,6 @@
             "slug": "openai",
             "color": "#1f1f1f",
             "logo_url": "https://artificialanalysis.ai/img/logos/openai_small.svg"
-          }
-        },
-        {
-          "rank": 25,
-          "name": "Nemotron 3.5 Lightning",
-          "short_name": "Nemotron 3.5 Lightning",
-          "score": 23.61,
-          "slug": "nemotron-3-5-lightning",
-          "url": "https://artificialanalysis.ai/models/nemotron-3-5-lightning",
-          "release_date": "2026-08-11",
-          "is_reasoning": true,
-          "is_open_weights": true,
-          "is_estimated": false,
-          "provider": {
-            "name": "NVIDIA",
-            "slug": "nvidia",
-            "color": "#76b900",
-            "logo_url": "https://artificialanalysis.ai/img/logos/nvidia_small.svg"
           }
         },
         {
@@ -783,6 +783,24 @@
         },
         {
           "rank": 17,
+          "name": "K2 Horizon 375B A23B",
+          "short_name": "K2 Horizon 375B A23B",
+          "score": 42.78,
+          "slug": "k2-horizon-375b-a23b",
+          "url": "https://artificialanalysis.ai/models/k2-horizon-375b-a23b",
+          "release_date": "2026-09-03",
+          "is_reasoning": true,
+          "is_open_weights": true,
+          "is_estimated": false,
+          "provider": {
+            "name": "MBZUAI Institute of Foundation Models",
+            "slug": "mbzuai",
+            "color": "#1521a9",
+            "logo_url": "https://artificialanalysis.ai/img/logos/mbzuai_small.svg"
+          }
+        },
+        {
+          "rank": 18,
           "name": "MiniMax-M3",
           "short_name": "MiniMax-M3",
           "score": 36.12,
@@ -800,7 +818,7 @@
           }
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Inkling (xhigh)",
           "short_name": "Inkling",
           "score": 34.13,
@@ -818,7 +836,7 @@
           }
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Nemotron 3 Ultra 550B A55B (Reasoning)",
           "short_name": "Nemotron 3 Ultra",
           "score": 27.5,
@@ -836,7 +854,7 @@
           }
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Gemini 3.5 Flash-Lite",
           "short_name": "Gemini 3.5 Flash-Lite",
           "score": 27.16,
@@ -854,7 +872,7 @@
           }
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Muse Glimmer (high)",
           "short_name": "Muse Glimmer (high)",
           "score": 22.94,
@@ -872,7 +890,7 @@
           }
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Mistral Medium 3.5",
           "short_name": "Mistral Medium 3.5",
           "score": 19.21,
@@ -890,7 +908,7 @@
           }
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Claude 4.5 Haiku (Reasoning)",
           "short_name": "Claude 4.5 Haiku",
           "score": 16.47,
@@ -905,24 +923,6 @@
             "slug": "anthropic",
             "color": "#cc785c",
             "logo_url": "https://artificialanalysis.ai/img/logos/anthropic_small.svg"
-          }
-        },
-        {
-          "rank": 24,
-          "name": "Nemotron 3.5 Lightning",
-          "short_name": "Nemotron 3.5 Lightning",
-          "score": 13.76,
-          "slug": "nemotron-3-5-lightning",
-          "url": "https://artificialanalysis.ai/models/nemotron-3-5-lightning",
-          "release_date": "2026-08-11",
-          "is_reasoning": true,
-          "is_open_weights": true,
-          "is_estimated": false,
-          "provider": {
-            "name": "NVIDIA",
-            "slug": "nvidia",
-            "color": "#76b900",
-            "logo_url": "https://artificialanalysis.ai/img/logos/nvidia_small.svg"
           }
         },
         {
