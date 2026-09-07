@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T20:33:52.063745Z",
+  "generated_at": "2026-09-07T22:49:57.582568Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7431,
+        "recency": 0.7191,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:00:14.016881Z"
+        "scored_at": "2026-09-07T23:15:49.029019Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7736,
-      "importance": 0.7736,
-      "importance_score": 0.7736,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9666,
+        "recency": 0.9354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:00:14.016881Z"
+        "scored_at": "2026-09-07T23:15:49.029019Z"
       }
     },
     {
@@ -270,15 +270,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7445,
+        "recency": 0.7205,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -305,7 +305,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:00:14.016881Z"
+        "scored_at": "2026-09-07T23:15:49.029019Z"
       }
     },
     {
@@ -353,15 +353,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8624,
+        "recency": 0.8346,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -386,7 +386,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:00:14.016881Z"
+        "scored_at": "2026-09-07T23:15:49.029019Z"
       }
     },
     {
@@ -434,15 +434,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7282,
-      "importance": 0.7282,
-      "importance_score": 0.7282,
+      "score": 0.7236,
+      "importance": 0.7236,
+      "importance_score": 0.7236,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.781,
+        "recency": 0.7558,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -467,7 +467,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:00:14.016881Z"
+        "scored_at": "2026-09-07T23:15:49.029019Z"
       }
     },
     {
@@ -515,15 +515,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8624,
+        "recency": 0.8346,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -548,7 +548,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:00:14.016881Z"
+        "scored_at": "2026-09-07T23:15:49.029019Z"
       }
     },
     {
@@ -596,15 +596,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8624,
+        "recency": 0.8346,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -629,7 +629,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:00:14.016881Z"
+        "scored_at": "2026-09-07T23:15:49.029019Z"
       }
     },
     {
@@ -677,15 +677,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8624,
+        "recency": 0.8346,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -710,7 +710,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:00:14.016881Z"
+        "scored_at": "2026-09-07T23:15:49.029019Z"
       }
     },
     {
@@ -758,15 +758,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8624,
+        "recency": 0.8346,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -791,7 +791,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:00:14.016881Z"
+        "scored_at": "2026-09-07T23:15:49.029019Z"
       }
     },
     {
@@ -839,15 +839,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8624,
+        "recency": 0.8346,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -872,7 +872,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:00:14.016881Z"
+        "scored_at": "2026-09-07T23:15:49.029019Z"
       }
     },
     {
@@ -920,15 +920,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8624,
+        "recency": 0.8346,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -953,7 +953,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:00:14.016881Z"
+        "scored_at": "2026-09-07T23:15:49.029019Z"
       }
     },
     {
@@ -1030,15 +1030,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5417,
-      "importance": 0.5417,
-      "importance_score": 0.5417,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9774,
+        "recency": 0.9459,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1063,7 +1063,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:00:14.016881Z"
+        "scored_at": "2026-09-07T23:15:49.029019Z"
       }
     },
     {
@@ -1140,15 +1140,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9592,
+        "recency": 0.9283,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1173,7 +1173,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:00:14.016881Z"
+        "scored_at": "2026-09-07T23:15:49.029019Z"
       }
     },
     {
@@ -1221,15 +1221,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8624,
+        "recency": 0.8346,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1254,7 +1254,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:00:14.016881Z"
+        "scored_at": "2026-09-07T23:15:49.029019Z"
       }
     },
     {
@@ -1262,11 +1262,11 @@
       "title": "Initial effects of AI technology on employment look positive",
       "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
       "primary_url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "a5e29fda6ff4c3f19a45c7cb450b4ac8ce2bd521",
+          "id": "d8549658f0d39ce72a79065fe3e86fe27f62679f",
           "title": "Initial effects of AI technology on employment look positive",
           "title_zh": null,
           "title_en": "Initial effects of AI technology on employment look positive",
@@ -1274,9 +1274,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-07T10:38:32Z"
         },
         {
@@ -1297,11 +1297,11 @@
       "source_count": 2,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "a5e29fda6ff4c3f19a45c7cb450b4ac8ce2bd521",
+          "id": "d8549658f0d39ce72a79065fe3e86fe27f62679f",
           "title": "Initial effects of AI technology on employment look positive",
           "title_zh": null,
           "title_en": "Initial effects of AI technology on employment look positive",
@@ -1309,9 +1309,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-07T10:38:32Z"
         },
         {
@@ -1331,15 +1331,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5218,
-      "importance": 0.5218,
-      "importance_score": 0.5218,
+      "score": 0.5167,
+      "importance": 0.5167,
+      "importance_score": 0.5167,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8665,
+        "recency": 0.8386,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1349,7 +1349,7 @@
       "earliest_at": "2026-09-07T10:38:32Z",
       "latest_at": "2026-09-07T10:38:32Z",
       "primary_item": {
-        "id": "a5e29fda6ff4c3f19a45c7cb450b4ac8ce2bd521",
+        "id": "d8549658f0d39ce72a79065fe3e86fe27f62679f",
         "title": "Initial effects of AI technology on employment look positive",
         "title_zh": null,
         "title_en": "Initial effects of AI technology on employment look positive",
@@ -1357,14 +1357,14 @@
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:00:14.016881Z"
+        "scored_at": "2026-09-07T23:15:49.029019Z"
       }
     },
     {
@@ -1441,15 +1441,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5201,
-      "importance": 0.5201,
-      "importance_score": 0.5201,
+      "score": 0.5151,
+      "importance": 0.5151,
+      "importance_score": 0.5151,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8571,
+        "recency": 0.8295,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1474,7 +1474,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:00:14.016881Z"
+        "scored_at": "2026-09-07T23:15:49.029019Z"
       }
     },
     {
@@ -1522,15 +1522,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8624,
+        "recency": 0.8346,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1555,7 +1555,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:00:14.016881Z"
+        "scored_at": "2026-09-07T23:15:49.029019Z"
       }
     },
     {
@@ -1632,15 +1632,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5089,
-      "importance": 0.5089,
-      "importance_score": 0.5089,
+      "score": 0.5043,
+      "importance": 0.5043,
+      "importance_score": 0.5043,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7951,
+        "recency": 0.7695,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1665,7 +1665,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:00:14.016881Z"
+        "scored_at": "2026-09-07T23:15:49.029019Z"
       }
     },
     {
@@ -1713,15 +1713,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8624,
+        "recency": 0.8346,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1746,7 +1746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:00:14.016881Z"
+        "scored_at": "2026-09-07T23:15:49.029019Z"
       }
     },
     {
@@ -1794,15 +1794,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8624,
+        "recency": 0.8346,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1827,7 +1827,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T21:00:14.016881Z"
+        "scored_at": "2026-09-07T23:15:49.029019Z"
       }
     }
   ]
