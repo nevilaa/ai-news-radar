@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T16:27:43.853330Z",
+  "generated_at": "2026-09-07T19:57:10.555297Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.8069,
+      "importance": 0.8069,
+      "importance_score": 0.8069,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7884,
+        "recency": 0.7497,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T16:54:22.554355Z"
+        "scored_at": "2026-09-07T20:24:11.742269Z"
+      }
+    },
+    {
+      "story_id": "story_d83ab5c62da4",
+      "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力 / Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+      "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
+      "primary_url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "95c41e8a2290a22e2e6aa56dbf94af123d8c0335",
+          "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力 / Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+          "title_zh": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
+          "title_en": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+          "title_original": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+          "summary": "据 The Information 报道，Anthropic 在十一个月内签署了价值高达 5170 亿美元的算力合同，自 2025 年 10 月以来锁定至少 14.8 GW 算力，并计划自建数据中心。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-07T18:12:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "95c41e8a2290a22e2e6aa56dbf94af123d8c0335",
+          "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力 / Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+          "title_zh": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
+          "title_en": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+          "title_original": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+          "summary": "据 The Information 报道，Anthropic 在十一个月内签署了价值高达 5170 亿美元的算力合同，自 2025 年 10 月以来锁定至少 14.8 GW 算力，并计划自建数据中心。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-07T18:12:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7751,
+      "importance": 0.7751,
+      "importance_score": 0.7751,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9752,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T18:12:41Z",
+      "latest_at": "2026-09-07T18:12:41Z",
+      "primary_item": {
+        "id": "95c41e8a2290a22e2e6aa56dbf94af123d8c0335",
+        "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力 / Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+        "title_zh": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
+        "title_en": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+        "title_original": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+        "summary": "据 The Information 报道，Anthropic 在十一个月内签署了价值高达 5170 亿美元的算力合同，自 2025 年 10 月以来锁定至少 14.8 GW 算力，并计划自建数据中心。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-07T20:24:11.742269Z"
       }
     },
     {
@@ -188,15 +270,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7698,
+      "importance": 0.7698,
+      "importance_score": 0.7698,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7899,
+        "recency": 0.7511,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -223,7 +305,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T16:54:22.554355Z"
+        "scored_at": "2026-09-07T20:24:11.742269Z"
       }
     },
     {
@@ -271,21 +353,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.87,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T10:18:32.791546Z",
       "latest_at": "2026-09-07T10:18:32.791546Z",
@@ -305,88 +386,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T16:54:22.554355Z"
-      }
-    },
-    {
-      "story_id": "story_f2dfaec2b3ca",
-      "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍 / OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-      "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
-          "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍 / OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-          "title_zh": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-          "title_en": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-          "title_original": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-          "summary": "OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T18:23:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
-          "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍 / OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-          "title_zh": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-          "title_en": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-          "title_original": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-          "summary": "OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T18:23:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.727,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-06T18:23:14Z",
-      "latest_at": "2026-09-06T18:23:14Z",
-      "primary_item": {
-        "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
-        "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍 / OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-        "title_zh": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-        "title_en": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-        "title_original": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-        "summary": "OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T16:54:22.554355Z"
+        "scored_at": "2026-09-07T20:24:11.742269Z"
       }
     },
     {
@@ -434,15 +434,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8287,
+        "recency": 0.7879,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -467,7 +467,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T16:54:22.554355Z"
+        "scored_at": "2026-09-07T20:24:11.742269Z"
       }
     },
     {
@@ -515,21 +515,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.87,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T10:18:32.791546Z",
       "latest_at": "2026-09-07T10:18:32.791546Z",
@@ -549,7 +548,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T16:54:22.554355Z"
+        "scored_at": "2026-09-07T20:24:11.742269Z"
       }
     },
     {
@@ -597,21 +596,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.87,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T10:18:32.791546Z",
       "latest_at": "2026-09-07T10:18:32.791546Z",
@@ -631,7 +629,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T16:54:22.554355Z"
+        "scored_at": "2026-09-07T20:24:11.742269Z"
       }
     },
     {
@@ -679,21 +677,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.87,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T10:18:32.791546Z",
       "latest_at": "2026-09-07T10:18:32.791546Z",
@@ -713,7 +710,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T16:54:22.554355Z"
+        "scored_at": "2026-09-07T20:24:11.742269Z"
       }
     },
     {
@@ -761,21 +758,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.87,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T10:18:32.791546Z",
       "latest_at": "2026-09-07T10:18:32.791546Z",
@@ -795,7 +791,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T16:54:22.554355Z"
+        "scored_at": "2026-09-07T20:24:11.742269Z"
       }
     },
     {
@@ -843,21 +839,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.87,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T10:18:32.791546Z",
       "latest_at": "2026-09-07T10:18:32.791546Z",
@@ -877,7 +872,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T16:54:22.554355Z"
+        "scored_at": "2026-09-07T20:24:11.742269Z"
       }
     },
     {
@@ -925,21 +920,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.87,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T10:18:32.791546Z",
       "latest_at": "2026-09-07T10:18:32.791546Z",
@@ -959,7 +953,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T16:54:22.554355Z"
+        "scored_at": "2026-09-07T20:24:11.742269Z"
+      }
+    },
+    {
+      "story_id": "story_0d185dfe820c",
+      "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
+      "url": "https://news.ycombinator.com/item?id=49600233",
+      "primary_url": "https://news.ycombinator.com/item?id=49600233",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "cb9c787070b7baa0c02b7b923d1b553f350b9b9a",
+          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
+          "title_zh": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
+          "title_en": null,
+          "title_original": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49600233",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T18:58:53.306000Z"
+        },
+        {
+          "id": "4af3554a87533c58236162d04fdb1fc3aeb7f813",
+          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制 / Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+          "title_zh": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
+          "title_en": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+          "title_original": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49600233",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T16:40:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "cb9c787070b7baa0c02b7b923d1b553f350b9b9a",
+          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
+          "title_zh": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
+          "title_en": null,
+          "title_original": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49600233",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T18:58:53.306000Z"
+        },
+        {
+          "id": "4af3554a87533c58236162d04fdb1fc3aeb7f813",
+          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制 / Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+          "title_zh": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
+          "title_en": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+          "title_original": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49600233",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T16:40:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5433,
+      "importance": 0.5433,
+      "importance_score": 0.5433,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9861,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T16:40:32Z",
+      "latest_at": "2026-09-07T18:58:53.306000Z",
+      "primary_item": {
+        "id": "cb9c787070b7baa0c02b7b923d1b553f350b9b9a",
+        "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
+        "title_zh": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
+        "title_en": null,
+        "title_original": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49600233",
+        "source": "news.ycombinator.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-07T20:24:11.742269Z"
+      }
+    },
+    {
+      "story_id": "story_89772b9cda52",
+      "title": "基于AMD GPU的vLLM中的推测性解码",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "primary_url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "source": "vllm.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0896a888caca86c87227f711221bfe4a5d303f25",
+          "title": "基于AMD GPU的vLLM中的推测性解码",
+          "title_zh": "基于AMD GPU的vLLM中的推测性解码",
+          "title_en": null,
+          "title_original": "基于AMD GPU的vLLM中的推测性解码",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "vllm.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T17:40:59.747000Z"
+        },
+        {
+          "id": "9942feece18a40a37cb253f83db06755e1388c43",
+          "title": "基于AMD GPU的vLLM中的推测性解码 / Speculative Decoding in vLLM on AMD GPUs",
+          "title_zh": "基于AMD GPU的vLLM中的推测性解码",
+          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-07T09:26:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "vllm.ai"
+      ],
+      "items": [
+        {
+          "id": "0896a888caca86c87227f711221bfe4a5d303f25",
+          "title": "基于AMD GPU的vLLM中的推测性解码",
+          "title_zh": "基于AMD GPU的vLLM中的推测性解码",
+          "title_en": null,
+          "title_original": "基于AMD GPU的vLLM中的推测性解码",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "vllm.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T17:40:59.747000Z"
+        },
+        {
+          "id": "9942feece18a40a37cb253f83db06755e1388c43",
+          "title": "基于AMD GPU的vLLM中的推测性解码 / Speculative Decoding in vLLM on AMD GPUs",
+          "title_zh": "基于AMD GPU的vLLM中的推测性解码",
+          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-07T09:26:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9678,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T09:26:41Z",
+      "latest_at": "2026-09-07T17:40:59.747000Z",
+      "primary_item": {
+        "id": "0896a888caca86c87227f711221bfe4a5d303f25",
+        "title": "基于AMD GPU的vLLM中的推测性解码",
+        "title_zh": "基于AMD GPU的vLLM中的推测性解码",
+        "title_en": null,
+        "title_original": "基于AMD GPU的vLLM中的推测性解码",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+        "source": "vllm.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-07T20:24:11.742269Z"
       }
     },
     {
@@ -1007,21 +1221,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.87,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T10:18:32.791546Z",
       "latest_at": "2026-09-07T10:18:32.791546Z",
@@ -1041,7 +1254,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T16:54:22.554355Z"
+        "scored_at": "2026-09-07T20:24:11.742269Z"
+      }
+    },
+    {
+      "story_id": "story_8b01a7e80019",
+      "title": "Initial effects of AI technology on employment look positive",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "primary_url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "a5e29fda6ff4c3f19a45c7cb450b4ac8ce2bd521",
+          "title": "Initial effects of AI technology on employment look positive",
+          "title_zh": null,
+          "title_en": "Initial effects of AI technology on employment look positive",
+          "title_original": "Initial effects of AI technology on employment look positive",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-07T10:38:32Z"
+        },
+        {
+          "id": "1deac515e4f630342fcf5d6d2b218a5b1c0cf8d6",
+          "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+          "title_zh": null,
+          "title_en": "The jobs apocalypse is postponed. An AI jobs boom is here",
+          "title_original": "The jobs apocalypse is postponed. An AI jobs boom is here",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T10:38:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "a5e29fda6ff4c3f19a45c7cb450b4ac8ce2bd521",
+          "title": "Initial effects of AI technology on employment look positive",
+          "title_zh": null,
+          "title_en": "Initial effects of AI technology on employment look positive",
+          "title_original": "Initial effects of AI technology on employment look positive",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-07T10:38:32Z"
+        },
+        {
+          "id": "1deac515e4f630342fcf5d6d2b218a5b1c0cf8d6",
+          "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+          "title_zh": null,
+          "title_en": "The jobs apocalypse is postponed. An AI jobs boom is here",
+          "title_original": "The jobs apocalypse is postponed. An AI jobs boom is here",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T10:38:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5232,
+      "importance": 0.5232,
+      "importance_score": 0.5232,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8742,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T10:38:32Z",
+      "latest_at": "2026-09-07T10:38:32Z",
+      "primary_item": {
+        "id": "a5e29fda6ff4c3f19a45c7cb450b4ac8ce2bd521",
+        "title": "Initial effects of AI technology on employment look positive",
+        "title_zh": null,
+        "title_en": "Initial effects of AI technology on employment look positive",
+        "title_original": "Initial effects of AI technology on employment look positive",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-07T20:24:11.742269Z"
       }
     },
     {
@@ -1067,7 +1390,7 @@
           "published_at": "2026-09-07T09:53:12.571000Z"
         },
         {
-          "id": "6cd13b722cfad8423e832c0acd4196761db8f38d",
+          "id": "90bf08e0b6af0ee998f77478da0daa4cd0af0c5e",
           "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
           "title_zh": null,
           "title_en": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
@@ -1075,15 +1398,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/timgordontg/engrim",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-07T04:49:36Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1102,7 +1425,7 @@
           "published_at": "2026-09-07T09:53:12.571000Z"
         },
         {
-          "id": "6cd13b722cfad8423e832c0acd4196761db8f38d",
+          "id": "90bf08e0b6af0ee998f77478da0daa4cd0af0c5e",
           "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
           "title_zh": null,
           "title_en": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
@@ -1110,23 +1433,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/timgordontg/engrim",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-07T04:49:36Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5295,
-      "importance": 0.5295,
-      "importance_score": 0.5295,
+      "score": 0.5214,
+      "importance": 0.5214,
+      "importance_score": 0.5214,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9094,
+        "recency": 0.8647,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1151,7 +1474,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T16:54:22.554355Z"
+        "scored_at": "2026-09-07T20:24:11.742269Z"
       }
     },
     {
@@ -1199,21 +1522,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.87,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T10:18:32.791546Z",
       "latest_at": "2026-09-07T10:18:32.791546Z",
@@ -1233,117 +1555,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T16:54:22.554355Z"
-      }
-    },
-    {
-      "story_id": "story_2e625774c329",
-      "title": "How we monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "primary_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
-          "title": "How we monitor internal coding agents for misalignment",
-          "title_zh": null,
-          "title_en": "How we monitor internal coding agents for misalignment",
-          "title_original": "How we monitor internal coding agents for misalignment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T16:37:55Z"
-        },
-        {
-          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
-          "title": "OpenAI: We monitor internal coding agents for misalignment",
-          "title_zh": null,
-          "title_en": "OpenAI: We monitor internal coding agents for misalignment",
-          "title_original": "OpenAI: We monitor internal coding agents for misalignment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T16:37:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
-          "title": "How we monitor internal coding agents for misalignment",
-          "title_zh": null,
-          "title_en": "How we monitor internal coding agents for misalignment",
-          "title_original": "How we monitor internal coding agents for misalignment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T16:37:55Z"
-        },
-        {
-          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
-          "title": "OpenAI: We monitor internal coding agents for misalignment",
-          "title_zh": null,
-          "title_en": "OpenAI: We monitor internal coding agents for misalignment",
-          "title_original": "OpenAI: We monitor internal coding agents for misalignment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T16:37:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4934,
-      "importance": 0.4934,
-      "importance_score": 0.4934,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7088,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T16:37:55Z",
-      "latest_at": "2026-09-06T16:37:55Z",
-      "primary_item": {
-        "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
-        "title": "How we monitor internal coding agents for misalignment",
-        "title_zh": null,
-        "title_en": "How we monitor internal coding agents for misalignment",
-        "title_original": "How we monitor internal coding agents for misalignment",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T16:54:22.554355Z"
+        "scored_at": "2026-09-07T20:24:11.742269Z"
       }
     },
     {
@@ -1420,15 +1632,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5177,
-      "importance": 0.5177,
-      "importance_score": 0.5177,
+      "score": 0.5102,
+      "importance": 0.5102,
+      "importance_score": 0.5102,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8437,
+        "recency": 0.8022,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1453,7 +1665,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T16:54:22.554355Z"
+        "scored_at": "2026-09-07T20:24:11.742269Z"
       }
     },
     {
@@ -1501,21 +1713,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.87,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T10:18:32.791546Z",
       "latest_at": "2026-09-07T10:18:32.791546Z",
@@ -1535,7 +1746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T16:54:22.554355Z"
+        "scored_at": "2026-09-07T20:24:11.742269Z"
       }
     },
     {
@@ -1583,21 +1794,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.87,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T10:18:32.791546Z",
       "latest_at": "2026-09-07T10:18:32.791546Z",
@@ -1617,199 +1827,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T16:54:22.554355Z"
-      }
-    },
-    {
-      "story_id": "story_4c290d31ae88",
-      "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-      "url": "https://news.ycombinator.com/item?id=49590351",
-      "primary_url": "https://news.ycombinator.com/item?id=49590351",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "981b25471cad3607d245874568e3518e83f40fac",
-          "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-          "title_zh": null,
-          "title_en": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-          "title_original": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49590351",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T21:21:18.103000Z"
-        },
-        {
-          "id": "4f220ec7b59d404b5811927bfb782f55f21ebc9d",
-          "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-          "title_zh": null,
-          "title_en": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-          "title_original": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/mmeyerlein/meclaw",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T20:07:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "981b25471cad3607d245874568e3518e83f40fac",
-          "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-          "title_zh": null,
-          "title_en": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-          "title_original": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49590351",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T21:21:18.103000Z"
-        },
-        {
-          "id": "4f220ec7b59d404b5811927bfb782f55f21ebc9d",
-          "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-          "title_zh": null,
-          "title_en": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-          "title_original": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/mmeyerlein/meclaw",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T20:07:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5024,
-      "importance": 0.5024,
-      "importance_score": 0.5024,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7589,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T20:07:16Z",
-      "latest_at": "2026-09-06T21:21:18.103000Z",
-      "primary_item": {
-        "id": "981b25471cad3607d245874568e3518e83f40fac",
-        "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-        "title_zh": null,
-        "title_en": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-        "title_original": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49590351",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T16:54:22.554355Z"
-      }
-    },
-    {
-      "story_id": "story_593596383350",
-      "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-      "url": "https://www.aibase.com/news/30882",
-      "primary_url": "https://www.aibase.com/news/30882",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a010f69c76ecf055f1f978bd518750a01712274a",
-          "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-          "title_zh": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-          "title_en": null,
-          "title_original": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30882",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T10:18:32.791546Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a010f69c76ecf055f1f978bd518750a01712274a",
-          "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-          "title_zh": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-          "title_en": null,
-          "title_original": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30882",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T10:18:32.791546Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.915,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T10:18:32.791546Z",
-      "latest_at": "2026-09-07T10:18:32.791546Z",
-      "primary_item": {
-        "id": "a010f69c76ecf055f1f978bd518750a01712274a",
-        "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-        "title_zh": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-        "title_en": null,
-        "title_original": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30882",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T16:54:22.554355Z"
+        "scored_at": "2026-09-07T20:24:11.742269Z"
       }
     }
   ]
