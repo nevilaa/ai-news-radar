@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T14:32:08.371994Z",
+  "generated_at": "2026-09-08T15:09:55.146651Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8701,
-      "importance": 0.8701,
-      "importance_score": 0.8701,
+      "score": 0.8686,
+      "importance": 0.8686,
+      "importance_score": 0.8686,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8837,
+        "recency": 0.8757,
         "story_heat": 0.75
       },
       "category": "official",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:01:12.333939Z"
+        "scored_at": "2026-09-08T15:38:09.953926Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8596,
-      "importance": 0.8596,
-      "importance_score": 0.8596,
+      "score": 0.858,
+      "importance": 0.858,
+      "importance_score": 0.858,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9978,
+        "recency": 0.9888,
         "story_heat": 0.0
       },
       "category": "official",
@@ -253,7 +253,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:01:12.333939Z"
+        "scored_at": "2026-09-08T15:38:09.953926Z"
       }
     },
     {
@@ -301,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8481,
-      "importance": 0.8481,
-      "importance_score": 0.8481,
+      "score": 0.8465,
+      "importance": 0.8465,
+      "importance_score": 0.8465,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9781,
+        "recency": 0.9692,
         "story_heat": 0.0
       },
       "category": "official",
@@ -336,7 +336,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:01:12.333939Z"
+        "scored_at": "2026-09-08T15:38:09.953926Z"
       }
     },
     {
@@ -384,15 +384,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8426,
-      "importance": 0.8426,
-      "importance_score": 0.8426,
+      "score": 0.841,
+      "importance": 0.841,
+      "importance_score": 0.841,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9924,
+        "recency": 0.9834,
         "story_heat": 0.0
       },
       "category": "official",
@@ -419,7 +419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:01:12.333939Z"
+        "scored_at": "2026-09-08T15:38:09.953926Z"
       }
     },
     {
@@ -467,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8179,
-      "importance": 0.8179,
-      "importance_score": 0.8179,
+      "score": 0.8166,
+      "importance": 0.8166,
+      "importance_score": 0.8166,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8107,
+        "recency": 0.8033,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,7 +502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:01:12.333939Z"
+        "scored_at": "2026-09-08T15:38:09.953926Z"
       }
     },
     {
@@ -550,15 +550,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7798,
-      "importance": 0.7798,
-      "importance_score": 0.7798,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9012,
+        "recency": 0.8931,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -584,7 +584,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:01:12.333939Z"
+        "scored_at": "2026-09-08T15:38:09.953926Z"
       }
     },
     {
@@ -632,15 +632,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9542,
+        "recency": 0.9455,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -666,7 +666,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:01:12.333939Z"
+        "scored_at": "2026-09-08T15:38:09.953926Z"
       }
     },
     {
@@ -714,15 +714,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8141,
+        "recency": 0.8067,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -747,7 +747,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:01:12.333939Z"
+        "scored_at": "2026-09-08T15:38:09.953926Z"
       }
     },
     {
@@ -795,15 +795,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7338,
-      "importance": 0.7338,
-      "importance_score": 0.7338,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7457,
+        "recency": 0.7389,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -828,7 +828,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:01:12.333939Z"
+        "scored_at": "2026-09-08T15:38:09.953926Z"
       }
     },
     {
@@ -876,15 +876,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9322,
+        "recency": 0.9238,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -910,7 +910,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:01:12.333939Z"
+        "scored_at": "2026-09-08T15:38:09.953926Z"
       }
     },
     {
@@ -958,15 +958,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7235,
-      "importance": 0.7235,
-      "importance_score": 0.7235,
+      "score": 0.7221,
+      "importance": 0.7221,
+      "importance_score": 0.7221,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8719,
+        "recency": 0.864,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -991,7 +991,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:01:12.333939Z"
+        "scored_at": "2026-09-08T15:38:09.953926Z"
       }
     },
     {
@@ -1039,15 +1039,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9322,
+        "recency": 0.9238,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1073,7 +1073,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:01:12.333939Z"
+        "scored_at": "2026-09-08T15:38:09.953926Z"
       }
     },
     {
@@ -1121,15 +1121,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9322,
+        "recency": 0.9238,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1155,7 +1155,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:01:12.333939Z"
+        "scored_at": "2026-09-08T15:38:09.953926Z"
       }
     },
     {
@@ -1203,15 +1203,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9322,
+        "recency": 0.9238,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1237,7 +1237,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:01:12.333939Z"
+        "scored_at": "2026-09-08T15:38:09.953926Z"
       }
     },
     {
@@ -1285,15 +1285,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9322,
+        "recency": 0.9238,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1319,7 +1319,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:01:12.333939Z"
+        "scored_at": "2026-09-08T15:38:09.953926Z"
       }
     },
     {
@@ -1367,15 +1367,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9322,
+        "recency": 0.9238,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1401,7 +1401,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:01:12.333939Z"
+        "scored_at": "2026-09-08T15:38:09.953926Z"
+      }
+    },
+    {
+      "story_id": "story_e652a38ce576",
+      "title": "多智能体大型语言模型金融交易框架",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "primary_url": "https://github.com/TauricResearch/TradingAgents",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e1798bfefa85bddf16dd293058a9bc50029b00bd",
+          "title": "多智能体大型语言模型金融交易框架",
+          "title_zh": "多智能体大型语言模型金融交易框架",
+          "title_en": null,
+          "title_original": "多智能体大型语言模型金融交易框架",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T14:59:10.036000Z"
+        },
+        {
+          "id": "216440ca7f7f2d7db1ab194d83cb87a29aa66b62",
+          "title": "多智能体大型语言模型金融交易框架 / Multi-Agents LLM Financial Trading Framework",
+          "title_zh": "多智能体大型语言模型金融交易框架",
+          "title_en": "Multi-Agents LLM Financial Trading Framework",
+          "title_original": "Multi-Agents LLM Financial Trading Framework",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T05:20:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "e1798bfefa85bddf16dd293058a9bc50029b00bd",
+          "title": "多智能体大型语言模型金融交易框架",
+          "title_zh": "多智能体大型语言模型金融交易框架",
+          "title_en": null,
+          "title_original": "多智能体大型语言模型金融交易框架",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T14:59:10.036000Z"
+        },
+        {
+          "id": "216440ca7f7f2d7db1ab194d83cb87a29aa66b62",
+          "title": "多智能体大型语言模型金融交易框架 / Multi-Agents LLM Financial Trading Framework",
+          "title_zh": "多智能体大型语言模型金融交易框架",
+          "title_en": "Multi-Agents LLM Financial Trading Framework",
+          "title_original": "Multi-Agents LLM Financial Trading Framework",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T05:20:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9974,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-08T05:20:23Z",
+      "latest_at": "2026-09-08T14:59:10.036000Z",
+      "primary_item": {
+        "id": "e1798bfefa85bddf16dd293058a9bc50029b00bd",
+        "title": "多智能体大型语言模型金融交易框架",
+        "title_zh": "多智能体大型语言模型金融交易框架",
+        "title_en": null,
+        "title_original": "多智能体大型语言模型金融交易框架",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.com/TauricResearch/TradingAgents",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T15:38:09.953926Z"
+      }
+    },
+    {
+      "story_id": "story_7874794ade94",
+      "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+      "primary_url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+      "source": "manualdousuario.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ea5b9f3e472f47c8024c42fa26364412b9d8764a",
+          "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "title_zh": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "title_en": null,
+          "title_original": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+          "source": "manualdousuario.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T14:42:54.403000Z"
+        },
+        {
+          "id": "026b1efde653c15a8a6455ed7ebe6e2ca673bf78",
+          "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录 / LibreOffice breaks download records after declaring it has no AI features",
+          "title_zh": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "title_en": "LibreOffice breaks download records after declaring it has no AI features",
+          "title_original": "LibreOffice breaks download records after declaring it has no AI features",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T14:05:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "manualdousuario.net"
+      ],
+      "items": [
+        {
+          "id": "ea5b9f3e472f47c8024c42fa26364412b9d8764a",
+          "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "title_zh": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "title_en": null,
+          "title_original": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+          "source": "manualdousuario.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T14:42:54.403000Z"
+        },
+        {
+          "id": "026b1efde653c15a8a6455ed7ebe6e2ca673bf78",
+          "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录 / LibreOffice breaks download records after declaring it has no AI features",
+          "title_zh": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "title_en": "LibreOffice breaks download records after declaring it has no AI features",
+          "title_original": "LibreOffice breaks download records after declaring it has no AI features",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T14:05:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9935,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-08T14:05:57Z",
+      "latest_at": "2026-09-08T14:42:54.403000Z",
+      "primary_item": {
+        "id": "ea5b9f3e472f47c8024c42fa26364412b9d8764a",
+        "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+        "title_zh": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+        "title_en": null,
+        "title_original": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+        "source": "manualdousuario.net",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T15:38:09.953926Z"
       }
     },
     {
@@ -1449,15 +1669,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9322,
+        "recency": 0.9238,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1483,7 +1703,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:01:12.333939Z"
+        "scored_at": "2026-09-08T15:38:09.953926Z"
       }
     },
     {
@@ -1560,15 +1780,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
+      "score": 0.5247,
+      "importance": 0.5247,
+      "importance_score": 0.5247,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8911,
+        "recency": 0.883,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1593,199 +1813,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:01:12.333939Z"
-      }
-    },
-    {
-      "story_id": "story_66898bf564bc",
-      "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "primary_url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "source": "mcpherrin.ca",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ddcf367323ae23486eadd57d59dc6db09a037139",
-          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "title_zh": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "title_en": null,
-          "title_original": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "mcpherrin.ca",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T02:51:51.808000Z"
-        },
-        {
-          "id": "f45666775f0a948fe3f9adfb43e1628d7ddd2bff",
-          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
-          "title_zh": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "title_en": "I've factored the RSA keys of a Certificate Authority from the 90s",
-          "title_original": "I've factored the RSA keys of a Certificate Authority from the 90s",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-08T01:16:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "mcpherrin.ca"
-      ],
-      "items": [
-        {
-          "id": "ddcf367323ae23486eadd57d59dc6db09a037139",
-          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "title_zh": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "title_en": null,
-          "title_original": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "mcpherrin.ca",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T02:51:51.808000Z"
-        },
-        {
-          "id": "f45666775f0a948fe3f9adfb43e1628d7ddd2bff",
-          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
-          "title_zh": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "title_en": "I've factored the RSA keys of a Certificate Authority from the 90s",
-          "title_original": "I've factored the RSA keys of a Certificate Authority from the 90s",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-08T01:16:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5179,
-      "importance": 0.5179,
-      "importance_score": 0.5179,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8449,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-08T01:16:59Z",
-      "latest_at": "2026-09-08T02:51:51.808000Z",
-      "primary_item": {
-        "id": "ddcf367323ae23486eadd57d59dc6db09a037139",
-        "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-        "title_zh": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-        "title_en": null,
-        "title_original": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-        "source": "mcpherrin.ca",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:01:12.333939Z"
-      }
-    },
-    {
-      "story_id": "story_540d9571c139",
-      "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-      "url": "https://www.aibase.com/news/30907",
-      "primary_url": "https://www.aibase.com/news/30907",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7e5ca1e93371e3375cbee5740ef14012670f4600",
-          "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "title_zh": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "title_en": null,
-          "title_original": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30907",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:40:34.093612Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7e5ca1e93371e3375cbee5740ef14012670f4600",
-          "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "title_zh": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "title_en": null,
-          "title_original": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30907",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:40:34.093612Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9322,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T09:40:34.093612Z",
-      "latest_at": "2026-09-08T09:40:34.093612Z",
-      "primary_item": {
-        "id": "7e5ca1e93371e3375cbee5740ef14012670f4600",
-        "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-        "title_zh": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-        "title_en": null,
-        "title_original": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30907",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:01:12.333939Z"
+        "scored_at": "2026-09-08T15:38:09.953926Z"
       }
     }
   ]
