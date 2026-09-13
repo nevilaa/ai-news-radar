@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T00:01:47.326816Z",
+  "generated_at": "2026-09-13T01:00:35.409002Z",
   "window_hours": 24,
   "total_items": 12,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-13T00:01:47.326816Z",
-      "latest_at": "2026-09-13T00:01:47.326816Z",
+      "earliest_at": "2026-09-13T01:00:35.409002Z",
+      "latest_at": "2026-09-13T01:00:35.409002Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T00:12:55.069620Z"
+        "scored_at": "2026-09-13T01:11:04.720671Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8239,
-      "importance": 0.8239,
-      "importance_score": 0.8239,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9108,
+        "recency": 0.898,
         "story_heat": 0.0
       },
       "category": "official",
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T00:12:55.069620Z"
+        "scored_at": "2026-09-13T01:11:04.720671Z"
       }
     },
     {
@@ -271,15 +271,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7345,
+        "recency": 0.7242,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -306,7 +306,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T00:12:55.069620Z"
+        "scored_at": "2026-09-13T01:11:04.720671Z"
       }
     },
     {
@@ -354,15 +354,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
+      "score": 0.8055,
+      "importance": 0.8055,
+      "importance_score": 0.8055,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9891,
+        "recency": 0.9752,
         "story_heat": 0.0
       },
       "category": "official",
@@ -388,119 +388,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T00:12:55.069620Z"
-      }
-    },
-    {
-      "story_id": "story_050756be57e3",
-      "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-      "url": "https://www.rubyhack.ai",
-      "primary_url": "https://www.rubyhack.ai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b7e23e6fc7f12a692719217a64c3f1a5fbdd7046",
-          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-          "title_zh": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-          "title_en": null,
-          "title_original": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-          "summary": "作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGems，5 月 11 至 12 日智能体提交超过 2，000 个包，RubyGems 关闭新用户注册四天并移除 500 多个恶意包，安全公司称之为 GemStuffer campaign。",
-          "recommend_reason_zh": null,
-          "url": "https://www.rubyhack.ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T00:24:20.561000Z"
-        },
-        {
-          "id": "ea73d76d91a6ad8f4589edb7ff2d05cd43cd61b5",
-          "title": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
-          "title_zh": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
-          "title_en": null,
-          "title_original": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.rubyhack.ai",
-          "source": "www.rubyhack.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T00:24:20.561000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.rubyhack.ai"
-      ],
-      "items": [
-        {
-          "id": "b7e23e6fc7f12a692719217a64c3f1a5fbdd7046",
-          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-          "title_zh": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-          "title_en": null,
-          "title_original": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-          "summary": "作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGems，5 月 11 至 12 日智能体提交超过 2，000 个包，RubyGems 关闭新用户注册四天并移除 500 多个恶意包，安全公司称之为 GemStuffer campaign。",
-          "recommend_reason_zh": null,
-          "url": "https://www.rubyhack.ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T00:24:20.561000Z"
-        },
-        {
-          "id": "ea73d76d91a6ad8f4589edb7ff2d05cd43cd61b5",
-          "title": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
-          "title_zh": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
-          "title_en": null,
-          "title_original": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.rubyhack.ai",
-          "source": "www.rubyhack.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T00:24:20.561000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.711,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-12T00:24:20.561000Z",
-      "latest_at": "2026-09-12T00:24:20.561000Z",
-      "primary_item": {
-        "id": "b7e23e6fc7f12a692719217a64c3f1a5fbdd7046",
-        "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-        "title_zh": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-        "title_en": null,
-        "title_original": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-        "summary": "作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGems，5 月 11 至 12 日智能体提交超过 2，000 个包，RubyGems 关闭新用户注册四天并移除 500 多个恶意包，安全公司称之为 GemStuffer campaign。",
-        "recommend_reason_zh": null,
-        "url": "https://www.rubyhack.ai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T00:12:55.069620Z"
+        "scored_at": "2026-09-13T01:11:04.720671Z"
       }
     },
     {
@@ -548,15 +436,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8971,
+        "recency": 0.8845,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -582,7 +470,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T00:12:55.069620Z"
+        "scored_at": "2026-09-13T01:11:04.720671Z"
       }
     },
     {
@@ -630,15 +518,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9405,
+        "recency": 0.9273,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -664,7 +552,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T00:12:55.069620Z"
+        "scored_at": "2026-09-13T01:11:04.720671Z"
       }
     },
     {
@@ -712,21 +600,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9477,
+        "recency": 0.9344,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-12T20:18:42Z",
       "latest_at": "2026-09-12T20:18:42Z",
@@ -746,7 +633,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T00:12:55.069620Z"
+        "scored_at": "2026-09-13T01:11:04.720671Z"
       }
     },
     {
@@ -794,15 +681,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
+      "score": 0.7351,
+      "importance": 0.7351,
+      "importance_score": 0.7351,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.899,
+        "recency": 0.8864,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -827,7 +714,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T00:12:55.069620Z"
+        "scored_at": "2026-09-13T01:11:04.720671Z"
       }
     },
     {
@@ -853,7 +740,7 @@
           "published_at": "2026-09-12T20:19:16Z"
         },
         {
-          "id": "86bb588c47cf8749a6c9a05905f2ca5c26a0d0ec",
+          "id": "85a498b61766d76b0b31dbaea0f0ddd802451b2c",
           "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
           "title_zh": null,
           "title_en": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
@@ -861,15 +748,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-12T20:28:29Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "TechCrunch AI"
       ],
       "items": [
@@ -888,7 +775,7 @@
           "published_at": "2026-09-12T20:19:16Z"
         },
         {
-          "id": "86bb588c47cf8749a6c9a05905f2ca5c26a0d0ec",
+          "id": "85a498b61766d76b0b31dbaea0f0ddd802451b2c",
           "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
           "title_zh": null,
           "title_en": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
@@ -896,23 +783,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-12T20:28:29Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6519,
-      "importance": 0.6519,
-      "importance_score": 0.6519,
+      "score": 0.6495,
+      "importance": 0.6495,
+      "importance_score": 0.6495,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.9479,
+        "recency": 0.9345,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -937,7 +824,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T00:12:55.069620Z"
+        "scored_at": "2026-09-13T01:11:04.720671Z"
+      }
+    },
+    {
+      "story_id": "story_f5e307da9ebe",
+      "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+      "primary_url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+      "source": "tedium.co",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6a8048012db1b19c0c1149810968e9f51c194bbb",
+          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "title_en": null,
+          "title_original": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+          "source": "tedium.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T00:29:40.068000Z"
+        },
+        {
+          "id": "c61cb98023610d60fbdf5e96b115c4dbfe7cb41a",
+          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "title_en": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+          "title_original": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T11:13:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "tedium.co"
+      ],
+      "items": [
+        {
+          "id": "6a8048012db1b19c0c1149810968e9f51c194bbb",
+          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "title_en": null,
+          "title_original": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+          "source": "tedium.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T00:29:40.068000Z"
+        },
+        {
+          "id": "c61cb98023610d60fbdf5e96b115c4dbfe7cb41a",
+          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "title_en": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+          "title_original": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T11:13:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9926,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T11:13:38Z",
+      "latest_at": "2026-09-13T00:29:40.068000Z",
+      "primary_item": {
+        "id": "6a8048012db1b19c0c1149810968e9f51c194bbb",
+        "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+        "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+        "title_en": null,
+        "title_original": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+        "source": "tedium.co",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-13T01:11:04.720671Z"
       }
     },
     {
@@ -1014,15 +1011,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5283,
-      "importance": 0.5283,
-      "importance_score": 0.5283,
+      "score": 0.526,
+      "importance": 0.526,
+      "importance_score": 0.526,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9028,
+        "recency": 0.8901,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1047,7 +1044,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T00:12:55.069620Z"
+        "scored_at": "2026-09-13T01:11:04.720671Z"
       }
     },
     {
@@ -1124,15 +1121,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5275,
-      "importance": 0.5275,
-      "importance_score": 0.5275,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8986,
+        "recency": 0.8859,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1157,7 +1154,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T00:12:55.069620Z"
+        "scored_at": "2026-09-13T01:11:04.720671Z"
       }
     }
   ]
