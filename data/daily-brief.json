@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:54:07.314357Z",
+  "generated_at": "2026-09-15T07:43:24.793938Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8216,
-      "importance": 0.8216,
-      "importance_score": 0.8216,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8311,
+        "recency": 0.7979,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T05:32:50.653163Z"
+        "scored_at": "2026-09-15T08:22:01.176910Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.82,
-      "importance": 0.82,
-      "importance_score": 0.82,
+      "score": 0.8138,
+      "importance": 0.8138,
+      "importance_score": 0.8138,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8668,
+        "recency": 0.8322,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T05:32:50.653163Z"
+        "scored_at": "2026-09-15T08:22:01.176910Z"
       }
     },
     {
@@ -272,15 +272,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.813,
-      "importance": 0.813,
-      "importance_score": 0.813,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7912,
+        "recency": 0.7596,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -307,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T05:32:50.653163Z"
+        "scored_at": "2026-09-15T08:22:01.176910Z"
       }
     },
     {
@@ -384,15 +384,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8109,
-      "importance": 0.8109,
-      "importance_score": 0.8109,
+      "score": 0.8043,
+      "importance": 0.8043,
+      "importance_score": 0.8043,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9182,
+        "recency": 0.8816,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -419,7 +419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T05:32:50.653163Z"
+        "scored_at": "2026-09-15T08:22:01.176910Z"
       }
     },
     {
@@ -467,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.83,
+        "recency": 0.7969,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,7 +502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T05:32:50.653163Z"
+        "scored_at": "2026-09-15T08:22:01.176910Z"
       }
     },
     {
@@ -608,15 +608,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8107,
-      "importance": 0.8107,
-      "importance_score": 0.8107,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8786,
+        "recency": 0.8435,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -643,30 +643,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T05:32:50.653163Z"
+        "scored_at": "2026-09-15T08:22:01.176910Z"
       }
     },
     {
-      "story_id": "story_f468c617ea60",
-      "title": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
-      "url": "https://www.aibase.com/news/31052",
-      "primary_url": "https://www.aibase.com/news/31052",
+      "story_id": "story_c447b2fec530",
+      "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+      "url": "https://www.aibase.com/news/31057",
+      "primary_url": "https://www.aibase.com/news/31057",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b38f2d09da9edf15c046ec74279523cd034d3256",
-          "title": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
-          "title_zh": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
+          "id": "c9f956e2abc3242c93e86adc5d6a856e77cb2c55",
+          "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+          "title_zh": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
           "title_en": null,
-          "title_original": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
+          "title_original": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31052",
+          "url": "https://www.aibase.com/news/31057",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T04:54:07.314357Z"
+          "published_at": "2026-09-15T07:43:24.793938Z"
         }
       ],
       "source_count": 1,
@@ -675,18 +675,18 @@
       ],
       "items": [
         {
-          "id": "b38f2d09da9edf15c046ec74279523cd034d3256",
-          "title": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
-          "title_zh": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
+          "id": "c9f956e2abc3242c93e86adc5d6a856e77cb2c55",
+          "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+          "title_zh": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
           "title_en": null,
-          "title_original": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
+          "title_original": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31052",
+          "url": "https://www.aibase.com/news/31057",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T04:54:07.314357Z"
+          "published_at": "2026-09-15T07:43:24.793938Z"
         }
       ],
       "item_count": 1,
@@ -707,17 +707,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T04:54:07.314357Z",
-      "latest_at": "2026-09-15T04:54:07.314357Z",
+      "earliest_at": "2026-09-15T07:43:24.793938Z",
+      "latest_at": "2026-09-15T07:43:24.793938Z",
       "primary_item": {
-        "id": "b38f2d09da9edf15c046ec74279523cd034d3256",
-        "title": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
-        "title_zh": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
+        "id": "c9f956e2abc3242c93e86adc5d6a856e77cb2c55",
+        "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+        "title_zh": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
         "title_en": null,
-        "title_original": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
+        "title_original": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31052",
+        "url": "https://www.aibase.com/news/31057",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -725,7 +725,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T05:32:50.653163Z"
+        "scored_at": "2026-09-15T08:22:01.176910Z"
       }
     },
     {
@@ -773,15 +773,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9399,
+        "recency": 0.9024,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -807,7 +807,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T05:32:50.653163Z"
+        "scored_at": "2026-09-15T08:22:01.176910Z"
       }
     },
     {
@@ -855,21 +855,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8274,
+        "recency": 0.7943,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-14T15:46:45Z",
       "latest_at": "2026-09-14T15:46:45Z",
@@ -889,7 +888,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T05:32:50.653163Z"
+        "scored_at": "2026-09-15T08:22:01.176910Z"
       }
     },
     {
@@ -937,21 +936,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8441,
+        "recency": 0.8104,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-14T17:09:41.324000Z",
       "latest_at": "2026-09-14T17:09:41.324000Z",
@@ -971,7 +969,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T05:32:50.653163Z"
+        "scored_at": "2026-09-15T08:22:01.176910Z"
       }
     },
     {
@@ -1019,15 +1017,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9762,
+        "recency": 0.9372,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1052,30 +1050,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T05:32:50.653163Z"
+        "scored_at": "2026-09-15T08:22:01.176910Z"
       }
     },
     {
-      "story_id": "story_4d0ea0b44ad0",
-      "title": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
-      "url": "https://www.aibase.com/news/31049",
-      "primary_url": "https://www.aibase.com/news/31049",
+      "story_id": "story_e73a75567feb",
+      "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+      "url": "https://www.aibase.com/news/31056",
+      "primary_url": "https://www.aibase.com/news/31056",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "eaaf97148a9645c3b91d5c5421412a074ece94ee",
-          "title": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
-          "title_zh": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
+          "id": "2a4cac020e9d346db4da13e22b2b3b480bebd26d",
+          "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+          "title_zh": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
           "title_en": null,
-          "title_original": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
+          "title_original": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31049",
+          "url": "https://www.aibase.com/news/31056",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T04:54:07.314357Z"
+          "published_at": "2026-09-15T07:43:24.793938Z"
         }
       ],
       "source_count": 1,
@@ -1084,18 +1082,18 @@
       ],
       "items": [
         {
-          "id": "eaaf97148a9645c3b91d5c5421412a074ece94ee",
-          "title": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
-          "title_zh": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
+          "id": "2a4cac020e9d346db4da13e22b2b3b480bebd26d",
+          "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+          "title_zh": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
           "title_en": null,
-          "title_original": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
+          "title_original": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31049",
+          "url": "https://www.aibase.com/news/31056",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T04:54:07.314357Z"
+          "published_at": "2026-09-15T07:43:24.793938Z"
         }
       ],
       "item_count": 1,
@@ -1116,17 +1114,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T04:54:07.314357Z",
-      "latest_at": "2026-09-15T04:54:07.314357Z",
+      "earliest_at": "2026-09-15T07:43:24.793938Z",
+      "latest_at": "2026-09-15T07:43:24.793938Z",
       "primary_item": {
-        "id": "eaaf97148a9645c3b91d5c5421412a074ece94ee",
-        "title": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
-        "title_zh": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
+        "id": "2a4cac020e9d346db4da13e22b2b3b480bebd26d",
+        "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+        "title_zh": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
         "title_en": null,
-        "title_original": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
+        "title_original": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31049",
+        "url": "https://www.aibase.com/news/31056",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1134,192 +1132,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T05:32:50.653163Z"
+        "scored_at": "2026-09-15T08:22:01.176910Z"
       }
     },
     {
-      "story_id": "story_098c8c345e0d",
-      "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名 / Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
-      "url": "https://x.com/arena/status/2099549108013006958",
-      "primary_url": "https://x.com/arena/status/2099549108013006958",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d0417de2ad3c894d37359950c13deddcf6755d82",
-          "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名 / Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
-          "title_zh": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
-          "title_en": "Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
-          "title_original": "Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
-          "summary": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名，净提升 +4.87%，每任务中位成本 $0.07，重塑 Pareto 前沿。其成本比第 2 名 Hy4 preview 低 68%、成绩仅差 0.09 个百分点；总榜排名第 12，Confirmed Success 信号排名 第 4（+13.75%）。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2099549108013006958",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T17:21:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "d0417de2ad3c894d37359950c13deddcf6755d82",
-          "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名 / Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
-          "title_zh": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
-          "title_en": "Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
-          "title_original": "Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
-          "summary": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名，净提升 +4.87%，每任务中位成本 $0.07，重塑 Pareto 前沿。其成本比第 2 名 Hy4 preview 低 68%、成绩仅差 0.09 个百分点；总榜排名第 12，Confirmed Success 信号排名 第 4（+13.75%）。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2099549108013006958",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T17:21:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.722,
-      "importance": 0.722,
-      "importance_score": 0.722,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8465,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-14T17:21:29Z",
-      "latest_at": "2026-09-14T17:21:29Z",
-      "primary_item": {
-        "id": "d0417de2ad3c894d37359950c13deddcf6755d82",
-        "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名 / Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
-        "title_zh": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
-        "title_en": "Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
-        "title_original": "Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
-        "summary": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名，净提升 +4.87%，每任务中位成本 $0.07，重塑 Pareto 前沿。其成本比第 2 名 Hy4 preview 低 68%、成绩仅差 0.09 个百分点；总榜排名第 12，Confirmed Success 信号排名 第 4（+13.75%）。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2099549108013006958",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-15T05:32:50.653163Z"
-      }
-    },
-    {
-      "story_id": "story_207c93651c3e",
-      "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文 / The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
-      "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
-      "primary_url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
-      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7e7bdae7d1c78f04ba6c32e9eb975ad87f92e758",
-          "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文 / The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
-          "title_zh": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
-          "title_en": "The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
-          "title_original": "The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
-          "summary": "硅基流动（SiliconFlow）宣布开源模型 Hy4 preview 上线其平台。该模型总参数 770B、每 token 激活 49B、支持 1M 上下文，采用 Apache 2.0 协议，面向编码、分析、研究和复杂实际工作。用户可将其接入 Claude Code、Codex、Cursor 等已有工具；图片显示定价为每 1M tokens 输入 $0.834、输出 $2.501、缓存 $0.042。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
-          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T16:32:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
-      ],
-      "items": [
-        {
-          "id": "7e7bdae7d1c78f04ba6c32e9eb975ad87f92e758",
-          "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文 / The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
-          "title_zh": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
-          "title_en": "The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
-          "title_original": "The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
-          "summary": "硅基流动（SiliconFlow）宣布开源模型 Hy4 preview 上线其平台。该模型总参数 770B、每 token 激活 49B、支持 1M 上下文，采用 Apache 2.0 协议，面向编码、分析、研究和复杂实际工作。用户可将其接入 Claude Code、Codex、Cursor 等已有工具；图片显示定价为每 1M tokens 输入 $0.834、输出 $2.501、缓存 $0.042。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
-          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T16:32:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7202,
-      "importance": 0.7202,
-      "importance_score": 0.7202,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8365,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-14T16:32:25Z",
-      "latest_at": "2026-09-14T16:32:25Z",
-      "primary_item": {
-        "id": "7e7bdae7d1c78f04ba6c32e9eb975ad87f92e758",
-        "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文 / The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
-        "title_zh": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
-        "title_en": "The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
-        "title_original": "The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
-        "summary": "硅基流动（SiliconFlow）宣布开源模型 Hy4 preview 上线其平台。该模型总参数 770B、每 token 激活 49B、支持 1M 上下文，采用 Apache 2.0 协议，面向编码、分析、研究和复杂实际工作。用户可将其接入 Claude Code、Codex、Cursor 等已有工具；图片显示定价为每 1M tokens 输入 $0.834、输出 $2.501、缓存 $0.042。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
-        "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-15T05:32:50.653163Z"
-      }
-    },
-    {
-      "story_id": "story_37406052c7e8",
-      "title": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
-      "url": "https://www.aibase.com/news/31050",
-      "primary_url": "https://www.aibase.com/news/31050",
+      "story_id": "story_021c8eb04323",
+      "title": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
+      "url": "https://www.aibase.com/news/31061",
+      "primary_url": "https://www.aibase.com/news/31061",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "18fdaa3d86b94508c5fae33e22aa50547a30a016",
-          "title": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
-          "title_zh": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
+          "id": "e674a9ca19a77f4e5598e825b75b4a664ba165f3",
+          "title": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
+          "title_zh": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
           "title_en": null,
-          "title_original": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
+          "title_original": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31050",
+          "url": "https://www.aibase.com/news/31061",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T04:54:07.314357Z"
+          "published_at": "2026-09-15T07:43:24.793938Z"
         }
       ],
       "source_count": 1,
@@ -1328,18 +1164,18 @@
       ],
       "items": [
         {
-          "id": "18fdaa3d86b94508c5fae33e22aa50547a30a016",
-          "title": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
-          "title_zh": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
+          "id": "e674a9ca19a77f4e5598e825b75b4a664ba165f3",
+          "title": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
+          "title_zh": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
           "title_en": null,
-          "title_original": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
+          "title_original": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31050",
+          "url": "https://www.aibase.com/news/31061",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T04:54:07.314357Z"
+          "published_at": "2026-09-15T07:43:24.793938Z"
         }
       ],
       "item_count": 1,
@@ -1360,17 +1196,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T04:54:07.314357Z",
-      "latest_at": "2026-09-15T04:54:07.314357Z",
+      "earliest_at": "2026-09-15T07:43:24.793938Z",
+      "latest_at": "2026-09-15T07:43:24.793938Z",
       "primary_item": {
-        "id": "18fdaa3d86b94508c5fae33e22aa50547a30a016",
-        "title": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
-        "title_zh": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
+        "id": "e674a9ca19a77f4e5598e825b75b4a664ba165f3",
+        "title": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
+        "title_zh": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
         "title_en": null,
-        "title_original": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
+        "title_original": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31050",
+        "url": "https://www.aibase.com/news/31061",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1378,30 +1214,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T05:32:50.653163Z"
+        "scored_at": "2026-09-15T08:22:01.176910Z"
       }
     },
     {
-      "story_id": "story_d622cdec8561",
-      "title": "字节跳动CEO梁汝波:豆包、飞书、火山整合发力 加码企业AI市场",
-      "url": "https://www.aibase.com/news/31054",
-      "primary_url": "https://www.aibase.com/news/31054",
+      "story_id": "story_7a99be4187e4",
+      "title": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+      "url": "https://www.aibase.com/news/31055",
+      "primary_url": "https://www.aibase.com/news/31055",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f8ee6eef7b3be4b1db312cf47c8b79d69f3f5977",
-          "title": "字节跳动CEO梁汝波:豆包、飞书、火山整合发力 加码企业AI市场",
-          "title_zh": "字节跳动CEO梁汝波:豆包、飞书、火山整合发力 加码企业AI市场",
+          "id": "1035052f93b799930c626d7f07633485feed5d4d",
+          "title": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+          "title_zh": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
           "title_en": null,
-          "title_original": "字节跳动CEO梁汝波:豆包、飞书、火山整合发力 加码企业AI市场",
+          "title_original": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31054",
+          "url": "https://www.aibase.com/news/31055",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T04:54:07.314357Z"
+          "published_at": "2026-09-15T07:43:24.793938Z"
         }
       ],
       "source_count": 1,
@@ -1410,18 +1246,18 @@
       ],
       "items": [
         {
-          "id": "f8ee6eef7b3be4b1db312cf47c8b79d69f3f5977",
-          "title": "字节跳动CEO梁汝波:豆包、飞书、火山整合发力 加码企业AI市场",
-          "title_zh": "字节跳动CEO梁汝波:豆包、飞书、火山整合发力 加码企业AI市场",
+          "id": "1035052f93b799930c626d7f07633485feed5d4d",
+          "title": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+          "title_zh": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
           "title_en": null,
-          "title_original": "字节跳动CEO梁汝波:豆包、飞书、火山整合发力 加码企业AI市场",
+          "title_original": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31054",
+          "url": "https://www.aibase.com/news/31055",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T04:54:07.314357Z"
+          "published_at": "2026-09-15T07:43:24.793938Z"
         }
       ],
       "item_count": 1,
@@ -1442,17 +1278,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T04:54:07.314357Z",
-      "latest_at": "2026-09-15T04:54:07.314357Z",
+      "earliest_at": "2026-09-15T07:43:24.793938Z",
+      "latest_at": "2026-09-15T07:43:24.793938Z",
       "primary_item": {
-        "id": "f8ee6eef7b3be4b1db312cf47c8b79d69f3f5977",
-        "title": "字节跳动CEO梁汝波:豆包、飞书、火山整合发力 加码企业AI市场",
-        "title_zh": "字节跳动CEO梁汝波:豆包、飞书、火山整合发力 加码企业AI市场",
+        "id": "1035052f93b799930c626d7f07633485feed5d4d",
+        "title": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+        "title_zh": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
         "title_en": null,
-        "title_original": "字节跳动CEO梁汝波:豆包、飞书、火山整合发力 加码企业AI市场",
+        "title_original": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31054",
+        "url": "https://www.aibase.com/news/31055",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1460,30 +1296,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T05:32:50.653163Z"
+        "scored_at": "2026-09-15T08:22:01.176910Z"
       }
     },
     {
-      "story_id": "story_7b21f8750f06",
-      "title": "白宫科技顾问抨击 Anthropic 与 OpenAI：自己做安全产品，别老指望政府",
-      "url": "https://www.aibase.com/news/31051",
-      "primary_url": "https://www.aibase.com/news/31051",
+      "story_id": "story_749cd19070dd",
+      "title": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
+      "url": "https://www.aibase.com/news/31060",
+      "primary_url": "https://www.aibase.com/news/31060",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f5c8cc5f1178179f5d8af9ea4a025489e1f8267f",
-          "title": "白宫科技顾问抨击 Anthropic 与 OpenAI：自己做安全产品，别老指望政府",
-          "title_zh": "白宫科技顾问抨击 Anthropic 与 OpenAI：自己做安全产品，别老指望政府",
+          "id": "b44e753979970f394c7664a09621b5c0055d84d3",
+          "title": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
+          "title_zh": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
           "title_en": null,
-          "title_original": "白宫科技顾问抨击 Anthropic 与 OpenAI：自己做安全产品，别老指望政府",
+          "title_original": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31051",
+          "url": "https://www.aibase.com/news/31060",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T04:54:07.314357Z"
+          "published_at": "2026-09-15T07:43:24.793938Z"
         }
       ],
       "source_count": 1,
@@ -1492,18 +1328,18 @@
       ],
       "items": [
         {
-          "id": "f5c8cc5f1178179f5d8af9ea4a025489e1f8267f",
-          "title": "白宫科技顾问抨击 Anthropic 与 OpenAI：自己做安全产品，别老指望政府",
-          "title_zh": "白宫科技顾问抨击 Anthropic 与 OpenAI：自己做安全产品，别老指望政府",
+          "id": "b44e753979970f394c7664a09621b5c0055d84d3",
+          "title": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
+          "title_zh": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
           "title_en": null,
-          "title_original": "白宫科技顾问抨击 Anthropic 与 OpenAI：自己做安全产品，别老指望政府",
+          "title_original": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31051",
+          "url": "https://www.aibase.com/news/31060",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T04:54:07.314357Z"
+          "published_at": "2026-09-15T07:43:24.793938Z"
         }
       ],
       "item_count": 1,
@@ -1524,17 +1360,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T04:54:07.314357Z",
-      "latest_at": "2026-09-15T04:54:07.314357Z",
+      "earliest_at": "2026-09-15T07:43:24.793938Z",
+      "latest_at": "2026-09-15T07:43:24.793938Z",
       "primary_item": {
-        "id": "f5c8cc5f1178179f5d8af9ea4a025489e1f8267f",
-        "title": "白宫科技顾问抨击 Anthropic 与 OpenAI：自己做安全产品，别老指望政府",
-        "title_zh": "白宫科技顾问抨击 Anthropic 与 OpenAI：自己做安全产品，别老指望政府",
+        "id": "b44e753979970f394c7664a09621b5c0055d84d3",
+        "title": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
+        "title_zh": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
         "title_en": null,
-        "title_original": "白宫科技顾问抨击 Anthropic 与 OpenAI：自己做安全产品，别老指望政府",
+        "title_original": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31051",
+        "url": "https://www.aibase.com/news/31060",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1542,30 +1378,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T05:32:50.653163Z"
+        "scored_at": "2026-09-15T08:22:01.176910Z"
       }
     },
     {
-      "story_id": "story_73b64bd34bf0",
-      "title": "苹果全面升级AI系统体验:Siri AI覆盖iPhone、iPad与Vision Pro",
-      "url": "https://www.aibase.com/news/31047",
-      "primary_url": "https://www.aibase.com/news/31047",
+      "story_id": "story_4771199a8ed2",
+      "title": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
+      "url": "https://www.aibase.com/news/31058",
+      "primary_url": "https://www.aibase.com/news/31058",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0de56af4b5ed4414881422df51fc8e9903352212",
-          "title": "苹果全面升级AI系统体验:Siri AI覆盖iPhone、iPad与Vision Pro",
-          "title_zh": "苹果全面升级AI系统体验:Siri AI覆盖iPhone、iPad与Vision Pro",
+          "id": "ddd1a5705b4b6d85b6a4b75f801ab95387084a47",
+          "title": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
+          "title_zh": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
           "title_en": null,
-          "title_original": "苹果全面升级AI系统体验:Siri AI覆盖iPhone、iPad与Vision Pro",
+          "title_original": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31047",
+          "url": "https://www.aibase.com/news/31058",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T04:54:07.314357Z"
+          "published_at": "2026-09-15T07:43:24.793938Z"
         }
       ],
       "source_count": 1,
@@ -1574,18 +1410,18 @@
       ],
       "items": [
         {
-          "id": "0de56af4b5ed4414881422df51fc8e9903352212",
-          "title": "苹果全面升级AI系统体验:Siri AI覆盖iPhone、iPad与Vision Pro",
-          "title_zh": "苹果全面升级AI系统体验:Siri AI覆盖iPhone、iPad与Vision Pro",
+          "id": "ddd1a5705b4b6d85b6a4b75f801ab95387084a47",
+          "title": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
+          "title_zh": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
           "title_en": null,
-          "title_original": "苹果全面升级AI系统体验:Siri AI覆盖iPhone、iPad与Vision Pro",
+          "title_original": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31047",
+          "url": "https://www.aibase.com/news/31058",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T04:54:07.314357Z"
+          "published_at": "2026-09-15T07:43:24.793938Z"
         }
       ],
       "item_count": 1,
@@ -1606,17 +1442,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T04:54:07.314357Z",
-      "latest_at": "2026-09-15T04:54:07.314357Z",
+      "earliest_at": "2026-09-15T07:43:24.793938Z",
+      "latest_at": "2026-09-15T07:43:24.793938Z",
       "primary_item": {
-        "id": "0de56af4b5ed4414881422df51fc8e9903352212",
-        "title": "苹果全面升级AI系统体验:Siri AI覆盖iPhone、iPad与Vision Pro",
-        "title_zh": "苹果全面升级AI系统体验:Siri AI覆盖iPhone、iPad与Vision Pro",
+        "id": "ddd1a5705b4b6d85b6a4b75f801ab95387084a47",
+        "title": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
+        "title_zh": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
         "title_en": null,
-        "title_original": "苹果全面升级AI系统体验:Siri AI覆盖iPhone、iPad与Vision Pro",
+        "title_original": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31047",
+        "url": "https://www.aibase.com/news/31058",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1624,30 +1460,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T05:32:50.653163Z"
+        "scored_at": "2026-09-15T08:22:01.176910Z"
       }
     },
     {
-      "story_id": "story_e1b44616f146",
-      "title": "苹果新一代 Apple Intelligence 上线，Siri AI 以测试版登场：能读屏、懂语境、跨设备续聊，欧盟和中国暂不可用",
-      "url": "https://www.aibase.com/news/31053",
-      "primary_url": "https://www.aibase.com/news/31053",
+      "story_id": "story_6b48114331e8",
+      "title": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
+      "url": "https://www.aibase.com/news/31059",
+      "primary_url": "https://www.aibase.com/news/31059",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9471d377918ac608b39379f897aad19f92550391",
-          "title": "苹果新一代 Apple Intelligence 上线，Siri AI 以测试版登场：能读屏、懂语境、跨设备续聊，欧盟和中国暂不可用",
-          "title_zh": "苹果新一代 Apple Intelligence 上线，Siri AI 以测试版登场：能读屏、懂语境、跨设备续聊，欧盟和中国暂不可用",
+          "id": "69873021dcb01777944fd2372744ec790fd80430",
+          "title": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
+          "title_zh": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
           "title_en": null,
-          "title_original": "苹果新一代 Apple Intelligence 上线，Siri AI 以测试版登场：能读屏、懂语境、跨设备续聊，欧盟和中国暂不可用",
+          "title_original": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31053",
+          "url": "https://www.aibase.com/news/31059",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T04:54:07.314357Z"
+          "published_at": "2026-09-15T07:43:24.793938Z"
         }
       ],
       "source_count": 1,
@@ -1656,18 +1492,18 @@
       ],
       "items": [
         {
-          "id": "9471d377918ac608b39379f897aad19f92550391",
-          "title": "苹果新一代 Apple Intelligence 上线，Siri AI 以测试版登场：能读屏、懂语境、跨设备续聊，欧盟和中国暂不可用",
-          "title_zh": "苹果新一代 Apple Intelligence 上线，Siri AI 以测试版登场：能读屏、懂语境、跨设备续聊，欧盟和中国暂不可用",
+          "id": "69873021dcb01777944fd2372744ec790fd80430",
+          "title": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
+          "title_zh": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
           "title_en": null,
-          "title_original": "苹果新一代 Apple Intelligence 上线，Siri AI 以测试版登场：能读屏、懂语境、跨设备续聊，欧盟和中国暂不可用",
+          "title_original": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31053",
+          "url": "https://www.aibase.com/news/31059",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T04:54:07.314357Z"
+          "published_at": "2026-09-15T07:43:24.793938Z"
         }
       ],
       "item_count": 1,
@@ -1688,17 +1524,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T04:54:07.314357Z",
-      "latest_at": "2026-09-15T04:54:07.314357Z",
+      "earliest_at": "2026-09-15T07:43:24.793938Z",
+      "latest_at": "2026-09-15T07:43:24.793938Z",
       "primary_item": {
-        "id": "9471d377918ac608b39379f897aad19f92550391",
-        "title": "苹果新一代 Apple Intelligence 上线，Siri AI 以测试版登场：能读屏、懂语境、跨设备续聊，欧盟和中国暂不可用",
-        "title_zh": "苹果新一代 Apple Intelligence 上线，Siri AI 以测试版登场：能读屏、懂语境、跨设备续聊，欧盟和中国暂不可用",
+        "id": "69873021dcb01777944fd2372744ec790fd80430",
+        "title": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
+        "title_zh": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
         "title_en": null,
-        "title_original": "苹果新一代 Apple Intelligence 上线，Siri AI 以测试版登场：能读屏、懂语境、跨设备续聊，欧盟和中国暂不可用",
+        "title_original": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31053",
+        "url": "https://www.aibase.com/news/31059",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1706,26 +1542,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T05:32:50.653163Z"
+        "scored_at": "2026-09-15T08:22:01.176910Z"
       }
     },
     {
-      "story_id": "story_7352638078ab",
-      "title": "苹果正式推送 iOS27:Siri AI 全面升级，老机型性能大幅优化",
-      "url": "https://www.aibase.com/news/31048",
-      "primary_url": "https://www.aibase.com/news/31048",
+      "story_id": "story_f468c617ea60",
+      "title": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
+      "url": "https://www.aibase.com/news/31052",
+      "primary_url": "https://www.aibase.com/news/31052",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b82fdb3190e897a7e7c1591e36a7a8b39b8b3fb2",
-          "title": "苹果正式推送 iOS27:Siri AI 全面升级，老机型性能大幅优化",
-          "title_zh": "苹果正式推送 iOS27:Siri AI 全面升级，老机型性能大幅优化",
+          "id": "b38f2d09da9edf15c046ec74279523cd034d3256",
+          "title": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
+          "title_zh": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
           "title_en": null,
-          "title_original": "苹果正式推送 iOS27:Siri AI 全面升级，老机型性能大幅优化",
+          "title_original": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31048",
+          "url": "https://www.aibase.com/news/31052",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1738,14 +1574,14 @@
       ],
       "items": [
         {
-          "id": "b82fdb3190e897a7e7c1591e36a7a8b39b8b3fb2",
-          "title": "苹果正式推送 iOS27:Siri AI 全面升级，老机型性能大幅优化",
-          "title_zh": "苹果正式推送 iOS27:Siri AI 全面升级，老机型性能大幅优化",
+          "id": "b38f2d09da9edf15c046ec74279523cd034d3256",
+          "title": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
+          "title_zh": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
           "title_en": null,
-          "title_original": "苹果正式推送 iOS27:Siri AI 全面升级，老机型性能大幅优化",
+          "title_original": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31048",
+          "url": "https://www.aibase.com/news/31052",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1754,15 +1590,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9601,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1773,14 +1609,14 @@
       "earliest_at": "2026-09-15T04:54:07.314357Z",
       "latest_at": "2026-09-15T04:54:07.314357Z",
       "primary_item": {
-        "id": "b82fdb3190e897a7e7c1591e36a7a8b39b8b3fb2",
-        "title": "苹果正式推送 iOS27:Siri AI 全面升级，老机型性能大幅优化",
-        "title_zh": "苹果正式推送 iOS27:Siri AI 全面升级，老机型性能大幅优化",
+        "id": "b38f2d09da9edf15c046ec74279523cd034d3256",
+        "title": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
+        "title_zh": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
         "title_en": null,
-        "title_original": "苹果正式推送 iOS27:Siri AI 全面升级，老机型性能大幅优化",
+        "title_original": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31048",
+        "url": "https://www.aibase.com/news/31052",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1788,7 +1624,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T05:32:50.653163Z"
+        "scored_at": "2026-09-15T08:22:01.176910Z"
+      }
+    },
+    {
+      "story_id": "story_1a3c8d9c8435",
+      "title": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
+      "url": "https://www.effort.news/irregular",
+      "primary_url": "https://www.effort.news/irregular",
+      "source": "www.effort.news",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d8bf53e25e83a3f25e6e74a0af9d999d798b7e45",
+          "title": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
+          "title_zh": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
+          "title_en": null,
+          "title_original": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.effort.news/irregular",
+          "source": "www.effort.news",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-15T06:29:10.367000Z"
+        },
+        {
+          "id": "0e3c54916fca867f6668b37404019df42b2521e1",
+          "title": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为 / A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+          "title_zh": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
+          "title_en": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+          "title_original": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.effort.news/irregular",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-14T21:15:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "www.effort.news"
+      ],
+      "items": [
+        {
+          "id": "d8bf53e25e83a3f25e6e74a0af9d999d798b7e45",
+          "title": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
+          "title_zh": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
+          "title_en": null,
+          "title_original": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.effort.news/irregular",
+          "source": "www.effort.news",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-15T06:29:10.367000Z"
+        },
+        {
+          "id": "0e3c54916fca867f6668b37404019df42b2521e1",
+          "title": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为 / A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+          "title_zh": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
+          "title_en": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+          "title_original": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.effort.news/irregular",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-14T21:15:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9823,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-14T21:15:01Z",
+      "latest_at": "2026-09-15T06:29:10.367000Z",
+      "primary_item": {
+        "id": "d8bf53e25e83a3f25e6e74a0af9d999d798b7e45",
+        "title": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
+        "title_zh": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
+        "title_en": null,
+        "title_original": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.effort.news/irregular",
+        "source": "www.effort.news",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-15T08:22:01.176910Z"
+      }
+    },
+    {
+      "story_id": "story_0dd71b11ba1c",
+      "title": "对抗式时尚对AI全景监视体系发出强烈呼吁",
+      "url": "https://spectrum.ieee.org/adversarial-fashion",
+      "primary_url": "https://spectrum.ieee.org/adversarial-fashion",
+      "source": "spectrum.ieee.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bc46c278cab6ccd16e1b62261e462b0c11d69ab3",
+          "title": "对抗式时尚对AI全景监视体系发出强烈呼吁",
+          "title_zh": "对抗式时尚对AI全景监视体系发出强烈呼吁",
+          "title_en": null,
+          "title_original": "对抗式时尚对AI全景监视体系发出强烈呼吁",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://spectrum.ieee.org/adversarial-fashion",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-15T05:27:28.301000Z"
+        },
+        {
+          "id": "3ecdbf3d2ceb09c097608445c33aa3818aa5c9fd",
+          "title": "对抗式时尚对AI全景监视体系发出强烈呼吁 / Adversarial Fashion Makes a Statement on AI Panopticon",
+          "title_zh": "对抗式时尚对AI全景监视体系发出强烈呼吁",
+          "title_en": "Adversarial Fashion Makes a Statement on AI Panopticon",
+          "title_original": "Adversarial Fashion Makes a Statement on AI Panopticon",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://spectrum.ieee.org/adversarial-fashion",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-14T14:04:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "spectrum.ieee.org"
+      ],
+      "items": [
+        {
+          "id": "bc46c278cab6ccd16e1b62261e462b0c11d69ab3",
+          "title": "对抗式时尚对AI全景监视体系发出强烈呼吁",
+          "title_zh": "对抗式时尚对AI全景监视体系发出强烈呼吁",
+          "title_en": null,
+          "title_original": "对抗式时尚对AI全景监视体系发出强烈呼吁",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://spectrum.ieee.org/adversarial-fashion",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-15T05:27:28.301000Z"
+        },
+        {
+          "id": "3ecdbf3d2ceb09c097608445c33aa3818aa5c9fd",
+          "title": "对抗式时尚对AI全景监视体系发出强烈呼吁 / Adversarial Fashion Makes a Statement on AI Panopticon",
+          "title_zh": "对抗式时尚对AI全景监视体系发出强烈呼吁",
+          "title_en": "Adversarial Fashion Makes a Statement on AI Panopticon",
+          "title_original": "Adversarial Fashion Makes a Statement on AI Panopticon",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://spectrum.ieee.org/adversarial-fashion",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-14T14:04:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9678,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-14T14:04:53Z",
+      "latest_at": "2026-09-15T05:27:28.301000Z",
+      "primary_item": {
+        "id": "bc46c278cab6ccd16e1b62261e462b0c11d69ab3",
+        "title": "对抗式时尚对AI全景监视体系发出强烈呼吁",
+        "title_zh": "对抗式时尚对AI全景监视体系发出强烈呼吁",
+        "title_en": null,
+        "title_original": "对抗式时尚对AI全景监视体系发出强烈呼吁",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://spectrum.ieee.org/adversarial-fashion",
+        "source": "spectrum.ieee.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-15T08:22:01.176910Z"
       }
     }
   ]
