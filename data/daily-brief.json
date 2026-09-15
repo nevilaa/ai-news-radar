@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-09-15T07:43:24.793938Z",
+  "generated_at": "2026-09-15T13:32:31.410462Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_b933e12f991b",
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
+          "title": "New insights from Google’s AI & Economy ATLAS",
+          "title_zh": null,
+          "title_en": "New insights from Google’s AI & Economy ATLAS",
+          "title_original": "New insights from Google’s AI & Economy ATLAS",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
+          "title": "New insights from Google’s AI & Economy ATLAS",
+          "title_zh": null,
+          "title_en": "New insights from Google’s AI & Economy ATLAS",
+          "title_original": "New insights from Google’s AI & Economy ATLAS",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8426,
+      "importance": 0.8426,
+      "importance_score": 0.8426,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9922,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T13:00:00Z",
+      "latest_at": "2026-09-15T13:00:00Z",
+      "primary_item": {
+        "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
+        "title": "New insights from Google’s AI & Economy ATLAS",
+        "title_zh": null,
+        "title_en": "New insights from Google’s AI & Economy ATLAS",
+        "title_original": "New insights from Google’s AI & Economy ATLAS",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-15T14:09:36.310065Z"
+      }
+    },
     {
       "story_id": "story_e31e702be431",
       "title": "Configure cost and quality in Copilot auto model selection",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8041,
+      "importance": 0.8041,
+      "importance_score": 0.8041,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7979,
+        "recency": 0.7336,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,426 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T08:22:01.176910Z"
-      }
-    },
-    {
-      "story_id": "story_9c9f79ea9dc9",
-      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4aba297759fbdbea54920e19cad219b1a7f81fff",
-          "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-          "title_zh": null,
-          "title_en": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-          "title_original": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-14T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "4aba297759fbdbea54920e19cad219b1a7f81fff",
-          "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-          "title_zh": null,
-          "title_en": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-          "title_original": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-14T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8322,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T19:00:00Z",
-      "latest_at": "2026-09-14T19:00:00Z",
-      "primary_item": {
-        "id": "4aba297759fbdbea54920e19cad219b1a7f81fff",
-        "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-        "title_zh": null,
-        "title_en": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-        "title_original": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-15T08:22:01.176910Z"
-      }
-    },
-    {
-      "story_id": "story_c8036e0526ae",
-      "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / What a time to be alive - rouge AI agents attack RubyGems.org",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-      "primary_url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5658e52b13a561a05d335a6d1989fc01e5952b91",
-          "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / What a time to be alive - rouge AI agents attack RubyGems.org",
-          "title_zh": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
-          "title_en": "What a time to be alive - rouge AI agents attack RubyGems.org",
-          "title_original": "What a time to be alive - rouge AI agents attack RubyGems.org",
-          "summary": "作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 .yardopts 的 --load 加载脚本，在安装或 RubyDoc.info 处理 YARD 文档时执行任意代码，且 Docker 容器有网络访问权限可执行爬取。",
-          "recommend_reason_zh": null,
-          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T12:40:57Z"
-        },
-        {
-          "id": "698d98f8d4f45be571189e4dc3f0cf2ace2ef8d0",
-          "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
-          "title_zh": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
-          "title_en": null,
-          "title_original": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-          "source": "tenderlovemaking.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T16:02:42.072000Z"
-        },
-        {
-          "id": "68796a2f63e9047de57b50a9f9e91ada11c0e245",
-          "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / OpenAI bots knew about the RubyGems caching vulnerability",
-          "title_zh": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
-          "title_en": "OpenAI bots knew about the RubyGems caching vulnerability",
-          "title_original": "OpenAI bots knew about the RubyGems caching vulnerability",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-14T12:40:57Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News：AI 热帖",
-        "tenderlovemaking.com"
-      ],
-      "items": [
-        {
-          "id": "5658e52b13a561a05d335a6d1989fc01e5952b91",
-          "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / What a time to be alive - rouge AI agents attack RubyGems.org",
-          "title_zh": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
-          "title_en": "What a time to be alive - rouge AI agents attack RubyGems.org",
-          "title_original": "What a time to be alive - rouge AI agents attack RubyGems.org",
-          "summary": "作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 .yardopts 的 --load 加载脚本，在安装或 RubyDoc.info 处理 YARD 文档时执行任意代码，且 Docker 容器有网络访问权限可执行爬取。",
-          "recommend_reason_zh": null,
-          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T12:40:57Z"
-        },
-        {
-          "id": "698d98f8d4f45be571189e4dc3f0cf2ace2ef8d0",
-          "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
-          "title_zh": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
-          "title_en": null,
-          "title_original": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-          "source": "tenderlovemaking.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T16:02:42.072000Z"
-        },
-        {
-          "id": "68796a2f63e9047de57b50a9f9e91ada11c0e245",
-          "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / OpenAI bots knew about the RubyGems caching vulnerability",
-          "title_zh": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
-          "title_en": "OpenAI bots knew about the RubyGems caching vulnerability",
-          "title_original": "OpenAI bots knew about the RubyGems caching vulnerability",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-14T12:40:57Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7596,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T12:40:57Z",
-      "latest_at": "2026-09-14T16:02:42.072000Z",
-      "primary_item": {
-        "id": "5658e52b13a561a05d335a6d1989fc01e5952b91",
-        "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / What a time to be alive - rouge AI agents attack RubyGems.org",
-        "title_zh": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
-        "title_en": "What a time to be alive - rouge AI agents attack RubyGems.org",
-        "title_original": "What a time to be alive - rouge AI agents attack RubyGems.org",
-        "summary": "作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 .yardopts 的 --load 加载脚本，在安装或 RubyDoc.info 处理 YARD 文档时执行任意代码，且 Docker 容器有网络访问权限可执行爬取。",
-        "recommend_reason_zh": null,
-        "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-15T08:22:01.176910Z"
-      }
-    },
-    {
-      "story_id": "story_40742267d400",
-      "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔 / Is Big Tech's AI slowdown a safety pact or a cartel？",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c131b6c7d6ce6ec0832bbeba34188b9ac619b54e",
-          "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔 / Is Big Tech's AI slowdown a safety pact or a cartel？",
-          "title_zh": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
-          "title_en": "Is Big Tech's AI slowdown a safety pact or a cartel？",
-          "title_original": "Is Big Tech's AI slowdown a safety pact or a cartel？",
-          "summary": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的\"卡特尔\"。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T22:59:41Z"
-        },
-        {
-          "id": "687b4792c4c1d93a6b6c562b4a8d2e761bb77179",
-          "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔 / Is Big Tech’s AI slowdown a safety pact or a cartel?",
-          "title_zh": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
-          "title_en": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-          "title_original": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-14T22:59:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c131b6c7d6ce6ec0832bbeba34188b9ac619b54e",
-          "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔 / Is Big Tech's AI slowdown a safety pact or a cartel？",
-          "title_zh": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
-          "title_en": "Is Big Tech's AI slowdown a safety pact or a cartel？",
-          "title_original": "Is Big Tech's AI slowdown a safety pact or a cartel？",
-          "summary": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的\"卡特尔\"。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T22:59:41Z"
-        },
-        {
-          "id": "687b4792c4c1d93a6b6c562b4a8d2e761bb77179",
-          "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔 / Is Big Tech’s AI slowdown a safety pact or a cartel?",
-          "title_zh": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
-          "title_en": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-          "title_original": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-14T22:59:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8816,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T22:59:41Z",
-      "latest_at": "2026-09-14T22:59:41Z",
-      "primary_item": {
-        "id": "c131b6c7d6ce6ec0832bbeba34188b9ac619b54e",
-        "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔 / Is Big Tech's AI slowdown a safety pact or a cartel？",
-        "title_zh": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
-        "title_en": "Is Big Tech's AI slowdown a safety pact or a cartel？",
-        "title_original": "Is Big Tech's AI slowdown a safety pact or a cartel？",
-        "summary": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的\"卡特尔\"。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-15T08:22:01.176910Z"
-      }
-    },
-    {
-      "story_id": "story_6d1f643d12b4",
-      "title": "DevFest is back",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
-          "title": "DevFest is back",
-          "title_zh": null,
-          "title_en": "DevFest is back",
-          "title_original": "DevFest is back",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-14T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
-          "title": "DevFest is back",
-          "title_zh": null,
-          "title_en": "DevFest is back",
-          "title_original": "DevFest is back",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-14T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8074,
-      "importance": 0.8074,
-      "importance_score": 0.8074,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7969,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T16:00:00Z",
-      "latest_at": "2026-09-14T16:00:00Z",
-      "primary_item": {
-        "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
-        "title": "DevFest is back",
-        "title_zh": null,
-        "title_en": "DevFest is back",
-        "title_original": "DevFest is back",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-15T08:22:01.176910Z"
+        "scored_at": "2026-09-15T14:09:36.310065Z"
       }
     },
     {
@@ -608,15 +272,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8044,
-      "importance": 0.8044,
-      "importance_score": 0.8044,
+      "score": 0.7922,
+      "importance": 0.7922,
+      "importance_score": 0.7922,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8435,
+        "recency": 0.7755,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -643,30 +307,389 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T08:22:01.176910Z"
+        "scored_at": "2026-09-15T14:09:36.310065Z"
       }
     },
     {
-      "story_id": "story_c447b2fec530",
-      "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
-      "url": "https://www.aibase.com/news/31057",
-      "primary_url": "https://www.aibase.com/news/31057",
+      "story_id": "story_40742267d400",
+      "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔 / Is Big Tech's AI slowdown a safety pact or a cartel？",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c131b6c7d6ce6ec0832bbeba34188b9ac619b54e",
+          "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔 / Is Big Tech's AI slowdown a safety pact or a cartel？",
+          "title_zh": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
+          "title_en": "Is Big Tech's AI slowdown a safety pact or a cartel？",
+          "title_original": "Is Big Tech's AI slowdown a safety pact or a cartel？",
+          "summary": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的\"卡特尔\"。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T22:59:41Z"
+        },
+        {
+          "id": "687b4792c4c1d93a6b6c562b4a8d2e761bb77179",
+          "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔 / Is Big Tech’s AI slowdown a safety pact or a cartel?",
+          "title_zh": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
+          "title_en": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+          "title_original": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-14T22:59:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c131b6c7d6ce6ec0832bbeba34188b9ac619b54e",
+          "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔 / Is Big Tech's AI slowdown a safety pact or a cartel？",
+          "title_zh": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
+          "title_en": "Is Big Tech's AI slowdown a safety pact or a cartel？",
+          "title_original": "Is Big Tech's AI slowdown a safety pact or a cartel？",
+          "summary": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的\"卡特尔\"。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T22:59:41Z"
+        },
+        {
+          "id": "687b4792c4c1d93a6b6c562b4a8d2e761bb77179",
+          "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔 / Is Big Tech’s AI slowdown a safety pact or a cartel?",
+          "title_zh": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
+          "title_en": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+          "title_original": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-14T22:59:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7915,
+      "importance": 0.7915,
+      "importance_score": 0.7915,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8105,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T22:59:41Z",
+      "latest_at": "2026-09-14T22:59:41Z",
+      "primary_item": {
+        "id": "c131b6c7d6ce6ec0832bbeba34188b9ac619b54e",
+        "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔 / Is Big Tech's AI slowdown a safety pact or a cartel？",
+        "title_zh": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
+        "title_en": "Is Big Tech's AI slowdown a safety pact or a cartel？",
+        "title_original": "Is Big Tech's AI slowdown a safety pact or a cartel？",
+        "summary": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的\"卡特尔\"。",
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-15T14:09:36.310065Z"
+      }
+    },
+    {
+      "story_id": "story_76c680c2d727",
+      "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+      "url": "https://www.ithome.com/1/002/750.htm",
+      "primary_url": "https://www.ithome.com/1/002/750.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b3624dd22f5980553430ff5659a1f82487a46b32",
+          "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+          "title_zh": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+          "title_en": null,
+          "title_original": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+          "summary": "404 Media 披露 OpenAI 内部代号为莉莉计划（Project Lily）的项目，由时薪超 50 美元的提示词审核员查看匿名化后的真实用户聊天记录，评判回复是否切题、是否存在 AI 式话术和谄媚口吻。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/002/750.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T11:48:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b3624dd22f5980553430ff5659a1f82487a46b32",
+          "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+          "title_zh": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+          "title_en": null,
+          "title_original": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+          "summary": "404 Media 披露 OpenAI 内部代号为莉莉计划（Project Lily）的项目，由时薪超 50 美元的提示词审核员查看匿名化后的真实用户聊天记录，评判回复是否切题、是否存在 AI 式话术和谄媚口吻。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/002/750.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T11:48:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7751,
+      "importance": 0.7751,
+      "importance_score": 0.7751,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9752,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T11:48:13Z",
+      "latest_at": "2026-09-15T11:48:13Z",
+      "primary_item": {
+        "id": "b3624dd22f5980553430ff5659a1f82487a46b32",
+        "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+        "title_zh": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+        "title_en": null,
+        "title_original": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+        "summary": "404 Media 披露 OpenAI 内部代号为莉莉计划（Project Lily）的项目，由时薪超 50 美元的提示词审核员查看匿名化后的真实用户聊天记录，评判回复是否切题、是否存在 AI 式话术和谄媚口吻。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/002/750.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-15T14:09:36.310065Z"
+      }
+    },
+    {
+      "story_id": "story_9c9f79ea9dc9",
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4aba297759fbdbea54920e19cad219b1a7f81fff",
+          "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+          "title_zh": null,
+          "title_en": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+          "title_original": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "4aba297759fbdbea54920e19cad219b1a7f81fff",
+          "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+          "title_zh": null,
+          "title_en": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+          "title_original": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8017,
+      "importance": 0.8017,
+      "importance_score": 0.8017,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7651,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T19:00:00Z",
+      "latest_at": "2026-09-14T19:00:00Z",
+      "primary_item": {
+        "id": "4aba297759fbdbea54920e19cad219b1a7f81fff",
+        "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+        "title_zh": null,
+        "title_en": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+        "title_original": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-15T14:09:36.310065Z"
+      }
+    },
+    {
+      "story_id": "story_37bd0d5d25f4",
+      "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+      "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+      "primary_url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c4fa90d0eabe5c4be02463c403caac6a07f3631f",
+          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+          "title_zh": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
+          "title_en": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+          "title_original": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+          "summary": "Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T09:04:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c4fa90d0eabe5c4be02463c403caac6a07f3631f",
+          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+          "title_zh": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
+          "title_en": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+          "title_original": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+          "summary": "Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T09:04:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7714,
+      "importance": 0.7714,
+      "importance_score": 0.7714,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9376,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T09:04:36Z",
+      "latest_at": "2026-09-15T09:04:36Z",
+      "primary_item": {
+        "id": "c4fa90d0eabe5c4be02463c403caac6a07f3631f",
+        "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+        "title_zh": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
+        "title_en": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+        "title_original": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+        "summary": "Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-15T14:09:36.310065Z"
+      }
+    },
+    {
+      "story_id": "story_997717c36cc4",
+      "title": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
+      "url": "https://www.aibase.com/news/31065",
+      "primary_url": "https://www.aibase.com/news/31065",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c9f956e2abc3242c93e86adc5d6a856e77cb2c55",
-          "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
-          "title_zh": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+          "id": "c803d253a8fe41c26511f20c69a6eceb007340be",
+          "title": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
+          "title_zh": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
           "title_en": null,
-          "title_original": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+          "title_original": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31057",
+          "url": "https://www.aibase.com/news/31065",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T07:43:24.793938Z"
+          "published_at": "2026-09-15T13:32:31.410462Z"
         }
       ],
       "source_count": 1,
@@ -675,18 +698,18 @@
       ],
       "items": [
         {
-          "id": "c9f956e2abc3242c93e86adc5d6a856e77cb2c55",
-          "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
-          "title_zh": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+          "id": "c803d253a8fe41c26511f20c69a6eceb007340be",
+          "title": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
+          "title_zh": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
           "title_en": null,
-          "title_original": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+          "title_original": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31057",
+          "url": "https://www.aibase.com/news/31065",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T07:43:24.793938Z"
+          "published_at": "2026-09-15T13:32:31.410462Z"
         }
       ],
       "item_count": 1,
@@ -707,17 +730,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T07:43:24.793938Z",
-      "latest_at": "2026-09-15T07:43:24.793938Z",
+      "earliest_at": "2026-09-15T13:32:31.410462Z",
+      "latest_at": "2026-09-15T13:32:31.410462Z",
       "primary_item": {
-        "id": "c9f956e2abc3242c93e86adc5d6a856e77cb2c55",
-        "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
-        "title_zh": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+        "id": "c803d253a8fe41c26511f20c69a6eceb007340be",
+        "title": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
+        "title_zh": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
         "title_en": null,
-        "title_original": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+        "title_original": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31057",
+        "url": "https://www.aibase.com/news/31065",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -725,7 +748,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T08:22:01.176910Z"
+        "scored_at": "2026-09-15T14:09:36.310065Z"
       }
     },
     {
@@ -773,21 +796,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9024,
+        "recency": 0.8297,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-15T00:36:35.301000Z",
       "latest_at": "2026-09-15T00:36:35.301000Z",
@@ -807,88 +829,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T08:22:01.176910Z"
+        "scored_at": "2026-09-15T14:09:36.310065Z"
       }
     },
     {
-      "story_id": "story_a5cc1961a5e8",
-      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-      "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-      "primary_url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_f571d5a44852",
+      "title": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+      "url": "https://www.aibase.com/news/31062",
+      "primary_url": "https://www.aibase.com/news/31062",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
-          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-          "title_zh": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
-          "title_en": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-          "title_original": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-          "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
+          "id": "1c3b3aff23daa961c16c1e3f481275f9b892f51f",
+          "title": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+          "title_zh": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+          "title_en": null,
+          "title_original": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T15:46:45Z"
+          "url": "https://www.aibase.com/news/31062",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T13:32:31.410462Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
-          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-          "title_zh": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
-          "title_en": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-          "title_original": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-          "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
+          "id": "1c3b3aff23daa961c16c1e3f481275f9b892f51f",
+          "title": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+          "title_zh": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+          "title_en": null,
+          "title_original": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T15:46:45Z"
+          "url": "https://www.aibase.com/news/31062",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T13:32:31.410462Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7943,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-14T15:46:45Z",
-      "latest_at": "2026-09-14T15:46:45Z",
+      "earliest_at": "2026-09-15T13:32:31.410462Z",
+      "latest_at": "2026-09-15T13:32:31.410462Z",
       "primary_item": {
-        "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
-        "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-        "title_zh": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
-        "title_en": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-        "title_original": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-        "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
+        "id": "1c3b3aff23daa961c16c1e3f481275f9b892f51f",
+        "title": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+        "title_zh": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+        "title_en": null,
+        "title_original": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/31062",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T08:22:01.176910Z"
+        "scored_at": "2026-09-15T14:09:36.310065Z"
       }
     },
     {
@@ -936,15 +959,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8104,
+        "recency": 0.745,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -969,7 +992,252 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T08:22:01.176910Z"
+        "scored_at": "2026-09-15T14:09:36.310065Z"
+      }
+    },
+    {
+      "story_id": "story_6d1f643d12b4",
+      "title": "DevFest is back",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
+          "title": "DevFest is back",
+          "title_zh": null,
+          "title_en": "DevFest is back",
+          "title_original": "DevFest is back",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
+          "title": "DevFest is back",
+          "title_zh": null,
+          "title_en": "DevFest is back",
+          "title_original": "DevFest is back",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7959,
+      "importance": 0.7959,
+      "importance_score": 0.7959,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7327,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T16:00:00Z",
+      "latest_at": "2026-09-14T16:00:00Z",
+      "primary_item": {
+        "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
+        "title": "DevFest is back",
+        "title_zh": null,
+        "title_en": "DevFest is back",
+        "title_original": "DevFest is back",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-15T14:09:36.310065Z"
+      }
+    },
+    {
+      "story_id": "story_6c028e31f14b",
+      "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522",
+      "source": "公众号：阶跃星辰（Step）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b69041dae5191a7a0dc28f029074ec6d089dda22",
+          "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+          "title_zh": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+          "title_en": null,
+          "title_original": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+          "summary": "阶跃星辰发布 StepAudio 3 系列，包含 Realtime、ASR、TTS、Gen 和 Music 五款模型，已在阶跃星辰开放平台上线。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522",
+          "source": "公众号：阶跃星辰（Step）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T07:29:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：阶跃星辰（Step）"
+      ],
+      "items": [
+        {
+          "id": "b69041dae5191a7a0dc28f029074ec6d089dda22",
+          "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+          "title_zh": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+          "title_en": null,
+          "title_original": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+          "summary": "阶跃星辰发布 StepAudio 3 系列，包含 Realtime、ASR、TTS、Gen 和 Music 五款模型，已在阶跃星辰开放平台上线。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522",
+          "source": "公众号：阶跃星辰（Step）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T07:29:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7316,
+      "importance": 0.7316,
+      "importance_score": 0.7316,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9164,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-15T07:29:56Z",
+      "latest_at": "2026-09-15T07:29:56Z",
+      "primary_item": {
+        "id": "b69041dae5191a7a0dc28f029074ec6d089dda22",
+        "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+        "title_zh": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+        "title_en": null,
+        "title_original": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+        "summary": "阶跃星辰发布 StepAudio 3 系列，包含 Realtime、ASR、TTS、Gen 和 Music 五款模型，已在阶跃星辰开放平台上线。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522",
+        "source": "公众号：阶跃星辰（Step）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-15T14:09:36.310065Z"
+      }
+    },
+    {
+      "story_id": "story_8aad15377fca",
+      "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能 / 1Password's AI patching benchmark is misleading",
+      "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+      "primary_url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+      "source": "Trail of Bits：AI安全研究",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c2eca0fc661e7a16f7621f8b68754054535ce914",
+          "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能 / 1Password's AI patching benchmark is misleading",
+          "title_zh": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
+          "title_en": "1Password's AI patching benchmark is misleading",
+          "title_original": "1Password's AI patching benchmark is misleading",
+          "summary": "Trail of Bits 发文批评 1Password 8月6日发布的 FLAWED 报告，称其 26% 的 AI 干净修复率受四项实验设计选择影响而失真，包括刻意指示智能体应用错误修复的提示词占 22% 数据、36% 的试验禁止编译测试，以及不同推理档位设置。",
+          "recommend_reason_zh": null,
+          "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+          "source": "Trail of Bits：AI安全研究",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T11:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Trail of Bits：AI安全研究"
+      ],
+      "items": [
+        {
+          "id": "c2eca0fc661e7a16f7621f8b68754054535ce914",
+          "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能 / 1Password's AI patching benchmark is misleading",
+          "title_zh": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
+          "title_en": "1Password's AI patching benchmark is misleading",
+          "title_original": "1Password's AI patching benchmark is misleading",
+          "summary": "Trail of Bits 发文批评 1Password 8月6日发布的 FLAWED 报告，称其 26% 的 AI 干净修复率受四项实验设计选择影响而失真，包括刻意指示智能体应用错误修复的提示词占 22% 数据、36% 的试验禁止编译测试，以及不同推理档位设置。",
+          "recommend_reason_zh": null,
+          "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+          "source": "Trail of Bits：AI安全研究",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7251,
+      "importance": 0.7251,
+      "importance_score": 0.7251,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.964,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-15T11:00:00Z",
+      "latest_at": "2026-09-15T11:00:00Z",
+      "primary_item": {
+        "id": "c2eca0fc661e7a16f7621f8b68754054535ce914",
+        "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能 / 1Password's AI patching benchmark is misleading",
+        "title_zh": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
+        "title_en": "1Password's AI patching benchmark is misleading",
+        "title_original": "1Password's AI patching benchmark is misleading",
+        "summary": "Trail of Bits 发文批评 1Password 8月6日发布的 FLAWED 报告，称其 26% 的 AI 干净修复率受四项实验设计选择影响而失真，包括刻意指示智能体应用错误修复的提示词占 22% 数据、36% 的试验禁止编译测试，以及不同推理档位设置。",
+        "recommend_reason_zh": null,
+        "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+        "source": "Trail of Bits：AI安全研究",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-15T14:09:36.310065Z"
       }
     },
     {
@@ -1017,15 +1285,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
+      "score": 0.7247,
+      "importance": 0.7247,
+      "importance_score": 0.7247,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9372,
+        "recency": 0.8617,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1050,30 +1318,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T08:22:01.176910Z"
+        "scored_at": "2026-09-15T14:09:36.310065Z"
       }
     },
     {
-      "story_id": "story_e73a75567feb",
-      "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
-      "url": "https://www.aibase.com/news/31056",
-      "primary_url": "https://www.aibase.com/news/31056",
+      "story_id": "story_04a7d5939199",
+      "title": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+      "url": "https://www.aibase.com/news/31063",
+      "primary_url": "https://www.aibase.com/news/31063",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2a4cac020e9d346db4da13e22b2b3b480bebd26d",
-          "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
-          "title_zh": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+          "id": "6d09c8b87bc437b1e01dc89bbfcfbc9dbbd1403a",
+          "title": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+          "title_zh": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
           "title_en": null,
-          "title_original": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+          "title_original": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31056",
+          "url": "https://www.aibase.com/news/31063",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T07:43:24.793938Z"
+          "published_at": "2026-09-15T13:32:31.410462Z"
         }
       ],
       "source_count": 1,
@@ -1082,18 +1350,18 @@
       ],
       "items": [
         {
-          "id": "2a4cac020e9d346db4da13e22b2b3b480bebd26d",
-          "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
-          "title_zh": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+          "id": "6d09c8b87bc437b1e01dc89bbfcfbc9dbbd1403a",
+          "title": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+          "title_zh": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
           "title_en": null,
-          "title_original": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+          "title_original": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31056",
+          "url": "https://www.aibase.com/news/31063",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T07:43:24.793938Z"
+          "published_at": "2026-09-15T13:32:31.410462Z"
         }
       ],
       "item_count": 1,
@@ -1114,17 +1382,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T07:43:24.793938Z",
-      "latest_at": "2026-09-15T07:43:24.793938Z",
+      "earliest_at": "2026-09-15T13:32:31.410462Z",
+      "latest_at": "2026-09-15T13:32:31.410462Z",
       "primary_item": {
-        "id": "2a4cac020e9d346db4da13e22b2b3b480bebd26d",
-        "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
-        "title_zh": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+        "id": "6d09c8b87bc437b1e01dc89bbfcfbc9dbbd1403a",
+        "title": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+        "title_zh": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
         "title_en": null,
-        "title_original": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+        "title_original": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31056",
+        "url": "https://www.aibase.com/news/31063",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1132,30 +1400,111 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T08:22:01.176910Z"
+        "scored_at": "2026-09-15T14:09:36.310065Z"
       }
     },
     {
-      "story_id": "story_021c8eb04323",
-      "title": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
-      "url": "https://www.aibase.com/news/31061",
-      "primary_url": "https://www.aibase.com/news/31061",
+      "story_id": "story_a5cc1961a5e8",
+      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+      "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+      "primary_url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
+          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+          "title_zh": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+          "title_en": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+          "title_original": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+          "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T15:46:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
+          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+          "title_zh": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+          "title_en": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+          "title_original": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+          "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T15:46:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7303,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-14T15:46:45Z",
+      "latest_at": "2026-09-14T15:46:45Z",
+      "primary_item": {
+        "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
+        "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+        "title_zh": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+        "title_en": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+        "title_original": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+        "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-15T14:09:36.310065Z"
+      }
+    },
+    {
+      "story_id": "story_caabc17c9180",
+      "title": "阶跃星辰王炸发布 StepAudio 3 系列语音大模型，强势斩获多项全球第一！",
+      "url": "https://www.aibase.com/news/31066",
+      "primary_url": "https://www.aibase.com/news/31066",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e674a9ca19a77f4e5598e825b75b4a664ba165f3",
-          "title": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
-          "title_zh": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
+          "id": "a671926a058b92ae2ea45761e75092a928cb2a89",
+          "title": "阶跃星辰王炸发布 StepAudio 3 系列语音大模型，强势斩获多项全球第一！",
+          "title_zh": "阶跃星辰王炸发布 StepAudio 3 系列语音大模型，强势斩获多项全球第一！",
           "title_en": null,
-          "title_original": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
+          "title_original": "阶跃星辰王炸发布 StepAudio 3 系列语音大模型，强势斩获多项全球第一！",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31061",
+          "url": "https://www.aibase.com/news/31066",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T07:43:24.793938Z"
+          "published_at": "2026-09-15T13:32:31.410462Z"
         }
       ],
       "source_count": 1,
@@ -1164,18 +1513,18 @@
       ],
       "items": [
         {
-          "id": "e674a9ca19a77f4e5598e825b75b4a664ba165f3",
-          "title": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
-          "title_zh": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
+          "id": "a671926a058b92ae2ea45761e75092a928cb2a89",
+          "title": "阶跃星辰王炸发布 StepAudio 3 系列语音大模型，强势斩获多项全球第一！",
+          "title_zh": "阶跃星辰王炸发布 StepAudio 3 系列语音大模型，强势斩获多项全球第一！",
           "title_en": null,
-          "title_original": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
+          "title_original": "阶跃星辰王炸发布 StepAudio 3 系列语音大模型，强势斩获多项全球第一！",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31061",
+          "url": "https://www.aibase.com/news/31066",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T07:43:24.793938Z"
+          "published_at": "2026-09-15T13:32:31.410462Z"
         }
       ],
       "item_count": 1,
@@ -1196,17 +1545,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T07:43:24.793938Z",
-      "latest_at": "2026-09-15T07:43:24.793938Z",
+      "earliest_at": "2026-09-15T13:32:31.410462Z",
+      "latest_at": "2026-09-15T13:32:31.410462Z",
       "primary_item": {
-        "id": "e674a9ca19a77f4e5598e825b75b4a664ba165f3",
-        "title": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
-        "title_zh": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
+        "id": "a671926a058b92ae2ea45761e75092a928cb2a89",
+        "title": "阶跃星辰王炸发布 StepAudio 3 系列语音大模型，强势斩获多项全球第一！",
+        "title_zh": "阶跃星辰王炸发布 StepAudio 3 系列语音大模型，强势斩获多项全球第一！",
         "title_en": null,
-        "title_original": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
+        "title_original": "阶跃星辰王炸发布 StepAudio 3 系列语音大模型，强势斩获多项全球第一！",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31061",
+        "url": "https://www.aibase.com/news/31066",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1214,26 +1563,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T08:22:01.176910Z"
+        "scored_at": "2026-09-15T14:09:36.310065Z"
       }
     },
     {
-      "story_id": "story_7a99be4187e4",
-      "title": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
-      "url": "https://www.aibase.com/news/31055",
-      "primary_url": "https://www.aibase.com/news/31055",
+      "story_id": "story_c447b2fec530",
+      "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+      "url": "https://www.aibase.com/news/31057",
+      "primary_url": "https://www.aibase.com/news/31057",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1035052f93b799930c626d7f07633485feed5d4d",
-          "title": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
-          "title_zh": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+          "id": "c9f956e2abc3242c93e86adc5d6a856e77cb2c55",
+          "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+          "title_zh": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
           "title_en": null,
-          "title_original": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+          "title_original": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31055",
+          "url": "https://www.aibase.com/news/31057",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1246,14 +1595,14 @@
       ],
       "items": [
         {
-          "id": "1035052f93b799930c626d7f07633485feed5d4d",
-          "title": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
-          "title_zh": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+          "id": "c9f956e2abc3242c93e86adc5d6a856e77cb2c55",
+          "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+          "title_zh": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
           "title_en": null,
-          "title_original": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+          "title_original": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31055",
+          "url": "https://www.aibase.com/news/31057",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1262,15 +1611,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9194,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1281,14 +1630,14 @@
       "earliest_at": "2026-09-15T07:43:24.793938Z",
       "latest_at": "2026-09-15T07:43:24.793938Z",
       "primary_item": {
-        "id": "1035052f93b799930c626d7f07633485feed5d4d",
-        "title": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
-        "title_zh": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+        "id": "c9f956e2abc3242c93e86adc5d6a856e77cb2c55",
+        "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+        "title_zh": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
         "title_en": null,
-        "title_original": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+        "title_original": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31055",
+        "url": "https://www.aibase.com/news/31057",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1296,555 +1645,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T08:22:01.176910Z"
+        "scored_at": "2026-09-15T14:09:36.310065Z"
       }
     },
     {
-      "story_id": "story_749cd19070dd",
-      "title": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
-      "url": "https://www.aibase.com/news/31060",
-      "primary_url": "https://www.aibase.com/news/31060",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_f21ffcc883e9",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+      "primary_url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "b44e753979970f394c7664a09621b5c0055d84d3",
-          "title": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
-          "title_zh": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
-          "title_en": null,
-          "title_original": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
+          "id": "1c30e295b81bcf06cecf2754c3597c42727645d7",
+          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+          "title_zh": null,
+          "title_en": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+          "title_original": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31060",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T07:43:24.793938Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b44e753979970f394c7664a09621b5c0055d84d3",
-          "title": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
-          "title_zh": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
-          "title_en": null,
-          "title_original": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31060",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T07:43:24.793938Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T07:43:24.793938Z",
-      "latest_at": "2026-09-15T07:43:24.793938Z",
-      "primary_item": {
-        "id": "b44e753979970f394c7664a09621b5c0055d84d3",
-        "title": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
-        "title_zh": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
-        "title_en": null,
-        "title_original": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31060",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-15T08:22:01.176910Z"
-      }
-    },
-    {
-      "story_id": "story_4771199a8ed2",
-      "title": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-      "url": "https://www.aibase.com/news/31058",
-      "primary_url": "https://www.aibase.com/news/31058",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ddd1a5705b4b6d85b6a4b75f801ab95387084a47",
-          "title": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-          "title_zh": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-          "title_en": null,
-          "title_original": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31058",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T07:43:24.793938Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ddd1a5705b4b6d85b6a4b75f801ab95387084a47",
-          "title": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-          "title_zh": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-          "title_en": null,
-          "title_original": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31058",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T07:43:24.793938Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T07:43:24.793938Z",
-      "latest_at": "2026-09-15T07:43:24.793938Z",
-      "primary_item": {
-        "id": "ddd1a5705b4b6d85b6a4b75f801ab95387084a47",
-        "title": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-        "title_zh": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-        "title_en": null,
-        "title_original": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31058",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-15T08:22:01.176910Z"
-      }
-    },
-    {
-      "story_id": "story_6b48114331e8",
-      "title": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
-      "url": "https://www.aibase.com/news/31059",
-      "primary_url": "https://www.aibase.com/news/31059",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "69873021dcb01777944fd2372744ec790fd80430",
-          "title": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
-          "title_zh": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
-          "title_en": null,
-          "title_original": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31059",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T07:43:24.793938Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "69873021dcb01777944fd2372744ec790fd80430",
-          "title": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
-          "title_zh": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
-          "title_en": null,
-          "title_original": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31059",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T07:43:24.793938Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T07:43:24.793938Z",
-      "latest_at": "2026-09-15T07:43:24.793938Z",
-      "primary_item": {
-        "id": "69873021dcb01777944fd2372744ec790fd80430",
-        "title": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
-        "title_zh": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
-        "title_en": null,
-        "title_original": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31059",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-15T08:22:01.176910Z"
-      }
-    },
-    {
-      "story_id": "story_f468c617ea60",
-      "title": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
-      "url": "https://www.aibase.com/news/31052",
-      "primary_url": "https://www.aibase.com/news/31052",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b38f2d09da9edf15c046ec74279523cd034d3256",
-          "title": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
-          "title_zh": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
-          "title_en": null,
-          "title_original": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31052",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T04:54:07.314357Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b38f2d09da9edf15c046ec74279523cd034d3256",
-          "title": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
-          "title_zh": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
-          "title_en": null,
-          "title_original": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31052",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T04:54:07.314357Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9601,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T04:54:07.314357Z",
-      "latest_at": "2026-09-15T04:54:07.314357Z",
-      "primary_item": {
-        "id": "b38f2d09da9edf15c046ec74279523cd034d3256",
-        "title": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
-        "title_zh": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
-        "title_en": null,
-        "title_original": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31052",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-15T08:22:01.176910Z"
-      }
-    },
-    {
-      "story_id": "story_1a3c8d9c8435",
-      "title": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
-      "url": "https://www.effort.news/irregular",
-      "primary_url": "https://www.effort.news/irregular",
-      "source": "www.effort.news",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d8bf53e25e83a3f25e6e74a0af9d999d798b7e45",
-          "title": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
-          "title_zh": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
-          "title_en": null,
-          "title_original": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.effort.news/irregular",
-          "source": "www.effort.news",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-15T06:29:10.367000Z"
+          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-14T20:44:14Z"
         },
         {
-          "id": "0e3c54916fca867f6668b37404019df42b2521e1",
-          "title": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为 / A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-          "title_zh": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
-          "title_en": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-          "title_original": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+          "id": "a28b7aa4381f88cbabfd00e4781c5329006f2a03",
+          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+          "title_zh": null,
+          "title_en": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+          "title_original": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.effort.news/irregular",
+          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-14T21:15:01Z"
+          "published_at": "2026-09-15T12:01:31Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News",
-        "www.effort.news"
+        "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "d8bf53e25e83a3f25e6e74a0af9d999d798b7e45",
-          "title": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
-          "title_zh": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
-          "title_en": null,
-          "title_original": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
+          "id": "1c30e295b81bcf06cecf2754c3597c42727645d7",
+          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+          "title_zh": null,
+          "title_en": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+          "title_original": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.effort.news/irregular",
-          "source": "www.effort.news",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-15T06:29:10.367000Z"
+          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-14T20:44:14Z"
         },
         {
-          "id": "0e3c54916fca867f6668b37404019df42b2521e1",
-          "title": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为 / A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-          "title_zh": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
-          "title_en": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-          "title_original": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+          "id": "a28b7aa4381f88cbabfd00e4781c5329006f2a03",
+          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+          "title_zh": null,
+          "title_en": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+          "title_original": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.effort.news/irregular",
+          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-14T21:15:01Z"
+          "published_at": "2026-09-15T12:01:31Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.6225,
+      "importance": 0.6225,
+      "importance_score": 0.6225,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9823,
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.7845,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-14T21:15:01Z",
-      "latest_at": "2026-09-15T06:29:10.367000Z",
+      "earliest_at": "2026-09-14T20:44:14Z",
+      "latest_at": "2026-09-15T12:01:31Z",
       "primary_item": {
-        "id": "d8bf53e25e83a3f25e6e74a0af9d999d798b7e45",
-        "title": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
-        "title_zh": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
-        "title_en": null,
-        "title_original": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
+        "id": "1c30e295b81bcf06cecf2754c3597c42727645d7",
+        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+        "title_zh": null,
+        "title_en": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+        "title_original": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.effort.news/irregular",
-        "source": "www.effort.news",
-        "source_name": "Buzzing"
+        "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T08:22:01.176910Z"
-      }
-    },
-    {
-      "story_id": "story_0dd71b11ba1c",
-      "title": "对抗式时尚对AI全景监视体系发出强烈呼吁",
-      "url": "https://spectrum.ieee.org/adversarial-fashion",
-      "primary_url": "https://spectrum.ieee.org/adversarial-fashion",
-      "source": "spectrum.ieee.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bc46c278cab6ccd16e1b62261e462b0c11d69ab3",
-          "title": "对抗式时尚对AI全景监视体系发出强烈呼吁",
-          "title_zh": "对抗式时尚对AI全景监视体系发出强烈呼吁",
-          "title_en": null,
-          "title_original": "对抗式时尚对AI全景监视体系发出强烈呼吁",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://spectrum.ieee.org/adversarial-fashion",
-          "source": "spectrum.ieee.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-15T05:27:28.301000Z"
-        },
-        {
-          "id": "3ecdbf3d2ceb09c097608445c33aa3818aa5c9fd",
-          "title": "对抗式时尚对AI全景监视体系发出强烈呼吁 / Adversarial Fashion Makes a Statement on AI Panopticon",
-          "title_zh": "对抗式时尚对AI全景监视体系发出强烈呼吁",
-          "title_en": "Adversarial Fashion Makes a Statement on AI Panopticon",
-          "title_original": "Adversarial Fashion Makes a Statement on AI Panopticon",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://spectrum.ieee.org/adversarial-fashion",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-14T14:04:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "spectrum.ieee.org"
-      ],
-      "items": [
-        {
-          "id": "bc46c278cab6ccd16e1b62261e462b0c11d69ab3",
-          "title": "对抗式时尚对AI全景监视体系发出强烈呼吁",
-          "title_zh": "对抗式时尚对AI全景监视体系发出强烈呼吁",
-          "title_en": null,
-          "title_original": "对抗式时尚对AI全景监视体系发出强烈呼吁",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://spectrum.ieee.org/adversarial-fashion",
-          "source": "spectrum.ieee.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-15T05:27:28.301000Z"
-        },
-        {
-          "id": "3ecdbf3d2ceb09c097608445c33aa3818aa5c9fd",
-          "title": "对抗式时尚对AI全景监视体系发出强烈呼吁 / Adversarial Fashion Makes a Statement on AI Panopticon",
-          "title_zh": "对抗式时尚对AI全景监视体系发出强烈呼吁",
-          "title_en": "Adversarial Fashion Makes a Statement on AI Panopticon",
-          "title_original": "Adversarial Fashion Makes a Statement on AI Panopticon",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://spectrum.ieee.org/adversarial-fashion",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-14T14:04:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9678,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-14T14:04:53Z",
-      "latest_at": "2026-09-15T05:27:28.301000Z",
-      "primary_item": {
-        "id": "bc46c278cab6ccd16e1b62261e462b0c11d69ab3",
-        "title": "对抗式时尚对AI全景监视体系发出强烈呼吁",
-        "title_zh": "对抗式时尚对AI全景监视体系发出强烈呼吁",
-        "title_en": null,
-        "title_original": "对抗式时尚对AI全景监视体系发出强烈呼吁",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://spectrum.ieee.org/adversarial-fashion",
-        "source": "spectrum.ieee.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-15T08:22:01.176910Z"
+        "scored_at": "2026-09-15T14:09:36.310065Z"
       }
     }
   ]
