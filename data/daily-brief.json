@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T16:04:36.801148Z",
+  "generated_at": "2026-09-20T16:05:59.108853Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -143,7 +143,7 @@
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7925,
+        "recency": 0.7922,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:05:19.143693Z"
+        "scored_at": "2026-09-20T16:06:45.784363Z"
       }
     },
     {
@@ -284,7 +284,7 @@
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9428,
+        "recency": 0.9425,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -311,7 +311,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:05:19.143693Z"
+        "scored_at": "2026-09-20T16:06:45.784363Z"
       }
     },
     {
@@ -359,15 +359,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9354,
+        "recency": 0.9351,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -393,7 +393,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:05:19.143693Z"
+        "scored_at": "2026-09-20T16:06:45.784363Z"
       }
     },
     {
@@ -441,15 +441,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9687,
+        "recency": 0.9684,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -475,7 +475,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:05:19.143693Z"
+        "scored_at": "2026-09-20T16:06:45.784363Z"
       }
     },
     {
@@ -552,15 +552,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8161,
+        "recency": 0.8158,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -586,7 +586,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:05:19.143693Z"
+        "scored_at": "2026-09-20T16:06:45.784363Z"
       }
     },
     {
@@ -634,15 +634,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9354,
+        "recency": 0.9351,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -668,7 +668,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:05:19.143693Z"
+        "scored_at": "2026-09-20T16:06:45.784363Z"
       }
     },
     {
@@ -716,15 +716,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9354,
+        "recency": 0.9351,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -750,7 +750,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:05:19.143693Z"
+        "scored_at": "2026-09-20T16:06:45.784363Z"
       }
     },
     {
@@ -798,15 +798,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9354,
+        "recency": 0.9351,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -832,7 +832,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:05:19.143693Z"
+        "scored_at": "2026-09-20T16:06:45.784363Z"
       }
     },
     {
@@ -880,15 +880,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9354,
+        "recency": 0.9351,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -914,7 +914,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:05:19.143693Z"
+        "scored_at": "2026-09-20T16:06:45.784363Z"
       }
     },
     {
@@ -962,15 +962,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9354,
+        "recency": 0.9351,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -996,7 +996,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:05:19.143693Z"
+        "scored_at": "2026-09-20T16:06:45.784363Z"
       }
     },
     {
@@ -1044,15 +1044,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9354,
+        "recency": 0.9351,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1078,7 +1078,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:05:19.143693Z"
+        "scored_at": "2026-09-20T16:06:45.784363Z"
       }
     },
     {
@@ -1249,7 +1249,7 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.749,
+        "recency": 0.7487,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1274,7 +1274,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:05:19.143693Z"
+        "scored_at": "2026-09-20T16:06:45.784363Z"
       }
     },
     {
@@ -1388,7 +1388,7 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9951,
+        "recency": 0.9948,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1413,7 +1413,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:05:19.143693Z"
+        "scored_at": "2026-09-20T16:06:45.784363Z"
       }
     },
     {
@@ -1461,15 +1461,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9354,
+        "recency": 0.9351,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1495,7 +1495,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:05:19.143693Z"
+        "scored_at": "2026-09-20T16:06:45.784363Z"
       }
     },
     {
@@ -1521,7 +1521,7 @@
           "published_at": "2026-09-20T12:50:12.972000Z"
         },
         {
-          "id": "2c5b41cc956ce17a9646a349feb328767c4a55ec",
+          "id": "510bc5f41a64af0dcb1125f4de5b403c68eed0c3",
           "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
           "title_zh": "人工智能与“知识共享”的瓦解",
           "title_en": "AI and the Destruction of the Creative Commons",
@@ -1529,15 +1529,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-09-20T10:07:51Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "www.chesterwisniewski.com"
       ],
       "items": [
@@ -1556,7 +1556,7 @@
           "published_at": "2026-09-20T12:50:12.972000Z"
         },
         {
-          "id": "2c5b41cc956ce17a9646a349feb328767c4a55ec",
+          "id": "510bc5f41a64af0dcb1125f4de5b403c68eed0c3",
           "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
           "title_zh": "人工智能与“知识共享”的瓦解",
           "title_en": "AI and the Destruction of the Creative Commons",
@@ -1564,23 +1564,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-09-20T10:07:51Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5376,
-      "importance": 0.5376,
-      "importance_score": 0.5376,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9543,
+        "recency": 0.954,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1605,7 +1605,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:05:19.143693Z"
+        "scored_at": "2026-09-20T16:06:45.784363Z"
       }
     },
     {
@@ -1682,15 +1682,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5287,
-      "importance": 0.5287,
-      "importance_score": 0.5287,
+      "score": 0.5286,
+      "importance": 0.5286,
+      "importance_score": 0.5286,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9048,
+        "recency": 0.9045,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1715,7 +1715,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:05:19.143693Z"
+        "scored_at": "2026-09-20T16:06:45.784363Z"
       }
     },
     {
@@ -1763,15 +1763,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9354,
+        "recency": 0.9351,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1797,7 +1797,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:05:19.143693Z"
+        "scored_at": "2026-09-20T16:06:45.784363Z"
       }
     },
     {
@@ -1874,15 +1874,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5005,
-      "importance": 0.5005,
-      "importance_score": 0.5005,
+      "score": 0.5004,
+      "importance": 0.5004,
+      "importance_score": 0.5004,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7482,
+        "recency": 0.748,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1907,7 +1907,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:05:19.143693Z"
+        "scored_at": "2026-09-20T16:06:45.784363Z"
       }
     },
     {
@@ -1984,15 +1984,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
+      "score": 0.5278,
+      "importance": 0.5278,
+      "importance_score": 0.5278,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9004,
+        "recency": 0.9001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2017,7 +2017,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:05:19.143693Z"
+        "scored_at": "2026-09-20T16:06:45.784363Z"
       }
     },
     {
@@ -2065,15 +2065,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9354,
+        "recency": 0.9351,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2099,7 +2099,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:05:19.143693Z"
+        "scored_at": "2026-09-20T16:06:45.784363Z"
       }
     }
   ]
