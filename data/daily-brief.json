@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T11:30:22.300778Z",
+  "generated_at": "2026-09-20T16:04:36.801148Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.83,
-      "importance": 0.83,
-      "importance_score": 0.83,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8466,
+        "recency": 0.7925,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,148 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:31:22.487079Z"
+        "scored_at": "2026-09-20T16:05:19.143693Z"
+      }
+    },
+    {
+      "story_id": "story_67bbb2f19d0e",
+      "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "primary_url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "source": "Qwen：Blog Retrieval（API）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+          "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+          "title_en": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+          "title_original": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+          "summary": "Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。",
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T12:00:00Z"
+        },
+        {
+          "id": "a61c03e72c1b70942a9ef553e5e659ecedba9f5d",
+          "title": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
+          "title_zh": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
+          "title_en": null,
+          "title_original": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "qwen.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T14:40:14.401000Z"
+        },
+        {
+          "id": "01966d29e917cd153e00cd550d8728eb60f8fe1e",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1: Compact, efficient, and unified image creation",
+          "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+          "title_en": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+          "title_original": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T13:09:25Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Qwen：Blog Retrieval（API）",
+        "qwen.ai"
+      ],
+      "items": [
+        {
+          "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+          "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+          "title_en": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+          "title_original": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+          "summary": "Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。",
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T12:00:00Z"
+        },
+        {
+          "id": "a61c03e72c1b70942a9ef553e5e659ecedba9f5d",
+          "title": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
+          "title_zh": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
+          "title_en": null,
+          "title_original": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "qwen.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T14:40:14.401000Z"
+        },
+        {
+          "id": "01966d29e917cd153e00cd550d8728eb60f8fe1e",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1: Compact, efficient, and unified image creation",
+          "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+          "title_en": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+          "title_original": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T13:09:25Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9428,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T12:00:00Z",
+      "latest_at": "2026-09-20T14:40:14.401000Z",
+      "primary_item": {
+        "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
+        "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+        "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+        "title_en": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+        "title_original": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+        "summary": "Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。",
+        "recommend_reason_zh": null,
+        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+        "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T16:05:19.143693Z"
       }
     },
     {
@@ -218,15 +359,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9992,
+        "recency": 0.9354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -252,7 +393,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:31:22.487079Z"
+        "scored_at": "2026-09-20T16:05:19.143693Z"
+      }
+    },
+    {
+      "story_id": "story_e7fee7b1503f",
+      "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+      "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
+          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+          "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T13:52:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
+          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+          "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T13:52:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9687,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T13:52:24Z",
+      "latest_at": "2026-09-20T13:52:24Z",
+      "primary_item": {
+        "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
+        "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+        "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+        "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+        "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+        "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T16:05:19.143693Z"
       }
     },
     {
@@ -329,22 +552,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8717,
+        "recency": 0.8161,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-20T02:00:00Z",
       "latest_at": "2026-09-20T04:27:00Z",
@@ -364,7 +586,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:31:22.487079Z"
+        "scored_at": "2026-09-20T16:05:19.143693Z"
       }
     },
     {
@@ -412,15 +634,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9992,
+        "recency": 0.9354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -446,7 +668,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:31:22.487079Z"
+        "scored_at": "2026-09-20T16:05:19.143693Z"
       }
     },
     {
@@ -494,15 +716,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9992,
+        "recency": 0.9354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -528,7 +750,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:31:22.487079Z"
+        "scored_at": "2026-09-20T16:05:19.143693Z"
       }
     },
     {
@@ -576,15 +798,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9992,
+        "recency": 0.9354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -610,7 +832,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:31:22.487079Z"
+        "scored_at": "2026-09-20T16:05:19.143693Z"
       }
     },
     {
@@ -658,15 +880,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9992,
+        "recency": 0.9354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -692,7 +914,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:31:22.487079Z"
+        "scored_at": "2026-09-20T16:05:19.143693Z"
       }
     },
     {
@@ -740,15 +962,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9992,
+        "recency": 0.9354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -774,7 +996,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:31:22.487079Z"
+        "scored_at": "2026-09-20T16:05:19.143693Z"
       }
     },
     {
@@ -822,15 +1044,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9992,
+        "recency": 0.9354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -856,7 +1078,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:31:22.487079Z"
+        "scored_at": "2026-09-20T16:05:19.143693Z"
       }
     },
     {
@@ -1019,15 +1241,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5848,
-      "importance": 0.5848,
-      "importance_score": 0.5848,
+      "score": 0.5756,
+      "importance": 0.5756,
+      "importance_score": 0.5756,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8001,
+        "recency": 0.749,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1052,7 +1274,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:31:22.487079Z"
+        "scored_at": "2026-09-20T16:05:19.143693Z"
+      }
+    },
+    {
+      "story_id": "story_fc0b2a01d33a",
+      "title": "你能分辨出哪些图片是AI生成的吗？",
+      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
+      "primary_url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
+      "source": "slop-sense.labtoagi.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "023f1795b37bf59710aa9170b3471c0fbb1a20ea",
+          "title": "你能分辨出哪些图片是AI生成的吗？",
+          "title_zh": "你能分辨出哪些图片是AI生成的吗？",
+          "title_en": null,
+          "title_original": "你能分辨出哪些图片是AI生成的吗？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
+          "source": "slop-sense.labtoagi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T15:44:20.618000Z"
+        },
+        {
+          "id": "9da649dafa4b5f5196ef314e323cfe253aa0fa62",
+          "title": "你能分辨出哪些图片是AI生成的吗？ / Can you tell which images are AI-generated?",
+          "title_zh": "你能分辨出哪些图片是AI生成的吗？",
+          "title_en": "Can you tell which images are AI-generated?",
+          "title_original": "Can you tell which images are AI-generated?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-19T23:02:34Z"
+        },
+        {
+          "id": "31ce996fefc7b9388c866d8a7b7e3142648ee1ad",
+          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
+          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
+          "title_en": "Can you tell which images are AI-generated?",
+          "title_original": "Can you tell which images are AI-generated?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49770847",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T23:02:34Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "slop-sense.labtoagi.com"
+      ],
+      "items": [
+        {
+          "id": "023f1795b37bf59710aa9170b3471c0fbb1a20ea",
+          "title": "你能分辨出哪些图片是AI生成的吗？",
+          "title_zh": "你能分辨出哪些图片是AI生成的吗？",
+          "title_en": null,
+          "title_original": "你能分辨出哪些图片是AI生成的吗？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
+          "source": "slop-sense.labtoagi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T15:44:20.618000Z"
+        },
+        {
+          "id": "9da649dafa4b5f5196ef314e323cfe253aa0fa62",
+          "title": "你能分辨出哪些图片是AI生成的吗？ / Can you tell which images are AI-generated?",
+          "title_zh": "你能分辨出哪些图片是AI生成的吗？",
+          "title_en": "Can you tell which images are AI-generated?",
+          "title_original": "Can you tell which images are AI-generated?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-19T23:02:34Z"
+        },
+        {
+          "id": "31ce996fefc7b9388c866d8a7b7e3142648ee1ad",
+          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
+          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
+          "title_en": "Can you tell which images are AI-generated?",
+          "title_original": "Can you tell which images are AI-generated?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49770847",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T23:02:34Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5699,
+      "importance": 0.5699,
+      "importance_score": 0.5699,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9951,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T23:02:34Z",
+      "latest_at": "2026-09-20T15:44:20.618000Z",
+      "primary_item": {
+        "id": "023f1795b37bf59710aa9170b3471c0fbb1a20ea",
+        "title": "你能分辨出哪些图片是AI生成的吗？",
+        "title_zh": "你能分辨出哪些图片是AI生成的吗？",
+        "title_en": null,
+        "title_original": "你能分辨出哪些图片是AI生成的吗？",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
+        "source": "slop-sense.labtoagi.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T16:05:19.143693Z"
       }
     },
     {
@@ -1100,15 +1461,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9992,
+        "recency": 0.9354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1134,7 +1495,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:31:22.487079Z"
+        "scored_at": "2026-09-20T16:05:19.143693Z"
+      }
+    },
+    {
+      "story_id": "story_59e8eb3eb9e5",
+      "title": "人工智能与“知识共享”的瓦解",
+      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+      "primary_url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+      "source": "www.chesterwisniewski.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1479d0bb44615475dc260d7847b1ebe331ca711e",
+          "title": "人工智能与“知识共享”的瓦解",
+          "title_zh": "人工智能与“知识共享”的瓦解",
+          "title_en": null,
+          "title_original": "人工智能与“知识共享”的瓦解",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+          "source": "www.chesterwisniewski.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T12:50:12.972000Z"
+        },
+        {
+          "id": "2c5b41cc956ce17a9646a349feb328767c4a55ec",
+          "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
+          "title_zh": "人工智能与“知识共享”的瓦解",
+          "title_en": "AI and the Destruction of the Creative Commons",
+          "title_original": "AI and the Destruction of the Creative Commons",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T10:07:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.chesterwisniewski.com"
+      ],
+      "items": [
+        {
+          "id": "1479d0bb44615475dc260d7847b1ebe331ca711e",
+          "title": "人工智能与“知识共享”的瓦解",
+          "title_zh": "人工智能与“知识共享”的瓦解",
+          "title_en": null,
+          "title_original": "人工智能与“知识共享”的瓦解",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+          "source": "www.chesterwisniewski.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T12:50:12.972000Z"
+        },
+        {
+          "id": "2c5b41cc956ce17a9646a349feb328767c4a55ec",
+          "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
+          "title_zh": "人工智能与“知识共享”的瓦解",
+          "title_en": "AI and the Destruction of the Creative Commons",
+          "title_original": "AI and the Destruction of the Creative Commons",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T10:07:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5376,
+      "importance": 0.5376,
+      "importance_score": 0.5376,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9543,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T10:07:51Z",
+      "latest_at": "2026-09-20T12:50:12.972000Z",
+      "primary_item": {
+        "id": "1479d0bb44615475dc260d7847b1ebe331ca711e",
+        "title": "人工智能与“知识共享”的瓦解",
+        "title_zh": "人工智能与“知识共享”的瓦解",
+        "title_en": null,
+        "title_original": "人工智能与“知识共享”的瓦解",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+        "source": "www.chesterwisniewski.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T16:05:19.143693Z"
       }
     },
     {
@@ -1211,15 +1682,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5398,
-      "importance": 0.5398,
-      "importance_score": 0.5398,
+      "score": 0.5287,
+      "importance": 0.5287,
+      "importance_score": 0.5287,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9665,
+        "recency": 0.9048,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1244,7 +1715,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:31:22.487079Z"
+        "scored_at": "2026-09-20T16:05:19.143693Z"
       }
     },
     {
@@ -1292,15 +1763,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9992,
+        "recency": 0.9354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1326,309 +1797,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:31:22.487079Z"
-      }
-    },
-    {
-      "story_id": "story_fc0b2a01d33a",
-      "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
-      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-      "primary_url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "9da649dafa4b5f5196ef314e323cfe253aa0fa62",
-          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
-          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
-          "title_en": "Can you tell which images are AI-generated?",
-          "title_original": "Can you tell which images are AI-generated?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-19T23:02:34Z"
-        },
-        {
-          "id": "31ce996fefc7b9388c866d8a7b7e3142648ee1ad",
-          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
-          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
-          "title_en": "Can you tell which images are AI-generated?",
-          "title_original": "Can you tell which images are AI-generated?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49770847",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T23:02:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9da649dafa4b5f5196ef314e323cfe253aa0fa62",
-          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
-          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
-          "title_en": "Can you tell which images are AI-generated?",
-          "title_original": "Can you tell which images are AI-generated?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-19T23:02:34Z"
-        },
-        {
-          "id": "31ce996fefc7b9388c866d8a7b7e3142648ee1ad",
-          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
-          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
-          "title_en": "Can you tell which images are AI-generated?",
-          "title_original": "Can you tell which images are AI-generated?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49770847",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T23:02:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5162,
-      "importance": 0.5162,
-      "importance_score": 0.5162,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8353,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T23:02:34Z",
-      "latest_at": "2026-09-19T23:02:34Z",
-      "primary_item": {
-        "id": "9da649dafa4b5f5196ef314e323cfe253aa0fa62",
-        "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
-        "title_zh": "你能说出哪些图像是人工智能生成的吗？",
-        "title_en": "Can you tell which images are AI-generated?",
-        "title_original": "Can you tell which images are AI-generated?",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:31:22.487079Z"
-      }
-    },
-    {
-      "story_id": "story_293af61c927c",
-      "title": "Show HN：符合人类偏好的人工智能面部吸引力模型 / Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
-      "url": "https://faceanalysisai.com",
-      "primary_url": "https://faceanalysisai.com",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "955e9b60839a5e3ac354ff7d02276001f53a935a",
-          "title": "Show HN：符合人类偏好的人工智能面部吸引力模型 / Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
-          "title_zh": "Show HN：符合人类偏好的人工智能面部吸引力模型",
-          "title_en": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
-          "title_original": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://faceanalysisai.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T08:48:35Z"
-        },
-        {
-          "id": "f106644c8dded3bb7d13400f798755435967caa0",
-          "title": "Show HN：符合人类偏好的人工智能面部吸引力模型 / Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
-          "title_zh": "Show HN：符合人类偏好的人工智能面部吸引力模型",
-          "title_en": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
-          "title_original": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49773871",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T08:48:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "955e9b60839a5e3ac354ff7d02276001f53a935a",
-          "title": "Show HN：符合人类偏好的人工智能面部吸引力模型 / Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
-          "title_zh": "Show HN：符合人类偏好的人工智能面部吸引力模型",
-          "title_en": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
-          "title_original": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://faceanalysisai.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T08:48:35Z"
-        },
-        {
-          "id": "f106644c8dded3bb7d13400f798755435967caa0",
-          "title": "Show HN：符合人类偏好的人工智能面部吸引力模型 / Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
-          "title_zh": "Show HN：符合人类偏好的人工智能面部吸引力模型",
-          "title_en": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
-          "title_original": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49773871",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T08:48:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5389,
-      "importance": 0.5389,
-      "importance_score": 0.5389,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9618,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T08:48:35Z",
-      "latest_at": "2026-09-20T08:48:35Z",
-      "primary_item": {
-        "id": "955e9b60839a5e3ac354ff7d02276001f53a935a",
-        "title": "Show HN：符合人类偏好的人工智能面部吸引力模型 / Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
-        "title_zh": "Show HN：符合人类偏好的人工智能面部吸引力模型",
-        "title_en": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
-        "title_original": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://faceanalysisai.com",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:31:22.487079Z"
-      }
-    },
-    {
-      "story_id": "story_6bc1ec806a2b",
-      "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-      "url": "https://www.aibase.com/news/31203",
-      "primary_url": "https://www.aibase.com/news/31203",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
-          "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-          "title_zh": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-          "title_en": null,
-          "title_original": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31203",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T11:27:04.866282Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
-          "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-          "title_zh": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-          "title_en": null,
-          "title_original": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31203",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T11:27:04.866282Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9992,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T11:27:04.866282Z",
-      "latest_at": "2026-09-20T11:27:04.866282Z",
-      "primary_item": {
-        "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
-        "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-        "title_zh": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-        "title_en": null,
-        "title_original": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31203",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:31:22.487079Z"
+        "scored_at": "2026-09-20T16:05:19.143693Z"
       }
     },
     {
@@ -1705,15 +1874,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5097,
-      "importance": 0.5097,
-      "importance_score": 0.5097,
+      "score": 0.5005,
+      "importance": 0.5005,
+      "importance_score": 0.5005,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7993,
+        "recency": 0.7482,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1738,126 +1907,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:31:22.487079Z"
+        "scored_at": "2026-09-20T16:05:19.143693Z"
       }
     },
     {
-      "story_id": "story_081fe103d7de",
-      "title": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
-      "url": "https://www.aibase.com/news/31194",
-      "primary_url": "https://www.aibase.com/news/31194",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "90e270371d0aabbc835e0962954fe0aaa65d57e9",
-          "title": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
-          "title_zh": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
-          "title_en": null,
-          "title_original": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31194",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T11:27:04.866282Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "90e270371d0aabbc835e0962954fe0aaa65d57e9",
-          "title": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
-          "title_zh": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
-          "title_en": null,
-          "title_original": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31194",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T11:27:04.866282Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9992,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T11:27:04.866282Z",
-      "latest_at": "2026-09-20T11:27:04.866282Z",
-      "primary_item": {
-        "id": "90e270371d0aabbc835e0962954fe0aaa65d57e9",
-        "title": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
-        "title_zh": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
-        "title_en": null,
-        "title_original": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31194",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:31:22.487079Z"
-      }
-    },
-    {
-      "story_id": "story_adc7678cfd9c",
-      "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-      "url": "https://github.com/theguysudo/ENZO",
-      "primary_url": "https://github.com/theguysudo/ENZO",
+      "story_id": "story_293af61c927c",
+      "title": "Show HN：符合人类偏好的人工智能面部吸引力模型 / Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
+      "url": "https://faceanalysisai.com",
+      "primary_url": "https://faceanalysisai.com",
       "source": "Hacker News",
       "source_name": "TechURLs",
       "sources": [
         {
-          "id": "b47217b4c029b973886670ffddeeb9a209d8a78c",
-          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
+          "id": "955e9b60839a5e3ac354ff7d02276001f53a935a",
+          "title": "Show HN：符合人类偏好的人工智能面部吸引力模型 / Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
+          "title_zh": "Show HN：符合人类偏好的人工智能面部吸引力模型",
+          "title_en": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
+          "title_original": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/theguysudo/ENZO",
+          "url": "https://faceanalysisai.com",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-19T23:47:35Z"
+          "published_at": "2026-09-20T08:48:35Z"
         },
         {
-          "id": "1693ba4b22de4899bb95f498140994964b3b5132",
-          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
+          "id": "f106644c8dded3bb7d13400f798755435967caa0",
+          "title": "Show HN：符合人类偏好的人工智能面部吸引力模型 / Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
+          "title_zh": "Show HN：符合人类偏好的人工智能面部吸引力模型",
+          "title_en": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
+          "title_original": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49771118",
+          "url": "https://news.ycombinator.com/item?id=49773871",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-19T23:47:35Z"
+          "published_at": "2026-09-20T08:48:35Z"
         }
       ],
       "source_count": 2,
@@ -1867,62 +1954,62 @@
       ],
       "items": [
         {
-          "id": "b47217b4c029b973886670ffddeeb9a209d8a78c",
-          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
+          "id": "955e9b60839a5e3ac354ff7d02276001f53a935a",
+          "title": "Show HN：符合人类偏好的人工智能面部吸引力模型 / Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
+          "title_zh": "Show HN：符合人类偏好的人工智能面部吸引力模型",
+          "title_en": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
+          "title_original": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/theguysudo/ENZO",
+          "url": "https://faceanalysisai.com",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-19T23:47:35Z"
+          "published_at": "2026-09-20T08:48:35Z"
         },
         {
-          "id": "1693ba4b22de4899bb95f498140994964b3b5132",
-          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
+          "id": "f106644c8dded3bb7d13400f798755435967caa0",
+          "title": "Show HN：符合人类偏好的人工智能面部吸引力模型 / Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
+          "title_zh": "Show HN：符合人类偏好的人工智能面部吸引力模型",
+          "title_en": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
+          "title_original": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49771118",
+          "url": "https://news.ycombinator.com/item?id=49773871",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-19T23:47:35Z"
+          "published_at": "2026-09-20T08:48:35Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5178,
-      "importance": 0.5178,
-      "importance_score": 0.5178,
+      "score": 0.5279,
+      "importance": 0.5279,
+      "importance_score": 0.5279,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8444,
+        "recency": 0.9004,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-19T23:47:35Z",
-      "latest_at": "2026-09-19T23:47:35Z",
+      "earliest_at": "2026-09-20T08:48:35Z",
+      "latest_at": "2026-09-20T08:48:35Z",
       "primary_item": {
-        "id": "b47217b4c029b973886670ffddeeb9a209d8a78c",
-        "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-        "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-        "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-        "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
+        "id": "955e9b60839a5e3ac354ff7d02276001f53a935a",
+        "title": "Show HN：符合人类偏好的人工智能面部吸引力模型 / Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
+        "title_zh": "Show HN：符合人类偏好的人工智能面部吸引力模型",
+        "title_en": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
+        "title_original": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.com/theguysudo/ENZO",
+        "url": "https://faceanalysisai.com",
         "source": "Hacker News",
         "source_name": "TechURLs"
       },
@@ -1930,26 +2017,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:31:22.487079Z"
+        "scored_at": "2026-09-20T16:05:19.143693Z"
       }
     },
     {
-      "story_id": "story_778df26cae62",
-      "title": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
-      "url": "https://www.aibase.com/news/31196",
-      "primary_url": "https://www.aibase.com/news/31196",
+      "story_id": "story_6bc1ec806a2b",
+      "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+      "url": "https://www.aibase.com/news/31203",
+      "primary_url": "https://www.aibase.com/news/31203",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1ab99c40c8c4f0be3f1dc859270c343dcc2802b3",
-          "title": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
-          "title_zh": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
+          "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
+          "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "title_zh": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
           "title_en": null,
-          "title_original": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
+          "title_original": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31196",
+          "url": "https://www.aibase.com/news/31203",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1962,14 +2049,14 @@
       ],
       "items": [
         {
-          "id": "1ab99c40c8c4f0be3f1dc859270c343dcc2802b3",
-          "title": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
-          "title_zh": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
+          "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
+          "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "title_zh": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
           "title_en": null,
-          "title_original": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
+          "title_original": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31196",
+          "url": "https://www.aibase.com/news/31203",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1978,15 +2065,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9992,
+        "recency": 0.9354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1997,14 +2084,14 @@
       "earliest_at": "2026-09-20T11:27:04.866282Z",
       "latest_at": "2026-09-20T11:27:04.866282Z",
       "primary_item": {
-        "id": "1ab99c40c8c4f0be3f1dc859270c343dcc2802b3",
-        "title": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
-        "title_zh": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
+        "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
+        "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+        "title_zh": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
         "title_en": null,
-        "title_original": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
+        "title_original": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31196",
+        "url": "https://www.aibase.com/news/31203",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -2012,7 +2099,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:31:22.487079Z"
+        "scored_at": "2026-09-20T16:05:19.143693Z"
       }
     }
   ]
