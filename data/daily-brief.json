@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T11:27:04.866282Z",
+  "generated_at": "2026-09-20T11:30:22.300778Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8301,
-      "importance": 0.8301,
-      "importance_score": 0.8301,
+      "score": 0.83,
+      "importance": 0.83,
+      "importance_score": 0.83,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8472,
+        "recency": 0.8466,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:27:45.593451Z"
+        "scored_at": "2026-09-20T11:31:22.487079Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9992,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -252,7 +252,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:27:45.593451Z"
+        "scored_at": "2026-09-20T11:31:22.487079Z"
       }
     },
     {
@@ -329,15 +329,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8724,
+        "recency": 0.8717,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -364,7 +364,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:27:45.593451Z"
+        "scored_at": "2026-09-20T11:31:22.487079Z"
       }
     },
     {
@@ -412,15 +412,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9992,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -446,7 +446,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:27:45.593451Z"
+        "scored_at": "2026-09-20T11:31:22.487079Z"
       }
     },
     {
@@ -494,15 +494,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9992,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -528,7 +528,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:27:45.593451Z"
+        "scored_at": "2026-09-20T11:31:22.487079Z"
       }
     },
     {
@@ -576,15 +576,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9992,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -610,7 +610,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:27:45.593451Z"
+        "scored_at": "2026-09-20T11:31:22.487079Z"
       }
     },
     {
@@ -658,15 +658,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9992,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -692,7 +692,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:27:45.593451Z"
+        "scored_at": "2026-09-20T11:31:22.487079Z"
       }
     },
     {
@@ -740,15 +740,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9992,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -774,7 +774,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:27:45.593451Z"
+        "scored_at": "2026-09-20T11:31:22.487079Z"
       }
     },
     {
@@ -822,15 +822,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9992,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -856,7 +856,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:27:45.593451Z"
+        "scored_at": "2026-09-20T11:31:22.487079Z"
       }
     },
     {
@@ -1019,15 +1019,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5849,
-      "importance": 0.5849,
-      "importance_score": 0.5849,
+      "score": 0.5848,
+      "importance": 0.5848,
+      "importance_score": 0.5848,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8007,
+        "recency": 0.8001,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1052,7 +1052,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:27:45.593451Z"
+        "scored_at": "2026-09-20T11:31:22.487079Z"
       }
     },
     {
@@ -1100,15 +1100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9992,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1134,7 +1134,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:27:45.593451Z"
+        "scored_at": "2026-09-20T11:31:22.487079Z"
       }
     },
     {
@@ -1211,15 +1211,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9673,
+        "recency": 0.9665,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1244,7 +1244,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:27:45.593451Z"
+        "scored_at": "2026-09-20T11:31:22.487079Z"
       }
     },
     {
@@ -1292,15 +1292,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9992,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1326,44 +1326,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:27:45.593451Z"
+        "scored_at": "2026-09-20T11:31:22.487079Z"
       }
     },
     {
-      "story_id": "story_bb041c4c49bd",
-      "title": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞 / OpenAI and Anthropic oversold AI security breaches",
-      "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders",
-      "primary_url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders",
+      "story_id": "story_fc0b2a01d33a",
+      "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
+      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
+      "primary_url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "7f40d7f4cf51991c61e25de25f1b368453c47693",
-          "title": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞 / OpenAI and Anthropic oversold AI security breaches",
-          "title_zh": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞",
-          "title_en": "OpenAI and Anthropic oversold AI security breaches",
-          "title_original": "OpenAI and Anthropic oversold AI security breaches",
+          "id": "9da649dafa4b5f5196ef314e323cfe253aa0fa62",
+          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
+          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
+          "title_en": "Can you tell which images are AI-generated?",
+          "title_original": "Can you tell which images are AI-generated?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders",
+          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-19T19:59:28Z"
+          "published_at": "2026-09-19T23:02:34Z"
         },
         {
-          "id": "c6b71957716a3d9de670914b441b334db0346cd2",
-          "title": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞 / OpenAI and Anthropic oversold AI security breaches",
-          "title_zh": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞",
-          "title_en": "OpenAI and Anthropic oversold AI security breaches",
-          "title_original": "OpenAI and Anthropic oversold AI security breaches",
+          "id": "31ce996fefc7b9388c866d8a7b7e3142648ee1ad",
+          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
+          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
+          "title_en": "Can you tell which images are AI-generated?",
+          "title_original": "Can you tell which images are AI-generated?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49769668",
+          "url": "https://news.ycombinator.com/item?id=49770847",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-19T19:59:28Z"
+          "published_at": "2026-09-19T23:02:34Z"
         }
       ],
       "source_count": 2,
@@ -1373,62 +1373,62 @@
       ],
       "items": [
         {
-          "id": "7f40d7f4cf51991c61e25de25f1b368453c47693",
-          "title": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞 / OpenAI and Anthropic oversold AI security breaches",
-          "title_zh": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞",
-          "title_en": "OpenAI and Anthropic oversold AI security breaches",
-          "title_original": "OpenAI and Anthropic oversold AI security breaches",
+          "id": "9da649dafa4b5f5196ef314e323cfe253aa0fa62",
+          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
+          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
+          "title_en": "Can you tell which images are AI-generated?",
+          "title_original": "Can you tell which images are AI-generated?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders",
+          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-19T19:59:28Z"
+          "published_at": "2026-09-19T23:02:34Z"
         },
         {
-          "id": "c6b71957716a3d9de670914b441b334db0346cd2",
-          "title": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞 / OpenAI and Anthropic oversold AI security breaches",
-          "title_zh": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞",
-          "title_en": "OpenAI and Anthropic oversold AI security breaches",
-          "title_original": "OpenAI and Anthropic oversold AI security breaches",
+          "id": "31ce996fefc7b9388c866d8a7b7e3142648ee1ad",
+          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
+          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
+          "title_en": "Can you tell which images are AI-generated?",
+          "title_original": "Can you tell which images are AI-generated?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49769668",
+          "url": "https://news.ycombinator.com/item?id=49770847",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-19T19:59:28Z"
+          "published_at": "2026-09-19T23:02:34Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5098,
-      "importance": 0.5098,
-      "importance_score": 0.5098,
+      "score": 0.5162,
+      "importance": 0.5162,
+      "importance_score": 0.5162,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7999,
+        "recency": 0.8353,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-19T19:59:28Z",
-      "latest_at": "2026-09-19T19:59:28Z",
+      "earliest_at": "2026-09-19T23:02:34Z",
+      "latest_at": "2026-09-19T23:02:34Z",
       "primary_item": {
-        "id": "7f40d7f4cf51991c61e25de25f1b368453c47693",
-        "title": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞 / OpenAI and Anthropic oversold AI security breaches",
-        "title_zh": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞",
-        "title_en": "OpenAI and Anthropic oversold AI security breaches",
-        "title_original": "OpenAI and Anthropic oversold AI security breaches",
+        "id": "9da649dafa4b5f5196ef314e323cfe253aa0fa62",
+        "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
+        "title_zh": "你能说出哪些图像是人工智能生成的吗？",
+        "title_en": "Can you tell which images are AI-generated?",
+        "title_original": "Can you tell which images are AI-generated?",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders",
+        "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       },
@@ -1436,7 +1436,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:27:45.593451Z"
+        "scored_at": "2026-09-20T11:31:22.487079Z"
       }
     },
     {
@@ -1513,15 +1513,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9626,
+        "recency": 0.9618,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1546,7 +1546,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:27:45.593451Z"
+        "scored_at": "2026-09-20T11:31:22.487079Z"
       }
     },
     {
@@ -1594,15 +1594,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9992,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1628,7 +1628,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:27:45.593451Z"
+        "scored_at": "2026-09-20T11:31:22.487079Z"
+      }
+    },
+    {
+      "story_id": "story_bb041c4c49bd",
+      "title": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞 / OpenAI and Anthropic oversold AI security breaches",
+      "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders",
+      "primary_url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "7f40d7f4cf51991c61e25de25f1b368453c47693",
+          "title": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞 / OpenAI and Anthropic oversold AI security breaches",
+          "title_zh": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞",
+          "title_en": "OpenAI and Anthropic oversold AI security breaches",
+          "title_original": "OpenAI and Anthropic oversold AI security breaches",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-19T19:59:28Z"
+        },
+        {
+          "id": "c6b71957716a3d9de670914b441b334db0346cd2",
+          "title": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞 / OpenAI and Anthropic oversold AI security breaches",
+          "title_zh": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞",
+          "title_en": "OpenAI and Anthropic oversold AI security breaches",
+          "title_original": "OpenAI and Anthropic oversold AI security breaches",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49769668",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T19:59:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7f40d7f4cf51991c61e25de25f1b368453c47693",
+          "title": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞 / OpenAI and Anthropic oversold AI security breaches",
+          "title_zh": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞",
+          "title_en": "OpenAI and Anthropic oversold AI security breaches",
+          "title_original": "OpenAI and Anthropic oversold AI security breaches",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-19T19:59:28Z"
+        },
+        {
+          "id": "c6b71957716a3d9de670914b441b334db0346cd2",
+          "title": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞 / OpenAI and Anthropic oversold AI security breaches",
+          "title_zh": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞",
+          "title_en": "OpenAI and Anthropic oversold AI security breaches",
+          "title_original": "OpenAI and Anthropic oversold AI security breaches",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49769668",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T19:59:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5097,
+      "importance": 0.5097,
+      "importance_score": 0.5097,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7993,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T19:59:28Z",
+      "latest_at": "2026-09-19T19:59:28Z",
+      "primary_item": {
+        "id": "7f40d7f4cf51991c61e25de25f1b368453c47693",
+        "title": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞 / OpenAI and Anthropic oversold AI security breaches",
+        "title_zh": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞",
+        "title_en": "OpenAI and Anthropic oversold AI security breaches",
+        "title_original": "OpenAI and Anthropic oversold AI security breaches",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T11:31:22.487079Z"
       }
     },
     {
@@ -1676,15 +1786,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9992,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1710,7 +1820,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:27:45.593451Z"
+        "scored_at": "2026-09-20T11:31:22.487079Z"
       }
     },
     {
@@ -1787,15 +1897,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5179,
-      "importance": 0.5179,
-      "importance_score": 0.5179,
+      "score": 0.5178,
+      "importance": 0.5178,
+      "importance_score": 0.5178,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8451,
+        "recency": 0.8444,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1820,7 +1930,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:27:45.593451Z"
+        "scored_at": "2026-09-20T11:31:22.487079Z"
       }
     },
     {
@@ -1868,15 +1978,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9992,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1902,117 +2012,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:27:45.593451Z"
-      }
-    },
-    {
-      "story_id": "story_fc0b2a01d33a",
-      "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
-      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-      "primary_url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "01123abf2193f80954e3b75ef7c7a9c0c60c8104",
-          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
-          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
-          "title_en": "Can you tell which images are AI-generated?",
-          "title_original": "Can you tell which images are AI-generated?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T23:02:34Z"
-        },
-        {
-          "id": "31ce996fefc7b9388c866d8a7b7e3142648ee1ad",
-          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
-          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
-          "title_en": "Can you tell which images are AI-generated?",
-          "title_original": "Can you tell which images are AI-generated?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49770847",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T23:02:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "01123abf2193f80954e3b75ef7c7a9c0c60c8104",
-          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
-          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
-          "title_en": "Can you tell which images are AI-generated?",
-          "title_original": "Can you tell which images are AI-generated?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T23:02:34Z"
-        },
-        {
-          "id": "31ce996fefc7b9388c866d8a7b7e3142648ee1ad",
-          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
-          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
-          "title_en": "Can you tell which images are AI-generated?",
-          "title_original": "Can you tell which images are AI-generated?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49770847",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T23:02:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5163,
-      "importance": 0.5163,
-      "importance_score": 0.5163,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8359,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T23:02:34Z",
-      "latest_at": "2026-09-19T23:02:34Z",
-      "primary_item": {
-        "id": "01123abf2193f80954e3b75ef7c7a9c0c60c8104",
-        "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
-        "title_zh": "你能说出哪些图像是人工智能生成的吗？",
-        "title_en": "Can you tell which images are AI-generated?",
-        "title_original": "Can you tell which images are AI-generated?",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:27:45.593451Z"
+        "scored_at": "2026-09-20T11:31:22.487079Z"
       }
     }
   ]
