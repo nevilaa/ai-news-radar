@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-09-24T09:59:38.358055Z",
+  "generated_at": "2026-09-24T15:06:30.141150Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_9edda83740af",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fda3f4240a7fe0630b3ebdc8a9c9e83937fda9bd",
+          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "title_zh": null,
+          "title_en": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "title_original": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T14:08:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "fda3f4240a7fe0630b3ebdc8a9c9e83937fda9bd",
+          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "title_zh": null,
+          "title_en": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "title_original": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T14:08:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8635,
+      "importance": 0.8635,
+      "importance_score": 0.8635,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9862,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T14:08:57Z",
+      "latest_at": "2026-09-24T14:08:57Z",
+      "primary_item": {
+        "id": "fda3f4240a7fe0630b3ebdc8a9c9e83937fda9bd",
+        "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+        "title_zh": null,
+        "title_en": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+        "title_original": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T15:28:02.545712Z"
+      }
+    },
     {
       "story_id": "story_2f7e483f74c2",
       "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats",
@@ -106,15 +189,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8508,
-      "importance": 0.8508,
-      "importance_score": 0.8508,
+      "score": 0.8406,
+      "importance": 0.8406,
+      "importance_score": 0.8406,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.799,
+        "recency": 0.7421,
         "story_heat": 0.5
       },
       "category": "official",
@@ -141,7 +224,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:00:26.236174Z"
+        "scored_at": "2026-09-24T15:28:02.545712Z"
       }
     },
     {
@@ -304,15 +387,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8484,
-      "importance": 0.8484,
-      "importance_score": 0.8484,
+      "score": 0.838,
+      "importance": 0.838,
+      "importance_score": 0.838,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8099,
+        "recency": 0.7523,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -339,90 +422,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:00:26.236174Z"
-      }
-    },
-    {
-      "story_id": "story_4b75c8247471",
-      "title": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "primary_url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
-          "title": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "title_zh": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程",
-          "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T18:41:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
-          "title": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "title_zh": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程",
-          "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T18:41:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.8018,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T18:41:40Z",
-      "latest_at": "2026-09-23T18:41:40Z",
-      "primary_item": {
-        "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
-        "title": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-        "title_zh": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程",
-        "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-        "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:00:26.236174Z"
+        "scored_at": "2026-09-24T15:28:02.545712Z"
       }
     },
     {
@@ -462,7 +462,7 @@
           "published_at": "2026-09-23T22:54:29.320000Z"
         },
         {
-          "id": "56afefd048ce11bd9c9dd48a8b2b19a033810164",
+          "id": "781f3398c3f36d054ed6867f15a2b6fcb9853a74",
           "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统 / OpenAI breaches Medicare, Albanese reveals",
           "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
           "title_en": "OpenAI breaches Medicare, Albanese reveals",
@@ -470,15 +470,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-23T21:01:48Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "www.smh.com.au"
       ],
@@ -512,7 +512,7 @@
           "published_at": "2026-09-23T22:54:29.320000Z"
         },
         {
-          "id": "56afefd048ce11bd9c9dd48a8b2b19a033810164",
+          "id": "781f3398c3f36d054ed6867f15a2b6fcb9853a74",
           "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统 / OpenAI breaches Medicare, Albanese reveals",
           "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
           "title_en": "OpenAI breaches Medicare, Albanese reveals",
@@ -520,23 +520,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-23T21:01:48Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8161,
+      "importance": 0.8161,
+      "importance_score": 0.8161,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8521,
+        "recency": 0.7914,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -563,7 +563,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:00:26.236174Z"
+        "scored_at": "2026-09-24T15:28:02.545712Z"
+      }
+    },
+    {
+      "story_id": "story_072908c15f30",
+      "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
+      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+      "primary_url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d5001bc94486c5b3dc92bb6a990334f9bec6e2f3",
+          "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
+          "title_zh": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
+          "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
+          "title_original": "Australia to investigate if OpenAI hack of government health website broke the law",
+          "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T12:54:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d5001bc94486c5b3dc92bb6a990334f9bec6e2f3",
+          "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
+          "title_zh": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
+          "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
+          "title_original": "Australia to investigate if OpenAI hack of government health website broke the law",
+          "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T12:54:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.89,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9687,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T12:54:19Z",
+      "latest_at": "2026-09-24T12:54:19Z",
+      "primary_item": {
+        "id": "d5001bc94486c5b3dc92bb6a990334f9bec6e2f3",
+        "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
+        "title_zh": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
+        "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
+        "title_original": "Australia to investigate if OpenAI hack of government health website broke the law",
+        "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T15:28:02.545712Z"
+      }
+    },
+    {
+      "story_id": "story_b82d1f01a1b3",
+      "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
+      "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+      "primary_url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ea527f7eb01577cf22ec2e49181b440eb8bd773b",
+          "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
+          "title_zh": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
+          "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
+          "title_original": "OpenAI's agents went after government and university sites months before Hugging Face",
+          "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T14:01:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ea527f7eb01577cf22ec2e49181b440eb8bd773b",
+          "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
+          "title_zh": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
+          "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
+          "title_original": "OpenAI's agents went after government and university sites months before Hugging Face",
+          "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T14:01:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8128,
+      "importance": 0.8128,
+      "importance_score": 0.8128,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.88,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9844,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T14:01:05Z",
+      "latest_at": "2026-09-24T14:01:05Z",
+      "primary_item": {
+        "id": "ea527f7eb01577cf22ec2e49181b440eb8bd773b",
+        "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
+        "title_zh": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
+        "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
+        "title_original": "OpenAI's agents went after government and university sites months before Hugging Face",
+        "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T15:28:02.545712Z"
       }
     },
     {
@@ -611,15 +775,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8221,
-      "importance": 0.8221,
-      "importance_score": 0.8221,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8341,
+        "recency": 0.7747,
         "story_heat": 0.0
       },
       "category": "official",
@@ -646,90 +810,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:00:26.236174Z"
-      }
-    },
-    {
-      "story_id": "story_cff02d2a853b",
-      "title": "Harvey 通过 GPT-6 Astra 将法律背景转化为更强大的草案 / Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "primary_url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "124ceb395fbac94e1c78997a329ab615056ac032",
-          "title": "Harvey 通过 GPT-6 Astra 将法律背景转化为更强大的草案 / Harvey turns legal context into stronger drafts with GPT-6 Astra",
-          "title_zh": "Harvey 通过 GPT-6 Astra 将法律背景转化为更强大的草案",
-          "title_en": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-          "title_original": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "124ceb395fbac94e1c78997a329ab615056ac032",
-          "title": "Harvey 通过 GPT-6 Astra 将法律背景转化为更强大的草案 / Harvey turns legal context into stronger drafts with GPT-6 Astra",
-          "title_zh": "Harvey 通过 GPT-6 Astra 将法律背景转化为更强大的草案",
-          "title_en": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-          "title_original": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.817,
-      "importance": 0.817,
-      "importance_score": 0.817,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7279,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T12:00:00Z",
-      "latest_at": "2026-09-23T12:00:00Z",
-      "primary_item": {
-        "id": "124ceb395fbac94e1c78997a329ab615056ac032",
-        "title": "Harvey 通过 GPT-6 Astra 将法律背景转化为更强大的草案 / Harvey turns legal context into stronger drafts with GPT-6 Astra",
-        "title_zh": "Harvey 通过 GPT-6 Astra 将法律背景转化为更强大的草案",
-        "title_en": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-        "title_original": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:00:26.236174Z"
+        "scored_at": "2026-09-24T15:28:02.545712Z"
       }
     },
     {
@@ -777,15 +858,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8159,
-      "importance": 0.8159,
-      "importance_score": 0.8159,
+      "score": 0.8057,
+      "importance": 0.8057,
+      "importance_score": 0.8057,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7995,
+        "recency": 0.7426,
         "story_heat": 0.0
       },
       "category": "official",
@@ -812,7 +893,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:00:26.236174Z"
+        "scored_at": "2026-09-24T15:28:02.545712Z"
+      }
+    },
+    {
+      "story_id": "story_bcc37401aaaf",
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "primary_url": "https://openai.com/index/two-years-of-openai-academy",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
+          "title": "Two years of OpenAI Academy",
+          "title_zh": null,
+          "title_en": "Two years of OpenAI Academy",
+          "title_original": "Two years of OpenAI Academy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
+          "title": "Two years of OpenAI Academy",
+          "title_zh": null,
+          "title_en": "Two years of OpenAI Academy",
+          "title_original": "Two years of OpenAI Academy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8009,
+      "importance": 0.8009,
+      "importance_score": 0.8009,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7163,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T16:00:00Z",
+      "latest_at": "2026-09-23T16:00:00Z",
+      "primary_item": {
+        "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
+        "title": "Two years of OpenAI Academy",
+        "title_zh": null,
+        "title_en": "Two years of OpenAI Academy",
+        "title_original": "Two years of OpenAI Academy",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/two-years-of-openai-academy",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T15:28:02.545712Z"
       }
     },
     {
@@ -860,15 +1024,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8097,
-      "importance": 0.8097,
-      "importance_score": 0.8097,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7647,
+        "recency": 0.7103,
         "story_heat": 0.0
       },
       "category": "official",
@@ -895,7 +1059,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:00:26.236174Z"
+        "scored_at": "2026-09-24T15:28:02.545712Z"
       }
     },
     {
@@ -943,15 +1107,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
+      "score": 0.7967,
+      "importance": 0.7967,
+      "importance_score": 0.7967,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7938,
+        "recency": 0.7373,
         "story_heat": 0.0
       },
       "category": "official",
@@ -978,7 +1142,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:00:26.236174Z"
+        "scored_at": "2026-09-24T15:28:02.545712Z"
+      }
+    },
+    {
+      "story_id": "story_4b75c8247471",
+      "title": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "primary_url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
+          "title": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "title_zh": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程",
+          "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T18:41:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
+          "title": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "title_zh": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程",
+          "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T18:41:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.824,
+      "importance": 0.824,
+      "importance_score": 0.824,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7447,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T18:41:40Z",
+      "latest_at": "2026-09-23T18:41:40Z",
+      "primary_item": {
+        "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
+        "title": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+        "title_zh": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程",
+        "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+        "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T15:28:02.545712Z"
       }
     },
     {
@@ -1026,15 +1273,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9934,
+        "recency": 0.9227,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1060,7 +1307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:00:26.236174Z"
+        "scored_at": "2026-09-24T15:28:02.545712Z"
       }
     },
     {
@@ -1166,15 +1413,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8266,
-      "importance": 0.8266,
-      "importance_score": 0.8266,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8833,
+        "recency": 0.8204,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1201,30 +1448,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:00:26.236174Z"
+        "scored_at": "2026-09-24T15:28:02.545712Z"
       }
     },
     {
-      "story_id": "story_4784460ec311",
-      "title": "GitHub Copilot 应用程序中的本地沙盒 / Local sandboxing in the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+      "story_id": "story_e8c6ef86f111",
+      "title": "Node 20 在 GitHub Actions 中不再可用 / Node 20 is no longer available in GitHub Actions",
+      "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
+      "primary_url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-          "title": "GitHub Copilot 应用程序中的本地沙盒 / Local sandboxing in the GitHub Copilot app",
-          "title_zh": "GitHub Copilot 应用程序中的本地沙盒",
-          "title_en": "Local sandboxing in the GitHub Copilot app",
-          "title_original": "Local sandboxing in the GitHub Copilot app",
+          "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
+          "title": "Node 20 在 GitHub Actions 中不再可用 / Node 20 is no longer available in GitHub Actions",
+          "title_zh": "Node 20 在 GitHub Actions 中不再可用",
+          "title_en": "Node 20 is no longer available in GitHub Actions",
+          "title_original": "Node 20 is no longer available in GitHub Actions",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+          "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-23T15:00:57Z"
+          "published_at": "2026-09-23T20:46:07Z"
         }
       ],
       "source_count": 1,
@@ -1233,31 +1480,31 @@
       ],
       "items": [
         {
-          "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-          "title": "GitHub Copilot 应用程序中的本地沙盒 / Local sandboxing in the GitHub Copilot app",
-          "title_zh": "GitHub Copilot 应用程序中的本地沙盒",
-          "title_en": "Local sandboxing in the GitHub Copilot app",
-          "title_original": "Local sandboxing in the GitHub Copilot app",
+          "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
+          "title": "Node 20 在 GitHub Actions 中不再可用 / Node 20 is no longer available in GitHub Actions",
+          "title_zh": "Node 20 在 GitHub Actions 中不再可用",
+          "title_en": "Node 20 is no longer available in GitHub Actions",
+          "title_original": "Node 20 is no longer available in GitHub Actions",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+          "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-23T15:00:57Z"
+          "published_at": "2026-09-23T20:46:07Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
+      "score": 0.8021,
+      "importance": 0.8021,
+      "importance_score": 0.8021,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7603,
+        "ai_relevance": 0.87,
+        "recency": 0.7673,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1266,17 +1513,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T15:00:57Z",
-      "latest_at": "2026-09-23T15:00:57Z",
+      "earliest_at": "2026-09-23T20:46:07Z",
+      "latest_at": "2026-09-23T20:46:07Z",
       "primary_item": {
-        "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-        "title": "GitHub Copilot 应用程序中的本地沙盒 / Local sandboxing in the GitHub Copilot app",
-        "title_zh": "GitHub Copilot 应用程序中的本地沙盒",
-        "title_en": "Local sandboxing in the GitHub Copilot app",
-        "title_original": "Local sandboxing in the GitHub Copilot app",
+        "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
+        "title": "Node 20 在 GitHub Actions 中不再可用 / Node 20 is no longer available in GitHub Actions",
+        "title_zh": "Node 20 在 GitHub Actions 中不再可用",
+        "title_en": "Node 20 is no longer available in GitHub Actions",
+        "title_original": "Node 20 is no longer available in GitHub Actions",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+        "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1284,90 +1531,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:00:26.236174Z"
+        "scored_at": "2026-09-24T15:28:02.545712Z"
       }
     },
     {
-      "story_id": "story_ee1d0356cb10",
-      "title": "invideo 如何利用 GPT‑6 Astra 将颜色分级提高 3 倍 / How invideo improves color grading 3x with GPT‑6 Astra",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "primary_url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_b99fdaf44519",
+      "title": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
+      "url": "https://www.aibase.com/news/31357",
+      "primary_url": "https://www.aibase.com/news/31357",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "dd8a82b88a357053d77c8967e816aa4a83fc8352",
-          "title": "invideo 如何利用 GPT‑6 Astra 将颜色分级提高 3 倍 / How invideo improves color grading 3x with GPT‑6 Astra",
-          "title_zh": "invideo 如何利用 GPT‑6 Astra 将颜色分级提高 3 倍",
-          "title_en": "How invideo improves color grading 3x with GPT‑6 Astra",
-          "title_original": "How invideo improves color grading 3x with GPT‑6 Astra",
+          "id": "74d168073f887c53aa92c3a307da15e2b33d3dea",
+          "title": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
+          "title_zh": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
+          "title_en": null,
+          "title_original": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T12:00:00Z"
+          "url": "https://www.aibase.com/news/31357",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-24T15:06:30.141150Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "dd8a82b88a357053d77c8967e816aa4a83fc8352",
-          "title": "invideo 如何利用 GPT‑6 Astra 将颜色分级提高 3 倍 / How invideo improves color grading 3x with GPT‑6 Astra",
-          "title_zh": "invideo 如何利用 GPT‑6 Astra 将颜色分级提高 3 倍",
-          "title_en": "How invideo improves color grading 3x with GPT‑6 Astra",
-          "title_original": "How invideo improves color grading 3x with GPT‑6 Astra",
+          "id": "74d168073f887c53aa92c3a307da15e2b33d3dea",
+          "title": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
+          "title_zh": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
+          "title_en": null,
+          "title_original": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T12:00:00Z"
+          "url": "https://www.aibase.com/news/31357",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-24T15:06:30.141150Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.811,
-      "importance": 0.811,
-      "importance_score": 0.811,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7279,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T12:00:00Z",
-      "latest_at": "2026-09-23T12:00:00Z",
+      "earliest_at": "2026-09-24T15:06:30.141150Z",
+      "latest_at": "2026-09-24T15:06:30.141150Z",
       "primary_item": {
-        "id": "dd8a82b88a357053d77c8967e816aa4a83fc8352",
-        "title": "invideo 如何利用 GPT‑6 Astra 将颜色分级提高 3 倍 / How invideo improves color grading 3x with GPT‑6 Astra",
-        "title_zh": "invideo 如何利用 GPT‑6 Astra 将颜色分级提高 3 倍",
-        "title_en": "How invideo improves color grading 3x with GPT‑6 Astra",
-        "title_original": "How invideo improves color grading 3x with GPT‑6 Astra",
+        "id": "74d168073f887c53aa92c3a307da15e2b33d3dea",
+        "title": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
+        "title_zh": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
+        "title_en": null,
+        "title_original": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/31357",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:00:26.236174Z"
+        "scored_at": "2026-09-24T15:28:02.545712Z"
       }
     },
     {
@@ -1415,15 +1661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
+      "score": 0.7669,
+      "importance": 0.7669,
+      "importance_score": 0.7669,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8905,
+        "recency": 0.8271,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1449,12 +1695,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:00:26.236174Z"
+        "scored_at": "2026-09-24T15:28:02.545712Z"
       }
     },
     {
       "story_id": "story_9326fab27bb2",
-      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "title": "通过安全的服务器端内存推进私有人工智能计算 / Advancing Private AI Compute with secure, server-side memory",
       "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
       "primary_url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
       "source": "Google DeepMind",
@@ -1462,8 +1708,8 @@
       "sources": [
         {
           "id": "1076f771e7361676a84c00d4d0f97e44d0ab979e",
-          "title": "Advancing Private AI Compute with secure, server-side memory",
-          "title_zh": null,
+          "title": "通过安全的服务器端内存推进私有人工智能计算 / Advancing Private AI Compute with secure, server-side memory",
+          "title_zh": "通过安全的服务器端内存推进私有人工智能计算",
           "title_en": "Advancing Private AI Compute with secure, server-side memory",
           "title_original": "Advancing Private AI Compute with secure, server-side memory",
           "summary": null,
@@ -1482,8 +1728,8 @@
       "items": [
         {
           "id": "1076f771e7361676a84c00d4d0f97e44d0ab979e",
-          "title": "Advancing Private AI Compute with secure, server-side memory",
-          "title_zh": null,
+          "title": "通过安全的服务器端内存推进私有人工智能计算 / Advancing Private AI Compute with secure, server-side memory",
+          "title_zh": "通过安全的服务器端内存推进私有人工智能计算",
           "title_en": "Advancing Private AI Compute with secure, server-side memory",
           "title_original": "Advancing Private AI Compute with secure, server-side memory",
           "summary": null,
@@ -1497,15 +1743,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8028,
-      "importance": 0.8028,
-      "importance_score": 0.8028,
+      "score": 0.793,
+      "importance": 0.793,
+      "importance_score": 0.793,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7713,
+        "recency": 0.7164,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1518,8 +1764,8 @@
       "latest_at": "2026-09-23T16:00:57Z",
       "primary_item": {
         "id": "1076f771e7361676a84c00d4d0f97e44d0ab979e",
-        "title": "Advancing Private AI Compute with secure, server-side memory",
-        "title_zh": null,
+        "title": "通过安全的服务器端内存推进私有人工智能计算 / Advancing Private AI Compute with secure, server-side memory",
+        "title_zh": "通过安全的服务器端内存推进私有人工智能计算",
         "title_en": "Advancing Private AI Compute with secure, server-side memory",
         "title_original": "Advancing Private AI Compute with secure, server-side memory",
         "summary": null,
@@ -1532,7 +1778,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:00:26.236174Z"
+        "scored_at": "2026-09-24T15:28:02.545712Z"
       }
     },
     {
@@ -1580,15 +1826,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7711,
-      "importance": 0.7711,
-      "importance_score": 0.7711,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7841,
+        "recency": 0.7283,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1614,7 +1860,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:00:26.236174Z"
+        "scored_at": "2026-09-24T15:28:02.545712Z"
       }
     },
     {
@@ -1662,15 +1908,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.901,
+        "recency": 0.8368,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1696,283 +1942,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:00:26.236174Z"
-      }
-    },
-    {
-      "story_id": "story_c8560cd1bebf",
-      "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-      "url": "https://www.aibase.com/news/31347",
-      "primary_url": "https://www.aibase.com/news/31347",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c6a650cf6b47f0b64b1ad22881ea705e4b0fb463",
-          "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-          "title_zh": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-          "title_en": null,
-          "title_original": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31347",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T09:59:38.358055Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c6a650cf6b47f0b64b1ad22881ea705e4b0fb463",
-          "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-          "title_zh": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-          "title_en": null,
-          "title_original": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31347",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T09:59:38.358055Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T09:59:38.358055Z",
-      "latest_at": "2026-09-24T09:59:38.358055Z",
-      "primary_item": {
-        "id": "c6a650cf6b47f0b64b1ad22881ea705e4b0fb463",
-        "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-        "title_zh": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-        "title_en": null,
-        "title_original": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31347",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:00:26.236174Z"
-      }
-    },
-    {
-      "story_id": "story_87f54b6217fc",
-      "title": "火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247544696&idx=1&sn=eb490357aa03d3f5655fa9fbe00a0606",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247544696&idx=1&sn=eb490357aa03d3f5655fa9fbe00a0606",
-      "source": "公众号：火山引擎",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "68b85740c0b16dde2ddd083834e6c670f5c5d9e5",
-          "title": "火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档",
-          "title_zh": "火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档",
-          "title_en": null,
-          "title_original": "火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档",
-          "summary": "国内首部AI长剧《后西游记》8月31日登陆湖南卫视黄金档，60集规划、每集约40分钟，全剧无摄影机拍摄，视频生成100%由 Seedance 实现，上线一周芒果TV正片播放量突破1.5亿次。剧集由芒果TV出品、伯璟文化承制，依托芒果灵创平台，5月立项到播出仅半年、制作周期3个月；总导演李东珅以一场动作戏为例，小组制作耗时10天、成本约十几万元，真人实拍则可能需300至400万元。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247544696&idx=1&sn=eb490357aa03d3f5655fa9fbe00a0606",
-          "source": "公众号：火山引擎",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T05:40:51Z"
-        },
-        {
-          "id": "a79ca2fbe714ceaa7aa1cbcb2e18dd0657299a08",
-          "title": "4亿副耳机，正在等待一次AI改造",
-          "title_zh": "4亿副耳机，正在等待一次AI改造",
-          "title_en": null,
-          "title_original": "4亿副耳机，正在等待一次AI改造",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059402&idx=1&sn=113b8d8deb7a9692205f6ea9dd648171",
-          "source": "机器之心",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-23T11:07:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "公众号：火山引擎",
-        "机器之心"
-      ],
-      "items": [
-        {
-          "id": "68b85740c0b16dde2ddd083834e6c670f5c5d9e5",
-          "title": "火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档",
-          "title_zh": "火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档",
-          "title_en": null,
-          "title_original": "火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档",
-          "summary": "国内首部AI长剧《后西游记》8月31日登陆湖南卫视黄金档，60集规划、每集约40分钟，全剧无摄影机拍摄，视频生成100%由 Seedance 实现，上线一周芒果TV正片播放量突破1.5亿次。剧集由芒果TV出品、伯璟文化承制，依托芒果灵创平台，5月立项到播出仅半年、制作周期3个月；总导演李东珅以一场动作戏为例，小组制作耗时10天、成本约十几万元，真人实拍则可能需300至400万元。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247544696&idx=1&sn=eb490357aa03d3f5655fa9fbe00a0606",
-          "source": "公众号：火山引擎",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T05:40:51Z"
-        },
-        {
-          "id": "a79ca2fbe714ceaa7aa1cbcb2e18dd0657299a08",
-          "title": "4亿副耳机，正在等待一次AI改造",
-          "title_zh": "4亿副耳机，正在等待一次AI改造",
-          "title_en": null,
-          "title_original": "4亿副耳机，正在等待一次AI改造",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059402&idx=1&sn=113b8d8deb7a9692205f6ea9dd648171",
-          "source": "机器之心",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-23T11:07:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9396,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T11:07:00Z",
-      "latest_at": "2026-09-24T05:40:51Z",
-      "primary_item": {
-        "id": "68b85740c0b16dde2ddd083834e6c670f5c5d9e5",
-        "title": "火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档",
-        "title_zh": "火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档",
-        "title_en": null,
-        "title_original": "火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档",
-        "summary": "国内首部AI长剧《后西游记》8月31日登陆湖南卫视黄金档，60集规划、每集约40分钟，全剧无摄影机拍摄，视频生成100%由 Seedance 实现，上线一周芒果TV正片播放量突破1.5亿次。剧集由芒果TV出品、伯璟文化承制，依托芒果灵创平台，5月立项到播出仅半年、制作周期3个月；总导演李东珅以一场动作戏为例，小组制作耗时10天、成本约十几万元，真人实拍则可能需300至400万元。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247544696&idx=1&sn=eb490357aa03d3f5655fa9fbe00a0606",
-        "source": "公众号：火山引擎",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:00:26.236174Z"
-      }
-    },
-    {
-      "story_id": "story_a8d0060b2692",
-      "title": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
-      "url": "https://www.ithome.com/1/006/548.htm",
-      "primary_url": "https://www.ithome.com/1/006/548.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "77de31a6ab00f2b058edd0d97259a505e8003b14",
-          "title": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
-          "title_zh": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
-          "title_en": null,
-          "title_original": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
-          "summary": "OpenAI 在周三公开的法庭文件中称，2024 年与苹果达成协议由 ChatGPT 为 Apple Intelligence 提供支持后，该功能表现远低于预期，上线一个月后起步缓慢，OpenAI 下调了每周活跃用户预测。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/006/548.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T01:12:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "77de31a6ab00f2b058edd0d97259a505e8003b14",
-          "title": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
-          "title_zh": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
-          "title_en": null,
-          "title_original": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
-          "summary": "OpenAI 在周三公开的法庭文件中称，2024 年与苹果达成协议由 ChatGPT 为 Apple Intelligence 提供支持后，该功能表现远低于预期，上线一个月后起步缓慢，OpenAI 下调了每周活跃用户预测。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/006/548.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T01:12:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8808,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T01:12:13Z",
-      "latest_at": "2026-09-24T01:12:13Z",
-      "primary_item": {
-        "id": "77de31a6ab00f2b058edd0d97259a505e8003b14",
-        "title": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
-        "title_zh": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
-        "title_en": null,
-        "title_original": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
-        "summary": "OpenAI 在周三公开的法庭文件中称，2024 年与苹果达成协议由 ChatGPT 为 Apple Intelligence 提供支持后，该功能表现远低于预期，上线一个月后起步缓慢，OpenAI 下调了每周活跃用户预测。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/006/548.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:00:26.236174Z"
+        "scored_at": "2026-09-24T15:28:02.545712Z"
       }
     }
   ]
