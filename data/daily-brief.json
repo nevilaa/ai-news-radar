@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T00:44:39.918232Z",
+  "generated_at": "2026-09-28T00:46:24.613590Z",
   "window_hours": 24,
   "total_items": 8,
   "items": [
@@ -172,7 +172,7 @@
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8019,
+        "recency": 0.8015,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -199,7 +199,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T00:45:19.410262Z"
+        "scored_at": "2026-09-28T00:47:05.410813Z"
       }
     },
     {
@@ -255,7 +255,7 @@
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7584,
+        "recency": 0.7581,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -280,7 +280,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T00:45:19.410262Z"
+        "scored_at": "2026-09-28T00:47:05.410813Z"
       }
     },
     {
@@ -394,7 +394,7 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9869,
+        "recency": 0.9865,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -419,7 +419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T00:45:19.410262Z"
+        "scored_at": "2026-09-28T00:47:05.410813Z"
       }
     },
     {
@@ -533,7 +533,7 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9191,
+        "recency": 0.9187,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -558,7 +558,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T00:45:19.410262Z"
+        "scored_at": "2026-09-28T00:47:05.410813Z"
       }
     },
     {
@@ -584,7 +584,7 @@
           "published_at": "2026-09-27T17:51:03.203000Z"
         },
         {
-          "id": "cc86428ad0497d69ff7e76de416387724bbc5a3c",
+          "id": "c49a7536c1acdbcb353926e7100029e7762e7e49",
           "title": "不存在“失控”的人工智能代理 / There are no \"rogue\" AI agents",
           "title_zh": "不存在“失控”的人工智能代理",
           "title_en": "There are no \"rogue\" AI agents",
@@ -592,9 +592,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-27T16:19:46Z"
         },
         {
@@ -614,7 +614,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "eoinhiggins.substack.com",
         "hackernews"
       ],
@@ -634,7 +634,7 @@
           "published_at": "2026-09-27T17:51:03.203000Z"
         },
         {
-          "id": "cc86428ad0497d69ff7e76de416387724bbc5a3c",
+          "id": "c49a7536c1acdbcb353926e7100029e7762e7e49",
           "title": "不存在“失控”的人工智能代理 / There are no \"rogue\" AI agents",
           "title_zh": "不存在“失控”的人工智能代理",
           "title_en": "There are no \"rogue\" AI agents",
@@ -642,9 +642,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-27T16:19:46Z"
         },
         {
@@ -672,7 +672,7 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9052,
+        "recency": 0.9049,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -697,7 +697,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T00:45:19.410262Z"
+        "scored_at": "2026-09-28T00:47:05.410813Z"
       }
     },
     {
@@ -803,15 +803,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5527,
-      "importance": 0.5527,
-      "importance_score": 0.5527,
+      "score": 0.5526,
+      "importance": 0.5526,
+      "importance_score": 0.5526,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8994,
+        "recency": 0.8991,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -836,7 +836,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T00:45:19.410262Z"
+        "scored_at": "2026-09-28T00:47:05.410813Z"
       }
     },
     {
@@ -913,15 +913,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9815,
+        "recency": 0.9811,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -946,7 +946,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T00:45:19.410262Z"
+        "scored_at": "2026-09-28T00:47:05.410813Z"
       }
     },
     {
@@ -954,11 +954,11 @@
       "title": "Show HN：TinyAIArena 观看 AI 代理决一胜负 / Show HN: TinyAIArena watch AI agents battle it out",
       "url": "https://tinyaiarena.com",
       "primary_url": "https://tinyaiarena.com",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "29a60522b5d2743a442e68e75d21dd450590ae63",
+          "id": "08dfd2e653357ccfe236eb835972ccf03bd41f55",
           "title": "Show HN：TinyAIArena 观看 AI 代理决一胜负 / Show HN: TinyAIArena watch AI agents battle it out",
           "title_zh": "Show HN：TinyAIArena 观看 AI 代理决一胜负",
           "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
@@ -966,9 +966,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://tinyaiarena.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-27T15:51:28Z"
         },
         {
@@ -988,12 +988,12 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "29a60522b5d2743a442e68e75d21dd450590ae63",
+          "id": "08dfd2e653357ccfe236eb835972ccf03bd41f55",
           "title": "Show HN：TinyAIArena 观看 AI 代理决一胜负 / Show HN: TinyAIArena watch AI agents battle it out",
           "title_zh": "Show HN：TinyAIArena 观看 AI 代理决一胜负",
           "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
@@ -1001,9 +1001,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://tinyaiarena.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-27T15:51:28Z"
         },
         {
@@ -1031,7 +1031,7 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8796,
+        "recency": 0.8792,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1041,7 +1041,7 @@
       "earliest_at": "2026-09-27T15:51:28Z",
       "latest_at": "2026-09-27T15:51:28Z",
       "primary_item": {
-        "id": "29a60522b5d2743a442e68e75d21dd450590ae63",
+        "id": "08dfd2e653357ccfe236eb835972ccf03bd41f55",
         "title": "Show HN：TinyAIArena 观看 AI 代理决一胜负 / Show HN: TinyAIArena watch AI agents battle it out",
         "title_zh": "Show HN：TinyAIArena 观看 AI 代理决一胜负",
         "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
@@ -1049,14 +1049,14 @@
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://tinyaiarena.com",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T00:45:19.410262Z"
+        "scored_at": "2026-09-28T00:47:05.410813Z"
       }
     }
   ]
