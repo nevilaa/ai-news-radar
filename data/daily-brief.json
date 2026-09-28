@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T22:09:39.666530Z",
+  "generated_at": "2026-09-28T00:44:39.918232Z",
   "window_hours": 24,
   "total_items": 8,
   "items": [
@@ -164,15 +164,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8524,
-      "importance": 0.8524,
-      "importance_score": 0.8524,
+      "score": 0.8469,
+      "importance": 0.8469,
+      "importance_score": 0.8469,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8324,
+        "recency": 0.8019,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -199,89 +199,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T22:10:22.488454Z"
-      }
-    },
-    {
-      "story_id": "story_29d461ab8b07",
-      "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-      "url": "https://www.ithome.com/1/007/447.htm",
-      "primary_url": "https://www.ithome.com/1/007/447.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
-          "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-          "title_zh": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-          "title_en": null,
-          "title_original": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-          "summary": "据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/007/447.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T23:12:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
-          "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-          "title_zh": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-          "title_en": null,
-          "title_original": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-          "summary": "据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/007/447.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T23:12:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7179,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-26T23:12:53Z",
-      "latest_at": "2026-09-26T23:12:53Z",
-      "primary_item": {
-        "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
-        "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-        "title_zh": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-        "title_en": null,
-        "title_original": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-        "summary": "据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/007/447.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-27T22:10:22.488454Z"
+        "scored_at": "2026-09-28T00:45:19.410262Z"
       }
     },
     {
@@ -329,15 +247,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7872,
+        "recency": 0.7584,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -362,7 +280,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T22:10:22.488454Z"
+        "scored_at": "2026-09-28T00:45:19.410262Z"
+      }
+    },
+    {
+      "story_id": "story_47a080855edb",
+      "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "primary_url": "https://arxiv.org/abs/2609.25021",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9bb747ea93d2d2f1c2bd956586b6a8f10227068a",
+          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+          "title_zh": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+          "title_en": null,
+          "title_original": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2609.25021",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T23:49:58.724000Z"
+        },
+        {
+          "id": "c855af49750f129fc2d526ad58a2b2da90ac1157",
+          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_zh": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+          "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2609.25021",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T10:26:25Z"
+        },
+        {
+          "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
+          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_zh": "“作为语言模型”：聊天模板切换 LLM 自指语音",
+          "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49865343",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T10:26:25Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "arxiv.org",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9bb747ea93d2d2f1c2bd956586b6a8f10227068a",
+          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+          "title_zh": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+          "title_en": null,
+          "title_original": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2609.25021",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T23:49:58.724000Z"
+        },
+        {
+          "id": "c855af49750f129fc2d526ad58a2b2da90ac1157",
+          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_zh": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+          "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2609.25021",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T10:26:25Z"
+        },
+        {
+          "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
+          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_zh": "“作为语言模型”：聊天模板切换 LLM 自指语音",
+          "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49865343",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T10:26:25Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5684,
+      "importance": 0.5684,
+      "importance_score": 0.5684,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9869,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T10:26:25Z",
+      "latest_at": "2026-09-27T23:49:58.724000Z",
+      "primary_item": {
+        "id": "9bb747ea93d2d2f1c2bd956586b6a8f10227068a",
+        "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+        "title_zh": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+        "title_en": null,
+        "title_original": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://arxiv.org/abs/2609.25021",
+        "source": "arxiv.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T00:45:19.410262Z"
       }
     },
     {
@@ -468,15 +525,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5625,
-      "importance": 0.5625,
-      "importance_score": 0.5625,
+      "score": 0.5562,
+      "importance": 0.5562,
+      "importance_score": 0.5562,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.954,
+        "recency": 0.9191,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -501,7 +558,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T22:10:22.488454Z"
+        "scored_at": "2026-09-28T00:45:19.410262Z"
       }
     },
     {
@@ -607,15 +664,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5599,
-      "importance": 0.5599,
-      "importance_score": 0.5599,
+      "score": 0.5537,
+      "importance": 0.5537,
+      "importance_score": 0.5537,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9397,
+        "recency": 0.9052,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -640,7 +697,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T22:10:22.488454Z"
+        "scored_at": "2026-09-28T00:45:19.410262Z"
       }
     },
     {
@@ -746,15 +803,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5589,
-      "importance": 0.5589,
-      "importance_score": 0.5589,
+      "score": 0.5527,
+      "importance": 0.5527,
+      "importance_score": 0.5527,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9336,
+        "recency": 0.8994,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -779,7 +836,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T22:10:22.488454Z"
+        "scored_at": "2026-09-28T00:45:19.410262Z"
+      }
+    },
+    {
+      "story_id": "story_174c796aa75a",
+      "title": "日立公司将把美国中小型电力变压器的产量提高一倍 / Hitachi to double US production of small and medium-sized power transformers",
+      "url": "https://www.utilitydive.com/news/hitachi-to-double-us-production-of-small-and-medium-sized-power-transformer/830762",
+      "primary_url": "https://www.utilitydive.com/news/hitachi-to-double-us-production-of-small-and-medium-sized-power-transformer/830762",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "392278706ec36e7b19af167406ad0d27b3e367c5",
+          "title": "日立公司将把美国中小型电力变压器的产量提高一倍 / Hitachi to double US production of small and medium-sized power transformers",
+          "title_zh": "日立公司将把美国中小型电力变压器的产量提高一倍",
+          "title_en": "Hitachi to double US production of small and medium-sized power transformers",
+          "title_original": "Hitachi to double US production of small and medium-sized power transformers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.utilitydive.com/news/hitachi-to-double-us-production-of-small-and-medium-sized-power-transformer/830762",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T23:27:10Z"
+        },
+        {
+          "id": "62af3454f3a7a7a50274621daa9c962f58a05b75",
+          "title": "日立公司将把美国中小型电力变压器的产量提高一倍 / Hitachi to double US production of small and medium-sized power transformers",
+          "title_zh": "日立公司将把美国中小型电力变压器的产量提高一倍",
+          "title_en": "Hitachi to double US production of small and medium-sized power transformers",
+          "title_original": "Hitachi to double US production of small and medium-sized power transformers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49871852",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T23:27:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "392278706ec36e7b19af167406ad0d27b3e367c5",
+          "title": "日立公司将把美国中小型电力变压器的产量提高一倍 / Hitachi to double US production of small and medium-sized power transformers",
+          "title_zh": "日立公司将把美国中小型电力变压器的产量提高一倍",
+          "title_en": "Hitachi to double US production of small and medium-sized power transformers",
+          "title_original": "Hitachi to double US production of small and medium-sized power transformers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.utilitydive.com/news/hitachi-to-double-us-production-of-small-and-medium-sized-power-transformer/830762",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T23:27:10Z"
+        },
+        {
+          "id": "62af3454f3a7a7a50274621daa9c962f58a05b75",
+          "title": "日立公司将把美国中小型电力变压器的产量提高一倍 / Hitachi to double US production of small and medium-sized power transformers",
+          "title_zh": "日立公司将把美国中小型电力变压器的产量提高一倍",
+          "title_en": "Hitachi to double US production of small and medium-sized power transformers",
+          "title_original": "Hitachi to double US production of small and medium-sized power transformers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49871852",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T23:27:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5425,
+      "importance": 0.5425,
+      "importance_score": 0.5425,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9815,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T23:27:10Z",
+      "latest_at": "2026-09-27T23:27:10Z",
+      "primary_item": {
+        "id": "392278706ec36e7b19af167406ad0d27b3e367c5",
+        "title": "日立公司将把美国中小型电力变压器的产量提高一倍 / Hitachi to double US production of small and medium-sized power transformers",
+        "title_zh": "日立公司将把美国中小型电力变压器的产量提高一倍",
+        "title_en": "Hitachi to double US production of small and medium-sized power transformers",
+        "title_original": "Hitachi to double US production of small and medium-sized power transformers",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.utilitydive.com/news/hitachi-to-double-us-production-of-small-and-medium-sized-power-transformer/830762",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T00:45:19.410262Z"
       }
     },
     {
@@ -856,15 +1023,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5301,
-      "importance": 0.5301,
-      "importance_score": 0.5301,
+      "score": 0.5241,
+      "importance": 0.5241,
+      "importance_score": 0.5241,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.913,
+        "recency": 0.8796,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -889,117 +1056,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T22:10:22.488454Z"
-      }
-    },
-    {
-      "story_id": "story_47a080855edb",
-      "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "url": "https://arxiv.org/abs/2609.25021",
-      "primary_url": "https://arxiv.org/abs/2609.25021",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "c855af49750f129fc2d526ad58a2b2da90ac1157",
-          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_zh": "“作为语言模型”：聊天模板切换 LLM 自指语音",
-          "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2609.25021",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T10:26:25Z"
-        },
-        {
-          "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
-          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_zh": "“作为语言模型”：聊天模板切换 LLM 自指语音",
-          "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49865343",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T10:26:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c855af49750f129fc2d526ad58a2b2da90ac1157",
-          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_zh": "“作为语言模型”：聊天模板切换 LLM 自指语音",
-          "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2609.25021",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T10:26:25Z"
-        },
-        {
-          "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
-          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_zh": "“作为语言模型”：聊天模板切换 LLM 自指语音",
-          "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49865343",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T10:26:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5178,
-      "importance": 0.5178,
-      "importance_score": 0.5178,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8443,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T10:26:25Z",
-      "latest_at": "2026-09-27T10:26:25Z",
-      "primary_item": {
-        "id": "c855af49750f129fc2d526ad58a2b2da90ac1157",
-        "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-        "title_zh": "“作为语言模型”：聊天模板切换 LLM 自指语音",
-        "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-        "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2609.25021",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-27T22:10:22.488454Z"
+        "scored_at": "2026-09-28T00:45:19.410262Z"
       }
     }
   ]
