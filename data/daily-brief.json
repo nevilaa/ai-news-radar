@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T23:49:23.358896Z",
+  "generated_at": "2026-10-01T05:52:49.551684Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8424,
-      "importance": 0.8424,
-      "importance_score": 0.8424,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9467,
+        "recency": 0.8674,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T00:24:10.458329Z"
+        "scored_at": "2026-10-01T06:23:05.755016Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8369,
-      "importance": 0.8369,
-      "importance_score": 0.8369,
+      "score": 0.8225,
+      "importance": 0.8225,
+      "importance_score": 0.8225,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9608,
+        "recency": 0.8803,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T00:24:10.458329Z"
+        "scored_at": "2026-10-01T06:23:05.755016Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8205,
-      "importance": 0.8205,
-      "importance_score": 0.8205,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.825,
+        "recency": 0.7559,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,173 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T00:24:10.458329Z"
-      }
-    },
-    {
-      "story_id": "story_855109885f33",
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "primary_url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c92416b1b251e5aeb2c23e7eb40323e252dadb9f",
-          "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "title_zh": null,
-          "title_en": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "title_original": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/open-tts-leaderboard",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "c92416b1b251e5aeb2c23e7eb40323e252dadb9f",
-          "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "title_zh": null,
-          "title_en": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "title_original": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/open-tts-leaderboard",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7089,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T00:00:00Z",
-      "latest_at": "2026-09-30T00:00:00Z",
-      "primary_item": {
-        "id": "c92416b1b251e5aeb2c23e7eb40323e252dadb9f",
-        "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-        "title_zh": null,
-        "title_en": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-        "title_original": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/open-tts-leaderboard",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T00:24:10.458329Z"
-      }
-    },
-    {
-      "story_id": "story_12a31845b5f7",
-      "title": "Codex CLI 0.159.3",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "852f4096c86ed9ffd9cba7af96c2975b1eb4382a",
-          "title": "Codex CLI 0.159.3",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.159.3",
-          "title_original": "Codex CLI 0.159.3",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "852f4096c86ed9ffd9cba7af96c2975b1eb4382a",
-          "title": "Codex CLI 0.159.3",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.159.3",
-          "title_original": "Codex CLI 0.159.3",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7089,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T00:00:00Z",
-      "latest_at": "2026-09-30T00:00:00Z",
-      "primary_item": {
-        "id": "852f4096c86ed9ffd9cba7af96c2975b1eb4382a",
-        "title": "Codex CLI 0.159.3",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.159.3",
-        "title_original": "Codex CLI 0.159.3",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T00:24:10.458329Z"
+        "scored_at": "2026-10-01T06:23:05.755016Z"
       }
     },
     {
@@ -463,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8743,
+        "recency": 0.8011,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T00:24:10.458329Z"
+        "scored_at": "2026-10-01T06:23:05.755016Z"
       }
     },
     {
@@ -546,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
+      "score": 0.8093,
+      "importance": 0.8093,
+      "importance_score": 0.8093,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.881,
+        "recency": 0.8072,
         "story_heat": 0.0
       },
       "category": "official",
@@ -581,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T00:24:10.458329Z"
+        "scored_at": "2026-10-01T06:23:05.755016Z"
       }
     },
     {
@@ -629,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8194,
-      "importance": 0.8194,
-      "importance_score": 0.8194,
+      "score": 0.8071,
+      "importance": 0.8071,
+      "importance_score": 0.8071,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.819,
+        "recency": 0.7504,
         "story_heat": 0.0
       },
       "category": "official",
@@ -664,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T00:24:10.458329Z"
+        "scored_at": "2026-10-01T06:23:05.755016Z"
       }
     },
     {
@@ -712,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7829,
-      "importance": 0.7829,
-      "importance_score": 0.7829,
+      "score": 0.7683,
+      "importance": 0.7683,
+      "importance_score": 0.7683,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9683,
+        "recency": 0.8872,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -746,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T00:24:10.458329Z"
+        "scored_at": "2026-10-01T06:23:05.755016Z"
       }
     },
     {
@@ -794,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.7673,
+      "importance": 0.7673,
+      "importance_score": 0.7673,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9622,
+        "recency": 0.8816,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -828,7 +662,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T00:24:10.458329Z"
+        "scored_at": "2026-10-01T06:23:05.755016Z"
       }
     },
     {
@@ -876,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "score": 0.7656,
+      "importance": 0.7656,
+      "importance_score": 0.7656,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8975,
+        "recency": 0.8223,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -910,7 +744,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T00:24:10.458329Z"
+        "scored_at": "2026-10-01T06:23:05.755016Z"
       }
     },
     {
@@ -958,15 +792,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.776,
-      "importance": 0.776,
-      "importance_score": 0.776,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9298,
+        "recency": 0.8519,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -992,7 +826,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T00:24:10.458329Z"
+        "scored_at": "2026-10-01T06:23:05.755016Z"
       }
     },
     {
@@ -1040,15 +874,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8267,
-      "importance": 0.8267,
-      "importance_score": 0.8267,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9036,
+        "recency": 0.828,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1075,63 +909,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T00:24:10.458329Z"
+        "scored_at": "2026-10-01T06:23:05.755016Z"
       }
     },
     {
-      "story_id": "story_f4351a60220c",
-      "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-      "url": "https://www.ithome.com/1/008/592.htm",
-      "primary_url": "https://www.ithome.com/1/008/592.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_b3f4baa4cfb3",
+      "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+      "url": "https://x.com/thsottiaux/status/2105519215092584786",
+      "primary_url": "https://x.com/thsottiaux/status/2105519215092584786",
+      "source": "X：Tibo (@thsottiaux)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6637be9e422b35701ff8ab7b2883c8bf52904838",
-          "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-          "title_zh": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-          "title_en": null,
-          "title_original": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-          "summary": "《纽约时报》报道称，OpenAI 两名员工在模型脱离管控数月前已邮件警告高层测试阶段监控不足，但被告知须按期推进发布，公司未增设安全流程。",
+          "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
+          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+          "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
+          "title_en": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+          "title_original": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+          "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/008/592.htm",
-          "source": "IT之家（RSS）",
+          "url": "https://x.com/thsottiaux/status/2105519215092584786",
+          "source": "X：Tibo (@thsottiaux)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-30T01:48:21Z"
+          "published_at": "2026-10-01T04:44:34Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "X：Tibo (@thsottiaux)"
       ],
       "items": [
         {
-          "id": "6637be9e422b35701ff8ab7b2883c8bf52904838",
-          "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-          "title_zh": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-          "title_en": null,
-          "title_original": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-          "summary": "《纽约时报》报道称，OpenAI 两名员工在模型脱离管控数月前已邮件警告高层测试阶段监控不足，但被告知须按期推进发布，公司未增设安全流程。",
+          "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
+          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+          "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
+          "title_en": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+          "title_original": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+          "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/008/592.htm",
-          "source": "IT之家（RSS）",
+          "url": "https://x.com/thsottiaux/status/2105519215092584786",
+          "source": "X：Tibo (@thsottiaux)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-30T01:48:21Z"
+          "published_at": "2026-10-01T04:44:34Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.87,
+        "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7276,
+        "recency": 0.9837,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1139,25 +973,106 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T01:48:21Z",
-      "latest_at": "2026-09-30T01:48:21Z",
+      "earliest_at": "2026-10-01T04:44:34Z",
+      "latest_at": "2026-10-01T04:44:34Z",
       "primary_item": {
-        "id": "6637be9e422b35701ff8ab7b2883c8bf52904838",
-        "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-        "title_zh": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-        "title_en": null,
-        "title_original": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-        "summary": "《纽约时报》报道称，OpenAI 两名员工在模型脱离管控数月前已邮件警告高层测试阶段监控不足，但被告知须按期推进发布，公司未增设安全流程。",
+        "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
+        "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+        "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
+        "title_en": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+        "title_original": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+        "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。",
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/008/592.htm",
-        "source": "IT之家（RSS）",
+        "url": "https://x.com/thsottiaux/status/2105519215092584786",
+        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T00:24:10.458329Z"
+        "scored_at": "2026-10-01T06:23:05.755016Z"
+      }
+    },
+    {
+      "story_id": "story_964372c367be",
+      "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing",
+      "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+      "primary_url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
+          "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing",
+          "title_zh": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+          "title_en": "Confidence Thresholds for Model Escalation Routing",
+          "title_original": "Confidence Thresholds for Model Escalation Routing",
+          "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
+          "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing",
+          "title_zh": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+          "title_en": "Confidence Thresholds for Model Escalation Routing",
+          "title_original": "Confidence Thresholds for Model Escalation Routing",
+          "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9186,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-01T00:00:00Z",
+      "latest_at": "2026-10-01T00:00:00Z",
+      "primary_item": {
+        "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
+        "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing",
+        "title_zh": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+        "title_en": "Confidence Thresholds for Model Escalation Routing",
+        "title_original": "Confidence Thresholds for Model Escalation Routing",
+        "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
+        "recommend_reason_zh": null,
+        "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+        "source": "OpenRouter：Announcements（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:23:05.755016Z"
       }
     },
     {
@@ -1205,21 +1120,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
+      "score": 0.74,
+      "importance": 0.74,
+      "importance_score": 0.74,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8515,
+        "recency": 0.7802,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-30T12:41:30Z",
       "latest_at": "2026-09-30T12:41:30Z",
@@ -1239,7 +1153,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T00:24:10.458329Z"
+        "scored_at": "2026-10-01T06:23:05.755016Z"
       }
     },
     {
@@ -1287,21 +1201,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7388,
+      "importance": 0.7388,
+      "importance_score": 0.7388,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.8402,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-30T17:49:23.358896Z",
       "latest_at": "2026-09-30T17:49:23.358896Z",
@@ -1321,169 +1234,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T00:24:10.458329Z"
+        "scored_at": "2026-10-01T06:23:05.755016Z"
       }
     },
     {
-      "story_id": "story_5c171bbabcce",
-      "title": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-      "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
-      "primary_url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_5dd29c996a75",
+      "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30% / GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+      "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "74bf172644458eba8c5f0c60486b2674b46ae594",
-          "title": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-          "title_zh": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-          "title_en": null,
-          "title_original": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-          "summary": "GamersNexus 撰文指出，Micron、Samsung、SK Hynix 等内存厂商正以 3-5 年长期协议（LTA）把 50%-70% 产能分配给最大的 5-16 家客户，试图消除行业原有的周期性低价。",
+          "id": "97da7c92fac8092f1d9d102565daf0b368054f1c",
+          "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30% / GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+          "title_zh": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
+          "title_en": "GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+          "title_original": "GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+          "summary": "Artificial Analysis 数据显示，GPT-6.1 Sol 的 Cost per Task 约 $0.72，比 GPT-6 Sol（$1.05）低约 30%，后者已约为 GPT-5.6 Sol（$1.99）的一半。",
           "recommend_reason_zh": null,
-          "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-30T01:40:59.989000Z"
+          "published_at": "2026-10-01T00:09:22Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "X：Artificial Analysis (@ArtificialAnlys)"
       ],
       "items": [
         {
-          "id": "74bf172644458eba8c5f0c60486b2674b46ae594",
-          "title": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-          "title_zh": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-          "title_en": null,
-          "title_original": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-          "summary": "GamersNexus 撰文指出，Micron、Samsung、SK Hynix 等内存厂商正以 3-5 年长期协议（LTA）把 50%-70% 产能分配给最大的 5-16 家客户，试图消除行业原有的周期性低价。",
+          "id": "97da7c92fac8092f1d9d102565daf0b368054f1c",
+          "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30% / GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+          "title_zh": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
+          "title_en": "GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+          "title_original": "GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+          "summary": "Artificial Analysis 数据显示，GPT-6.1 Sol 的 Cost per Task 约 $0.72，比 GPT-6 Sol（$1.05）低约 30%，后者已约为 GPT-5.6 Sol（$1.99）的一半。",
           "recommend_reason_zh": null,
-          "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-30T01:40:59.989000Z"
+          "published_at": "2026-10-01T00:09:22Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7264,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T01:40:59.989000Z",
-      "latest_at": "2026-09-30T01:40:59.989000Z",
-      "primary_item": {
-        "id": "74bf172644458eba8c5f0c60486b2674b46ae594",
-        "title": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-        "title_zh": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-        "title_en": null,
-        "title_original": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-        "summary": "GamersNexus 撰文指出，Micron、Samsung、SK Hynix 等内存厂商正以 3-5 年长期协议（LTA）把 50%-70% 产能分配给最大的 5-16 家客户，试图消除行业原有的周期性低价。",
-        "recommend_reason_zh": null,
-        "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T00:24:10.458329Z"
-      }
-    },
-    {
-      "story_id": "story_dd1cd653606b",
-      "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-      "url": "https://x.com/AravSrinivas/status/2105369479190601754",
-      "primary_url": "https://x.com/AravSrinivas/status/2105369479190601754",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "febe132a3209dc718e1c77f99658682d4ae7ade8",
-          "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-          "title_zh": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
-          "title_en": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-          "title_original": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-          "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AravSrinivas/status/2105369479190601754",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T18:49:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
-      ],
-      "items": [
-        {
-          "id": "febe132a3209dc718e1c77f99658682d4ae7ade8",
-          "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-          "title_zh": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
-          "title_en": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-          "title_original": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-          "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AravSrinivas/status/2105369479190601754",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T18:49:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.9207,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-30T18:49:34Z",
-      "latest_at": "2026-09-30T18:49:34Z",
+      "earliest_at": "2026-10-01T00:09:22Z",
+      "latest_at": "2026-10-01T00:09:22Z",
       "primary_item": {
-        "id": "febe132a3209dc718e1c77f99658682d4ae7ade8",
-        "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-        "title_zh": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
-        "title_en": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-        "title_original": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-        "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
+        "id": "97da7c92fac8092f1d9d102565daf0b368054f1c",
+        "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30% / GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+        "title_zh": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
+        "title_en": "GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+        "title_original": "GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+        "summary": "Artificial Analysis 数据显示，GPT-6.1 Sol 的 Cost per Task 约 $0.72，比 GPT-6 Sol（$1.05）低约 30%，后者已约为 GPT-5.6 Sol（$1.99）的一半。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/AravSrinivas/status/2105369479190601754",
-        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+        "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T00:24:10.458329Z"
+        "scored_at": "2026-10-01T06:23:05.755016Z"
       }
     },
     {
@@ -1531,15 +1363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
+      "score": 0.723,
+      "importance": 0.723,
+      "importance_score": 0.723,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9117,
+        "recency": 0.8354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1564,7 +1396,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T00:24:10.458329Z"
+        "scored_at": "2026-10-01T06:23:05.755016Z"
+      }
+    },
+    {
+      "story_id": "story_dd1cd653606b",
+      "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+      "url": "https://x.com/AravSrinivas/status/2105369479190601754",
+      "primary_url": "https://x.com/AravSrinivas/status/2105369479190601754",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "febe132a3209dc718e1c77f99658682d4ae7ade8",
+          "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+          "title_zh": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
+          "title_en": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+          "title_original": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+          "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AravSrinivas/status/2105369479190601754",
+          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T18:49:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
+      ],
+      "items": [
+        {
+          "id": "febe132a3209dc718e1c77f99658682d4ae7ade8",
+          "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+          "title_zh": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
+          "title_en": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+          "title_original": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+          "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AravSrinivas/status/2105369479190601754",
+          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T18:49:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.723,
+      "importance": 0.723,
+      "importance_score": 0.723,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8525,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-30T18:49:34Z",
+      "latest_at": "2026-09-30T18:49:34Z",
+      "primary_item": {
+        "id": "febe132a3209dc718e1c77f99658682d4ae7ade8",
+        "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+        "title_zh": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
+        "title_en": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+        "title_original": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+        "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/AravSrinivas/status/2105369479190601754",
+        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:23:05.755016Z"
       }
     },
     {
@@ -1612,15 +1525,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8061,
+      "importance": 0.8061,
+      "importance_score": 0.8061,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8616,
+        "recency": 0.7894,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1647,7 +1560,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T00:24:10.458329Z"
+        "scored_at": "2026-10-01T06:23:05.755016Z"
+      }
+    },
+    {
+      "story_id": "story_0c0b9c719450",
+      "title": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
+      "url": "https://www.aibase.com/news/31444",
+      "primary_url": "https://www.aibase.com/news/31444",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2fe003d5b727e708ae7324358cc8ab2444e60ef1",
+          "title": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
+          "title_zh": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
+          "title_en": null,
+          "title_original": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31444",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T17:49:23.358896Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2fe003d5b727e708ae7324358cc8ab2444e60ef1",
+          "title": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
+          "title_zh": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
+          "title_en": null,
+          "title_original": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31444",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T17:49:23.358896Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7388,
+      "importance": 0.7388,
+      "importance_score": 0.7388,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8402,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-30T17:49:23.358896Z",
+      "latest_at": "2026-09-30T17:49:23.358896Z",
+      "primary_item": {
+        "id": "2fe003d5b727e708ae7324358cc8ab2444e60ef1",
+        "title": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
+        "title_zh": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
+        "title_en": null,
+        "title_original": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31444",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:23:05.755016Z"
       }
     }
   ]
