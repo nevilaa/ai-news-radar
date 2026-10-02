@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T08:33:43.700027Z",
+  "generated_at": "2026-10-02T08:36:07.531163Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8486,
-      "importance": 0.8486,
-      "importance_score": 0.8486,
+      "score": 0.8485,
+      "importance": 0.8485,
+      "importance_score": 0.8485,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9366,
+        "recency": 0.936,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T08:34:30.928381Z"
+        "scored_at": "2026-10-02T08:36:52.267203Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8204,
-      "importance": 0.8204,
-      "importance_score": 0.8204,
+      "score": 0.8203,
+      "importance": 0.8203,
+      "importance_score": 0.8203,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8244,
+        "recency": 0.8239,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T08:34:30.928381Z"
+        "scored_at": "2026-10-02T08:36:52.267203Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8158,
-      "importance": 0.8158,
-      "importance_score": 0.8158,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7987,
+        "recency": 0.7983,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T08:34:30.928381Z"
+        "scored_at": "2026-10-02T08:36:52.267203Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.824,
+        "recency": 0.8235,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T08:34:30.928381Z"
+        "scored_at": "2026-10-02T08:36:52.267203Z"
       }
     },
     {
@@ -388,7 +388,7 @@
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7763,
+        "recency": 0.7759,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T08:34:30.928381Z"
+        "scored_at": "2026-10-02T08:36:52.267203Z"
       }
     },
     {
@@ -463,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7873,
+        "recency": 0.7868,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T08:34:30.928381Z"
+        "scored_at": "2026-10-02T08:36:52.267203Z"
       }
     },
     {
@@ -546,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.7765,
+      "importance": 0.7765,
+      "importance_score": 0.7765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9832,
+        "recency": 0.9826,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -580,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T08:34:30.928381Z"
+        "scored_at": "2026-10-02T08:36:52.267203Z"
       }
     },
     {
@@ -636,7 +636,7 @@
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8119,
+        "recency": 0.8115,
         "story_heat": 0.0
       },
       "category": "official",
@@ -662,7 +662,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T08:34:30.928381Z"
+        "scored_at": "2026-10-02T08:36:52.267203Z"
       }
     },
     {
@@ -710,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.885,
+        "recency": 0.8845,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -744,7 +744,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T08:34:30.928381Z"
+        "scored_at": "2026-10-02T08:36:52.267203Z"
       }
     },
     {
@@ -800,7 +800,7 @@
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.793,
+        "recency": 0.7926,
         "story_heat": 0.0
       },
       "category": "official",
@@ -827,7 +827,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T08:34:30.928381Z"
+        "scored_at": "2026-10-02T08:36:52.267203Z"
       }
     },
     {
@@ -875,15 +875,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8874,
+        "recency": 0.8868,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -909,7 +909,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T08:34:30.928381Z"
+        "scored_at": "2026-10-02T08:36:52.267203Z"
       }
     },
     {
@@ -957,15 +957,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.7723,
+      "importance": 0.7723,
+      "importance_score": 0.7723,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8932,
+        "recency": 0.8927,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -991,7 +991,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T08:34:30.928381Z"
+        "scored_at": "2026-10-02T08:36:52.267203Z"
       }
     },
     {
@@ -1039,15 +1039,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8417,
+        "recency": 0.8412,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1072,7 +1072,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T08:34:30.928381Z"
+        "scored_at": "2026-10-02T08:36:52.267203Z"
       }
     },
     {
@@ -1120,15 +1120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8803,
+        "recency": 0.8798,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1153,7 +1153,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T08:34:30.928381Z"
+        "scored_at": "2026-10-02T08:36:52.267203Z"
       }
     },
     {
@@ -1209,7 +1209,7 @@
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7441,
+        "recency": 0.7437,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1234,7 +1234,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T08:34:30.928381Z"
+        "scored_at": "2026-10-02T08:36:52.267203Z"
       }
     },
     {
@@ -1282,15 +1282,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8412,
+        "recency": 0.8407,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1315,7 +1315,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T08:34:30.928381Z"
+        "scored_at": "2026-10-02T08:36:52.267203Z"
       }
     },
     {
@@ -1363,15 +1363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8501,
+        "recency": 0.8496,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1396,7 +1396,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T08:34:30.928381Z"
+        "scored_at": "2026-10-02T08:36:52.267203Z"
       }
     },
     {
@@ -1444,15 +1444,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.797,
+        "recency": 0.7966,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1477,30 +1477,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T08:34:30.928381Z"
+        "scored_at": "2026-10-02T08:36:52.267203Z"
       }
     },
     {
-      "story_id": "story_2b054efbb49a",
-      "title": "私人漏洞报告的速率限制 / Rate limits for private vulnerability reports",
-      "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
-      "primary_url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+      "story_id": "story_025446a84602",
+      "title": "私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports",
+      "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+      "primary_url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
-          "title": "私人漏洞报告的速率限制 / Rate limits for private vulnerability reports",
-          "title_zh": "私人漏洞报告的速率限制",
-          "title_en": "Rate limits for private vulnerability reports",
-          "title_original": "Rate limits for private vulnerability reports",
+          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+          "title": "私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports",
+          "title_zh": "私人漏洞报告的结构化表格",
+          "title_en": "Structured forms for private vulnerability reports",
+          "title_original": "Structured forms for private vulnerability reports",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:57:39Z"
+          "published_at": "2026-10-01T19:57:28Z"
         }
       ],
       "source_count": 1,
@@ -1509,31 +1509,31 @@
       ],
       "items": [
         {
-          "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
-          "title": "私人漏洞报告的速率限制 / Rate limits for private vulnerability reports",
-          "title_zh": "私人漏洞报告的速率限制",
-          "title_en": "Rate limits for private vulnerability reports",
-          "title_original": "Rate limits for private vulnerability reports",
+          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+          "title": "私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports",
+          "title_zh": "私人漏洞报告的结构化表格",
+          "title_en": "Structured forms for private vulnerability reports",
+          "title_original": "Structured forms for private vulnerability reports",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:57:39Z"
+          "published_at": "2026-10-01T19:57:28Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
+      "score": 0.814,
+      "importance": 0.814,
+      "importance_score": 0.814,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8336,
+        "recency": 0.8331,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1542,17 +1542,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T19:57:39Z",
-      "latest_at": "2026-10-01T19:57:39Z",
+      "earliest_at": "2026-10-01T19:57:28Z",
+      "latest_at": "2026-10-01T19:57:28Z",
       "primary_item": {
-        "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
-        "title": "私人漏洞报告的速率限制 / Rate limits for private vulnerability reports",
-        "title_zh": "私人漏洞报告的速率限制",
-        "title_en": "Rate limits for private vulnerability reports",
-        "title_original": "Rate limits for private vulnerability reports",
+        "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+        "title": "私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports",
+        "title_zh": "私人漏洞报告的结构化表格",
+        "title_en": "Structured forms for private vulnerability reports",
+        "title_original": "Structured forms for private vulnerability reports",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+        "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1560,7 +1560,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T08:34:30.928381Z"
+        "scored_at": "2026-10-02T08:36:52.267203Z"
       }
     },
     {
@@ -1608,15 +1608,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
+      "score": 0.7223,
+      "importance": 0.7223,
+      "importance_score": 0.7223,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.799,
+        "recency": 0.7986,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1641,7 +1641,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T08:34:30.928381Z"
+        "scored_at": "2026-10-02T08:36:52.267203Z"
       }
     }
   ]
