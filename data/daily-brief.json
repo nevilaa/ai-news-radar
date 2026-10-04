@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T09:45:50.131615Z",
+  "generated_at": "2026-10-04T09:47:04.317643Z",
   "window_hours": 24,
   "total_items": 11,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.834,
-      "importance": 0.834,
-      "importance_score": 0.834,
+      "score": 0.8339,
+      "importance": 0.8339,
+      "importance_score": 0.8339,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8554,
+        "recency": 0.8551,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T09:46:34.141700Z"
+        "scored_at": "2026-10-04T09:47:46.466777Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8422,
+        "recency": 0.8419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T09:46:34.141700Z"
+        "scored_at": "2026-10-04T09:47:46.466777Z"
       }
     },
     {
@@ -213,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7882,
+        "recency": 0.7879,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -247,7 +247,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T09:46:34.141700Z"
+        "scored_at": "2026-10-04T09:47:46.466777Z"
       }
     },
     {
@@ -382,15 +382,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5672,
-      "importance": 0.5672,
-      "importance_score": 0.5672,
+      "score": 0.5671,
+      "importance": 0.5671,
+      "importance_score": 0.5671,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8409,
+        "recency": 0.8407,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -415,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T09:46:34.141700Z"
+        "scored_at": "2026-10-04T09:47:46.466777Z"
       }
     },
     {
@@ -441,7 +441,7 @@
           "published_at": "2026-10-04T01:08:53.967000Z"
         },
         {
-          "id": "28d1368ccd3f963f58aec31babcd3d454d6d67d5",
+          "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
           "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
           "title_zh": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
           "title_en": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
@@ -449,9 +449,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-03T22:18:13Z"
         },
         {
@@ -471,7 +471,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.theguardian.com"
       ],
@@ -491,7 +491,7 @@
           "published_at": "2026-10-04T01:08:53.967000Z"
         },
         {
-          "id": "28d1368ccd3f963f58aec31babcd3d454d6d67d5",
+          "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
           "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
           "title_zh": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
           "title_en": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
@@ -499,9 +499,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-03T22:18:13Z"
         },
         {
@@ -529,7 +529,7 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.883,
+        "recency": 0.8828,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -554,7 +554,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T09:46:34.141700Z"
+        "scored_at": "2026-10-04T09:47:46.466777Z"
       }
     },
     {
@@ -580,7 +580,7 @@
           "published_at": "2026-10-03T22:31:58.644000Z"
         },
         {
-          "id": "7270c12f6d002393fc0dbb64f3bd2eb6fd9b9920",
+          "id": "a6ebe19ce64fac6dad1acfb7519ab11a6823e313",
           "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
           "title_zh": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
           "title_en": "Getting the most out of Opus 5.5 in Claude and Claude Code",
@@ -588,9 +588,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-03T18:29:30Z"
         },
         {
@@ -610,7 +610,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "claude.dev",
         "hackernews"
       ],
@@ -630,7 +630,7 @@
           "published_at": "2026-10-03T22:31:58.644000Z"
         },
         {
-          "id": "7270c12f6d002393fc0dbb64f3bd2eb6fd9b9920",
+          "id": "a6ebe19ce64fac6dad1acfb7519ab11a6823e313",
           "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
           "title_zh": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
           "title_en": "Getting the most out of Opus 5.5 in Claude and Claude Code",
@@ -638,9 +638,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-03T18:29:30Z"
         },
         {
@@ -660,15 +660,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
+      "score": 0.5438,
+      "importance": 0.5438,
+      "importance_score": 0.5438,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8503,
+        "recency": 0.85,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -693,7 +693,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T09:46:34.141700Z"
+        "scored_at": "2026-10-04T09:47:46.466777Z"
       }
     },
     {
@@ -770,15 +770,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5414,
-      "importance": 0.5414,
-      "importance_score": 0.5414,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9754,
+        "recency": 0.9752,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -803,7 +803,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T09:46:34.141700Z"
+        "scored_at": "2026-10-04T09:47:46.466777Z"
       }
     },
     {
@@ -917,7 +917,7 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7597,
+        "recency": 0.7595,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -942,7 +942,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T09:46:34.141700Z"
+        "scored_at": "2026-10-04T09:47:46.466777Z"
       }
     },
     {
@@ -1019,15 +1019,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5091,
-      "importance": 0.5091,
-      "importance_score": 0.5091,
+      "score": 0.509,
+      "importance": 0.509,
+      "importance_score": 0.509,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7958,
+        "recency": 0.7956,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1052,7 +1052,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T09:46:34.141700Z"
+        "scored_at": "2026-10-04T09:47:46.466777Z"
       }
     },
     {
@@ -1137,7 +1137,7 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9014,
+        "recency": 0.9011,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1162,7 +1162,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T09:46:34.141700Z"
+        "scored_at": "2026-10-04T09:47:46.466777Z"
       }
     },
     {
@@ -1247,7 +1247,7 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7934,
+        "recency": 0.7932,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1272,7 +1272,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T09:46:34.141700Z"
+        "scored_at": "2026-10-04T09:47:46.466777Z"
       }
     }
   ]
