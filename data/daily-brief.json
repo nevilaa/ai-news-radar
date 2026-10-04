@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T23:08:29.068480Z",
+  "generated_at": "2026-10-04T23:09:41.856618Z",
   "window_hours": 24,
   "total_items": 6,
   "items": [
@@ -114,7 +114,7 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9517,
+        "recency": 0.9514,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -139,7 +139,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T23:09:08.970015Z"
+        "scored_at": "2026-10-04T23:10:19.665318Z"
       }
     },
     {
@@ -245,15 +245,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5462,
-      "importance": 0.5462,
-      "importance_score": 0.5462,
+      "score": 0.5461,
+      "importance": 0.5461,
+      "importance_score": 0.5461,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8632,
+        "recency": 0.8629,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -278,7 +278,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T23:09:08.970015Z"
+        "scored_at": "2026-10-04T23:10:19.665318Z"
       }
     },
     {
@@ -355,15 +355,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.537,
+      "importance": 0.537,
+      "importance_score": 0.537,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9516,
+        "recency": 0.9513,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -388,7 +388,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T23:09:08.970015Z"
+        "scored_at": "2026-10-04T23:10:19.665318Z"
       }
     },
     {
@@ -473,7 +473,7 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8041,
+        "recency": 0.8039,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -498,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T23:09:08.970015Z"
+        "scored_at": "2026-10-04T23:10:19.665318Z"
       }
     },
     {
@@ -583,7 +583,7 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8118,
+        "recency": 0.8115,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -608,7 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T23:09:08.970015Z"
+        "scored_at": "2026-10-04T23:10:19.665318Z"
       }
     },
     {
@@ -616,11 +616,11 @@
       "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
       "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
       "primary_url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
+          "id": "7fdda745d47b3a3603395b623b51468705002d09",
           "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
           "title_zh": "人工智能时代纯数学研究的未来是什么？",
           "title_en": "What's the future for pure math research in the age of AI?",
@@ -628,9 +628,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-04T07:53:45Z"
         },
         {
@@ -650,12 +650,12 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
+          "id": "7fdda745d47b3a3603395b623b51468705002d09",
           "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
           "title_zh": "人工智能时代纯数学研究的未来是什么？",
           "title_en": "What's the future for pure math research in the age of AI?",
@@ -663,9 +663,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-04T07:53:45Z"
         },
         {
@@ -693,7 +693,7 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8024,
+        "recency": 0.8022,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -703,7 +703,7 @@
       "earliest_at": "2026-10-04T07:53:45Z",
       "latest_at": "2026-10-04T07:53:45Z",
       "primary_item": {
-        "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
+        "id": "7fdda745d47b3a3603395b623b51468705002d09",
         "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
         "title_zh": "人工智能时代纯数学研究的未来是什么？",
         "title_en": "What's the future for pure math research in the age of AI?",
@@ -711,14 +711,14 @@
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T23:09:08.970015Z"
+        "scored_at": "2026-10-04T23:10:19.665318Z"
       }
     }
   ]
